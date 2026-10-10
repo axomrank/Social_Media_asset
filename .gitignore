@@ -1,0 +1,12 @@
+# Dependencies & Environments
+node_modules/
+.venv/
+tmp_venv/
+__pycache__/
+*.pyc
+
+# OS & Editor temp
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

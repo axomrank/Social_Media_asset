@@ -1,0 +1,553 @@
+{
+  "count": 90,
+  "mix": {
+    "TOFU": 45,
+    "MOFU": 27,
+    "BOFU": 18
+  },
+  "minWords": 59,
+  "maxWords": 70,
+  "uniqueTitles": 90,
+  "records": [
+    {
+      "id": "AR001",
+      "title": "The actual welcome to AxomRank",
+      "stage": "TOFU",
+      "words": 66
+    },
+    {
+      "id": "AR002",
+      "title": "The three-question diagnostic",
+      "stage": "MOFU",
+      "words": 69
+    },
+    {
+      "id": "AR003",
+      "title": "The first page of preparation",
+      "stage": "TOFU",
+      "words": 66
+    },
+    {
+      "id": "AR004",
+      "title": "Your first real practice route",
+      "stage": "BOFU",
+      "words": 68
+    },
+    {
+      "id": "AR005",
+      "title": "The book opens after work",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR006",
+      "title": "Percentage base clinic",
+      "stage": "MOFU",
+      "words": 64
+    },
+    {
+      "id": "AR007",
+      "title": "The silhouette you recognise",
+      "stage": "TOFU",
+      "words": 68
+    },
+    {
+      "id": "AR008",
+      "title": "Ratio shares need a total",
+      "stage": "MOFU",
+      "words": 63
+    },
+    {
+      "id": "AR009",
+      "title": "What the mock instructions say",
+      "stage": "BOFU",
+      "words": 69
+    },
+    {
+      "id": "AR010",
+      "title": "A saved post meets a blank notebook",
+      "stage": "TOFU",
+      "words": 60
+    },
+    {
+      "id": "AR011",
+      "title": "₹100 becomes ₹96",
+      "stage": "TOFU",
+      "words": 63
+    },
+    {
+      "id": "AR012",
+      "title": "Average means total over count",
+      "stage": "MOFU",
+      "words": 61
+    },
+    {
+      "id": "AR013",
+      "title": "Your desk does not need a makeover",
+      "stage": "TOFU",
+      "words": 66
+    },
+    {
+      "id": "AR014",
+      "title": "See an explanation before choosing",
+      "stage": "BOFU",
+      "words": 65
+    },
+    {
+      "id": "AR015",
+      "title": "Three cups and one change mistake",
+      "stage": "TOFU",
+      "words": 63
+    },
+    {
+      "id": "AR016",
+      "title": "A useful wrong-answer note",
+      "stage": "MOFU",
+      "words": 65
+    },
+    {
+      "id": "AR017",
+      "title": "One seat on the bus",
+      "stage": "TOFU",
+      "words": 63
+    },
+    {
+      "id": "AR018",
+      "title": "Practice question or PYQ",
+      "stage": "MOFU",
+      "words": 62
+    },
+    {
+      "id": "AR019",
+      "title": "Find the topic you just missed",
+      "stage": "BOFU",
+      "words": 66
+    },
+    {
+      "id": "AR020",
+      "title": "The friend asks a better question",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR021",
+      "title": "Half the price twice",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR022",
+      "title": "Reading the word except",
+      "stage": "MOFU",
+      "words": 61
+    },
+    {
+      "id": "AR023",
+      "title": "Two language cards, one method",
+      "stage": "TOFU",
+      "words": 61
+    },
+    {
+      "id": "AR024",
+      "title": "A profile link that lands on a task",
+      "stage": "BOFU",
+      "words": 65
+    },
+    {
+      "id": "AR025",
+      "title": "The rhinoceros question",
+      "stage": "TOFU",
+      "words": 65
+    },
+    {
+      "id": "AR026",
+      "title": "One sentence explains your answer",
+      "stage": "MOFU",
+      "words": 64
+    },
+    {
+      "id": "AR027",
+      "title": "A page opened at midnight",
+      "stage": "TOFU",
+      "words": 67
+    },
+    {
+      "id": "AR028",
+      "title": "Check the source under the GK card",
+      "stage": "MOFU",
+      "words": 67
+    },
+    {
+      "id": "AR029",
+      "title": "Ask one specific access question",
+      "stage": "BOFU",
+      "words": 66
+    },
+    {
+      "id": "AR030",
+      "title": "The answer under the sticky note",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR031",
+      "title": "The rain interrupted the plan",
+      "stage": "TOFU",
+      "words": 69
+    },
+    {
+      "id": "AR032",
+      "title": "Profit percentage denominator",
+      "stage": "MOFU",
+      "words": 67
+    },
+    {
+      "id": "AR033",
+      "title": "Your town on a blank card",
+      "stage": "TOFU",
+      "words": 68
+    },
+    {
+      "id": "AR034",
+      "title": "A mock followed by review",
+      "stage": "BOFU",
+      "words": 67
+    },
+    {
+      "id": "AR035",
+      "title": "The average hides a new student",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR036",
+      "title": "Fractions become equal boxes",
+      "stage": "MOFU",
+      "words": 62
+    },
+    {
+      "id": "AR037",
+      "title": "The study-corner invitation",
+      "stage": "TOFU",
+      "words": 70
+    },
+    {
+      "id": "AR038",
+      "title": "Adding a new score correctly",
+      "stage": "MOFU",
+      "words": 65
+    },
+    {
+      "id": "AR039",
+      "title": "Compare plans by your next task",
+      "stage": "BOFU",
+      "words": 65
+    },
+    {
+      "id": "AR040",
+      "title": "Paper boat, river question",
+      "stage": "TOFU",
+      "words": 70
+    },
+    {
+      "id": "AR041",
+      "title": "The blank answer option",
+      "stage": "TOFU",
+      "words": 63
+    },
+    {
+      "id": "AR042",
+      "title": "The unit conversion margin",
+      "stage": "MOFU",
+      "words": 63
+    },
+    {
+      "id": "AR043",
+      "title": "The family room gets noisy",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR044",
+      "title": "One question before a longer commitment",
+      "stage": "BOFU",
+      "words": 63
+    },
+    {
+      "id": "AR045",
+      "title": "Two students, different free hours",
+      "stage": "TOFU",
+      "words": 68
+    },
+    {
+      "id": "AR046",
+      "title": "Area is not the boundary",
+      "stage": "MOFU",
+      "words": 63
+    },
+    {
+      "id": "AR047",
+      "title": "Four directions, one turn",
+      "stage": "TOFU",
+      "words": 63
+    },
+    {
+      "id": "AR048",
+      "title": "Source cards for two parks",
+      "stage": "MOFU",
+      "words": 70
+    },
+    {
+      "id": "AR049",
+      "title": "Use a planner with a real window",
+      "stage": "BOFU",
+      "words": 66
+    },
+    {
+      "id": "AR050",
+      "title": "An Assamese explanation aloud",
+      "stage": "TOFU",
+      "words": 69
+    },
+    {
+      "id": "AR051",
+      "title": "Ten rupees in the wrong pile",
+      "stage": "TOFU",
+      "words": 67
+    },
+    {
+      "id": "AR052",
+      "title": "A repeat attempt with the answer covered",
+      "stage": "MOFU",
+      "words": 69
+    },
+    {
+      "id": "AR053",
+      "title": "A mistake without a public score",
+      "stage": "TOFU",
+      "words": 66
+    },
+    {
+      "id": "AR054",
+      "title": "Eligibility tool with the source beside it",
+      "stage": "BOFU",
+      "words": 61
+    },
+    {
+      "id": "AR055",
+      "title": "Clap the multiplication check",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR056",
+      "title": "Your explanation becomes the lesson",
+      "stage": "MOFU",
+      "words": 63
+    },
+    {
+      "id": "AR057",
+      "title": "A GK card in a different landscape",
+      "stage": "TOFU",
+      "words": 61
+    },
+    {
+      "id": "AR058",
+      "title": "The option elimination check",
+      "stage": "MOFU",
+      "words": 67
+    },
+    {
+      "id": "AR059",
+      "title": "What Document Vault actually offers",
+      "stage": "BOFU",
+      "words": 66
+    },
+    {
+      "id": "AR060",
+      "title": "Pick the next clinic",
+      "stage": "TOFU",
+      "words": 62
+    },
+    {
+      "id": "AR061",
+      "title": "The calendar square after a gap",
+      "stage": "TOFU",
+      "words": 69
+    },
+    {
+      "id": "AR062",
+      "title": "Speed needs distance and time",
+      "stage": "MOFU",
+      "words": 61
+    },
+    {
+      "id": "AR063",
+      "title": "The decimal point moved",
+      "stage": "TOFU",
+      "words": 67
+    },
+    {
+      "id": "AR064",
+      "title": "Return to a specific next set",
+      "stage": "BOFU",
+      "words": 67
+    },
+    {
+      "id": "AR065",
+      "title": "The timer rang before the review",
+      "stage": "TOFU",
+      "words": 70
+    },
+    {
+      "id": "AR066",
+      "title": "Half an hour is not point five minutes",
+      "stage": "MOFU",
+      "words": 69
+    },
+    {
+      "id": "AR067",
+      "title": "A note to tomorrow’s self",
+      "stage": "TOFU",
+      "words": 65
+    },
+    {
+      "id": "AR068",
+      "title": "Undo the plus seven",
+      "stage": "MOFU",
+      "words": 61
+    },
+    {
+      "id": "AR069",
+      "title": "Inspect a real PYQ record",
+      "stage": "BOFU",
+      "words": 70
+    },
+    {
+      "id": "AR070",
+      "title": "The GK cards got shuffled",
+      "stage": "TOFU",
+      "words": 70
+    },
+    {
+      "id": "AR071",
+      "title": "A quarter hour on the clock",
+      "stage": "TOFU",
+      "words": 69
+    },
+    {
+      "id": "AR072",
+      "title": "One red token in four",
+      "stage": "MOFU",
+      "words": 61
+    },
+    {
+      "id": "AR073",
+      "title": "Someone keeps the room quiet",
+      "stage": "TOFU",
+      "words": 65
+    },
+    {
+      "id": "AR074",
+      "title": "Show the available language route",
+      "stage": "BOFU",
+      "words": 69
+    },
+    {
+      "id": "AR075",
+      "title": "Two scores with the same average",
+      "stage": "TOFU",
+      "words": 69
+    },
+    {
+      "id": "AR076",
+      "title": "Forty out of fifty becomes a percentage",
+      "stage": "MOFU",
+      "words": 68
+    },
+    {
+      "id": "AR077",
+      "title": "The rule card changes",
+      "stage": "TOFU",
+      "words": 68
+    },
+    {
+      "id": "AR078",
+      "title": "The arrow only goes one way",
+      "stage": "MOFU",
+      "words": 65
+    },
+    {
+      "id": "AR079",
+      "title": "Read the checkout details before choosing",
+      "stage": "BOFU",
+      "words": 67
+    },
+    {
+      "id": "AR080",
+      "title": "A local sign becomes a question",
+      "stage": "TOFU",
+      "words": 65
+    },
+    {
+      "id": "AR081",
+      "title": "The notebook margin tells the story",
+      "stage": "TOFU",
+      "words": 66
+    },
+    {
+      "id": "AR082",
+      "title": "One verb agrees with he",
+      "stage": "MOFU",
+      "words": 59
+    },
+    {
+      "id": "AR083",
+      "title": "Guess what is under the rectangle",
+      "stage": "TOFU",
+      "words": 70
+    },
+    {
+      "id": "AR084",
+      "title": "The route when a learner gets stuck",
+      "stage": "BOFU",
+      "words": 61
+    },
+    {
+      "id": "AR085",
+      "title": "The friend explains a correction",
+      "stage": "TOFU",
+      "words": 61
+    },
+    {
+      "id": "AR086",
+      "title": "Publish a correction people can find",
+      "stage": "MOFU",
+      "words": 65
+    },
+    {
+      "id": "AR087",
+      "title": "The creator catches their own typo",
+      "stage": "TOFU",
+      "words": 64
+    },
+    {
+      "id": "AR088",
+      "title": "A mixed set with three different checks",
+      "stage": "MOFU",
+      "words": 62
+    },
+    {
+      "id": "AR089",
+      "title": "Choose tonight’s available practice",
+      "stage": "BOFU",
+      "words": 65
+    },
+    {
+      "id": "AR090",
+      "title": "One new question after the series",
+      "stage": "TOFU",
+      "words": 60
+    }
+  ]
+}

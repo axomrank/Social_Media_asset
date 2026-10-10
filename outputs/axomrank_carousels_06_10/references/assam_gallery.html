@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Assamese Heritage & Legends — AI Art Gallery</title>
+  <meta name="description" content="A curated collection of AI-generated artworks celebrating the royalty, luminaries, folklore, sacred shrines, and timeless architecture of Assam." />
+  
+  <!-- Open Graph / Meta -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Assamese Heritage & Legends — AI Art Gallery" />
+  <meta property="og:description" content="Explore 58 AI-generated artworks highlighting Assam's rich history, folklore, spiritual heritage, and architecture." />
+  <meta property="og:image" content="images/history-and-royalty/sukapha-face-closeup.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪔</text></svg>" />
+</head>
+<body>
+  <!-- Ambient background glow elements -->
+  <div class="ambient-glow glow-1"></div>
+  <div class="ambient-glow glow-2"></div>
+  <div class="ambient-glow glow-3"></div>
+
+  <!-- Header / Navigation -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="brand-icon">🪔</div>
+        <div class="brand-text">
+          <span class="brand-title">Assam AI Archive</span>
+          <span class="brand-tagline">Cultural Heritage Gallery</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <button id="themeToggle" class="btn btn-icon" title="Toggle Dark/Light Mode" aria-label="Toggle theme">
+          <span class="theme-icon sun-icon">☀️</span>
+          <span class="theme-icon moon-icon">🌙</span>
+        </button>
+        <button id="aboutBtn" class="btn btn-outline" title="About this Project">
+          <span>About Archive</span>
+        </button>
+        <a href="https://github.com/Angsumi/assamese-ai-gallery" target="_blank" rel="noopener" class="btn btn-primary github-link">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        <span>58 Curated Visual Artworks • 5 Historical Categories</span>
+      </div>
+      <h1 class="hero-title">Assamese Heritage & Legends</h1>
+      <p class="hero-description">
+        An artistic voyage celebrating the Ahom dynasty, folklore spirits, revered cultural luminaries, sacred Namghars, and iconic indigenous architecture of Assam.
+      </p>
+
+      <!-- Category quick stat pills -->
+      <div class="category-summary-grid" id="categorySummary">
+        <!-- Injected via JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content & Gallery Section -->
+  <main class="main-content">
+    <div class="container">
+      
+      <!-- Filter and Control Bar -->
+      <div class="control-panel">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="Search by name, figure, tag (e.g. Sukapha, Sankardev, Namghar, Ghost)..." aria-label="Search gallery" />
+          <button id="clearSearchBtn" class="clear-btn" title="Clear search" style="display: none;">✕</button>
+        </div>
+
+        <div class="filter-controls">
+          <div class="category-pills" id="categoryFilters" role="tablist">
+            <!-- Injected via JS -->
+          </div>
+
+          <div class="sort-and-view">
+            <div class="select-wrapper">
+              <select id="sortSelect" aria-label="Sort images">
+                <option value="featured">Featured Order</option>
+                <option value="title-asc">Title: A to Z</option>
+                <option value="title-desc">Title: Z to A</option>
+                <option value="category">By Category</option>
+                <option value="random">Shuffle / Random</option>
+              </select>
+            </div>
+
+            <div class="view-toggle" role="group" aria-label="View grid mode">
+              <button class="view-btn active" data-view="grid" title="Standard Grid">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+              </button>
+              <button class="view-btn" data-view="masonry" title="Compact Masonry">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Gallery Meta Bar -->
+      <div class="gallery-meta-bar">
+        <div class="results-count" id="resultsCount">Loading artworks...</div>
+        <div class="active-tags-container" id="activeTagsContainer" style="display: none;">
+          <span class="active-tag-label">Active Filter:</span>
+          <span class="tag-chip active" id="activeTagChip"></span>
+          <button id="clearTagFilter" class="btn-text">Clear</button>
+        </div>
+      </div>
+
+      <!-- Gallery Grid -->
+      <div class="gallery-grid" id="galleryGrid">
+        <!-- Rendered dynamically -->
+      </div>
+
+      <!-- Empty state -->
+      <div class="empty-state" id="emptyState" style="display: none;">
+        <div class="empty-icon">🔎</div>
+        <h3>No artworks found</h3>
+        <p>No results matched your search or filter criteria. Try resetting your query.</p>
+        <button id="resetFiltersBtn" class="btn btn-outline">Reset All Filters</button>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Lightbox Modal -->
+  <div class="lightbox-modal" id="lightboxModal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="lightbox-overlay" id="lightboxOverlay"></div>
+    
+    <div class="lightbox-wrapper">
+      <button class="lightbox-close" id="lightboxClose" title="Close (Esc)" aria-label="Close modal">✕</button>
+
+      <button class="lightbox-nav nav-prev" id="prevBtn" title="Previous Image (Left Arrow)" aria-label="Previous image">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+      </button>
+
+      <button class="lightbox-nav nav-next" id="nextBtn" title="Next Image (Right Arrow)" aria-label="Next image">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </button>
+
+      <div class="lightbox-content">
+        <!-- Media Viewport -->
+        <div class="lightbox-media-container">
+          <div class="image-wrapper" id="imageZoomWrapper">
+            <img id="lightboxImg" src="" alt="" />
+          </div>
+          <div class="lightbox-controls-bar">
+            <span class="slide-indicator" id="slideIndicator">1 / 58</span>
+            <div class="zoom-tools">
+              <button id="zoomOutBtn" class="btn-icon-small" title="Zoom Out (-)">−</button>
+              <button id="zoomResetBtn" class="btn-icon-small" title="Reset Zoom">100%</button>
+              <button id="zoomInBtn" class="btn-icon-small" title="Zoom In (+)">+</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Details Sidebar -->
+        <div class="lightbox-sidebar">
+          <div class="sidebar-header">
+            <span class="category-badge" id="modalCategoryBadge">Category</span>
+            <h2 class="modal-title" id="modalTitle">Artwork Title</h2>
+          </div>
+
+          <div class="sidebar-body">
+            <div class="desc-box">
+              <h4 class="section-heading">Historical & Cultural Context</h4>
+              <p class="modal-description" id="modalDescription">Description goes here.</p>
+            </div>
+
+            <div class="tags-section">
+              <h4 class="section-heading">Related Topics & Tags</h4>
+              <div class="modal-tags" id="modalTags">
+                <!-- Tag chips -->
+              </div>
+            </div>
+          </div>
+
+          <div class="sidebar-footer">
+            <a id="downloadBtn" href="" download class="btn btn-primary">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+              <span>Download Image</span>
+            </a>
+            <button id="copyLinkBtn" class="btn btn-outline" title="Copy link to this artwork">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+              <span id="copyLinkText">Copy Link</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- About Modal -->
+  <div class="lightbox-modal about-modal-wrapper" id="aboutModal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="lightbox-overlay" id="aboutOverlay"></div>
+    <div class="about-card">
+      <button class="lightbox-close" id="aboutClose" title="Close (Esc)">✕</button>
+      <div class="about-header">
+        <div class="brand-icon large">🪔</div>
+        <h2>Assam AI Cultural Archive</h2>
+        <p class="about-subtitle">Preserving, Visualizing & Celebrating Assamese Heritage through Modern Generative AI</p>
+      </div>
+      <div class="about-content">
+        <h3>About This Collection</h3>
+        <p>
+          This gallery brings together <strong>58 meticulously crafted AI artworks</strong> that visually reconstruct key chapters of Assam's rich history, folklore, spiritual legacy, and traditional architecture.
+        </p>
+        
+        <div class="about-features">
+          <div class="feat-item">
+            <span class="feat-icon">👑</span>
+            <div>
+              <strong>History & Royalty</strong>
+              <p>Depictions of Chaolung Sukapha, the founding of the Ahom Kingdom in 1228 CE, the Patra Mantris, and Queen Sati Sadhani.</p>
+            </div>
+          </div>
+          <div class="feat-item">
+            <span class="feat-icon">📜</span>
+            <div>
+              <strong>Luminaries & Reformers</strong>
+              <p>Portraits of saint Mahapurusha Srimanta Sankardev, Kalaguru Bishnu Prasad Rabha, Rupkonwar Jyoti Prasad Agarwala, Hemchandra Baruah, and the pioneers of the Assamese renaissance.</p>
+            </div>
+          </div>
+          <div class="feat-item">
+            <span class="feat-icon">👻</span>
+            <div>
+              <strong>Folklore & Supernatural</strong>
+              <p>Visual folklore traditions including the iconic Japi Pindha Bhoot and rural Assamese ghost lore.</p>
+            </div>
+          </div>
+          <div class="feat-item">
+            <span class="feat-icon">🪔</span>
+            <div>
+              <strong>Sacred Sanctuaries & Namghars</strong>
+              <p>The sacred multi-tiered Guru Asana (Singhasan) and symbolic wood carvings (Kurma, Elephant, Lion).</p>
+            </div>
+          </div>
+          <div class="feat-item">
+            <span class="feat-icon">🏡</span>
+            <div>
+              <strong>Traditional Architecture</strong>
+              <p>Classic earthquake-resistant Assam-type houses, verandahs, courtyards (Chotal), and rustic homesteads.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="about-footer-info">
+          <p>Built with modern web technologies, responsive layouts, search & filter, and full-resolution viewing. Hosted on GitHub Pages.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">Link copied to clipboard!</div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-left">
+        <p><strong>Assam AI Archive</strong> — Celebrating the cultural soul, legends, and history of Assam.</p>
+        <p class="copyright">Open source archive. Curated with AI Art & Web Craftsmanship.</p>
+      </div>
+      <div class="footer-right">
+        <a href="#top" class="back-to-top" id="backToTop">↑ Back to Top</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
