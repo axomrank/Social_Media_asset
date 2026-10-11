@@ -7,13 +7,13 @@
     },
     {
       "path": "contributors/ADULT_PARTICIPANT_RELEASE.md",
-      "bytes": 1947,
-      "sha256": "874f19d90ae539f4375ac8ec360774bbe020bab34f2d0242f8f2dbb77429d801"
+      "bytes": 1969,
+      "sha256": "68ea3b331706f3d69b3173ac24be7520ccf7b7fc7610ae5a89c47c815fe771e6"
     },
     {
       "path": "contributors/CONTRIBUTOR_CONSENT_AND_LICENCE.md",
-      "bytes": 5269,
-      "sha256": "82be862d7c1f263d260f361e7318e29e98e0db65813d8d10fad7e34cbe31a616"
+      "bytes": 5307,
+      "sha256": "baabefd9bfc2d5253856ac81b34edef1bdb1aaf4e6d2ba108a0cb8b59f2daf99"
     },
     {
       "path": "contributors/archive/karbi-01.wav",
@@ -102,8 +102,8 @@
     },
     {
       "path": "gallery.html",
-      "bytes": 46124,
-      "sha256": "fd8d4385556b14c0b89e1f4e8d999f0d879cb79295b5cefe3b02b4d850a1ad4e"
+      "bytes": 46216,
+      "sha256": "96a5d3759c9ca694a4f9aa751203fbe000e6803f09908ac01b33f6d93f2f316a"
     },
     {
       "path": "maps/adm1-source-metadata.json",
@@ -1137,8 +1137,8 @@
     },
     {
       "path": "scripts/build_catalog.py",
-      "bytes": 7536,
-      "sha256": "bf20b01aa9d615469765bf20cc0e2311b54e59d62763d1567aa1012fbf346ee5"
+      "bytes": 7628,
+      "sha256": "73eccbffd41e29d18fa7061a26657d7be4ebce709fe8d914c38bcba6db9dc61d"
     },
     {
       "path": "scripts/build_maps.py",

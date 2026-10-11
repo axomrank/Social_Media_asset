@@ -6,10 +6,10 @@ Template version 1 · 11 October 2026. Complete the fields and obtain signatures
 
 **Brand recipient:** Angsuman Das, sole proprietor trading as AxomRank. Contact: angsuman.das@rgu.ac.in; +91 78965 05109.
 
-**Contributor / rights holder legal name:** ____________________  
-**Private contact:** ____________________  
-**Authority to grant this licence (creator / rights holder / authorised representative):** ____________________  
-**Permission record ID:** ____________________  
+**Contributor / rights holder legal name:** ____________________<br>
+**Private contact:** ____________________<br>
+**Authority to grant this licence (creator / rights holder / authorised representative):** ____________________<br>
+**Permission record ID:** ____________________<br>
 **Date:** ____________________
 
 List the specific assets covered. Attach additional rows if needed. This form does not license every future contribution automatically.
@@ -39,47 +39,47 @@ Select permitted operations:
 - [ ] Add accurate captions, subtitles or translations, with review arrangements: ____________________
 - [ ] Other adaptations, specifically described: ____________________
 
-**Territory:** ____________________  
-**Term start and end dates:** ____________________  
-**Payment / royalty / other consideration, including an explicit “none” if agreed:** ____________________  
+**Territory:** ____________________<br>
+**Term start and end dates:** ____________________<br>
+**Payment / royalty / other consideration, including an explicit “none” if agreed:** ____________________<br>
 **Payment timing and conditions, if any:** ____________________
 
 AxomRank may use service providers needed to prepare and distribute the contribution within the agreed scope; the provider may not use it for an unrelated purpose. This permission does not include standalone stock resale, transfer of copyright ownership or AI-model training.
 
 ## Credit and review
 
-**Exact public credit:** ____________________  
-**Credit placement / link:** ____________________  
-**Agreed anonymity or limits on publishing identity:** ____________________  
-**Contributor preview/review required before publication:** Yes / No  
-**Review contact, deadline and agreed corrections process:** ____________________  
+**Exact public credit:** ____________________<br>
+**Credit placement / link:** ____________________<br>
+**Agreed anonymity or limits on publishing identity:** ____________________<br>
+**Contributor preview/review required before publication:** Yes / No<br>
+**Review contact, deadline and agreed corrections process:** ____________________<br>
 **Required factual, cultural or context notes:** ____________________
 
 ## Third-party permissions and people appearing
 
 I confirm that I hold or can authorise the rights described above. I have disclosed the following third-party material, conditions and limits: ____________________
 
-**Identifiable people appearing:** ____________________  
+**Identifiable people appearing:** ____________________<br>
 **Separate participant/model permission references, where required:** ____________________
 
 Permission from a photographer does not by itself record permission from a person portrayed. Use the [adult participant consent](ADULT_PARTICIPANT_RELEASE.md) for the listed use where needed. For anyone under 18, use a separately reviewed guardian process rather than this adult form.
 
 ## Changes and ending permission
 
-**Additional restrictions:** ____________________  
-**Termination / withdrawal conditions, notice route and treatment of existing publications:** ____________________  
+**Additional restrictions:** ____________________<br>
+**Termination / withdrawal conditions, notice route and treatment of existing publications:** ____________________<br>
 **Renewal process:** ____________________
 
 Questions or withdrawal requests can be sent to angsuman.das@rgu.ac.in, identifying this permission record. Requests will be checked against the agreed conditions. No blanket promise of retrospective removal from third-party shares is made by this template.
 
 ## Signatures
 
-Contributor / authorised rights holder: ____________________  
-Signature: ____________________  
+Contributor / authorised rights holder: ____________________<br>
+Signature: ____________________<br>
 Date: ____________________
 
-Accepted by Angsuman Das, proprietor of AxomRank: ____________________  
-Signature: ____________________  
+Accepted by Angsuman Das, proprietor of AxomRank: ____________________<br>
+Signature: ____________________<br>
 Date: ____________________
 
 ## Filing checklist

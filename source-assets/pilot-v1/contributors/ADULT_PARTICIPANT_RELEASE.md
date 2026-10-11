@@ -4,10 +4,10 @@ Complete and sign privately. This records permission from an adult participant; 
 
 **Recipient:** Angsuman Das, sole proprietor trading as AxomRank. Contact: angsuman.das@rgu.ac.in; +91 78965 05109.
 
-**Participant legal name and private contact:** ____________________  
-**Confirmation that participant is at least 18:** ____________________  
-**Permission reference:** ____________________  
-**Photo / video / audio IDs and capture date:** ____________________  
+**Participant legal name and private contact:** ____________________<br>
+**Confirmation that participant is at least 18:** ____________________<br>
+**Permission reference:** ____________________<br>
+**Photo / video / audio IDs and capture date:** ____________________<br>
 **Purpose and context:** ____________________
 
 I agree to use of my image/voice in the specifically identified contribution for the selected purpose and channels:
@@ -17,19 +17,19 @@ I agree to use of my image/voice in the specifically identified contribution for
 - [ ] Identified print publication: ____________________
 - [ ] Identified paid advertisement: ____________________
 
-**Term:** ____________________  
-**Territory:** ____________________  
-**Compensation or explicitly agreed none:** ____________________  
-**Public name/credit or anonymity:** ____________________  
-**Permitted edits, caption/translation review and context restrictions:** ____________________  
-**Preview required before use:** Yes / No  
+**Term:** ____________________<br>
+**Territory:** ____________________<br>
+**Compensation or explicitly agreed none:** ____________________<br>
+**Public name/credit or anonymity:** ____________________<br>
+**Permitted edits, caption/translation review and context restrictions:** ____________________<br>
+**Preview required before use:** Yes / No<br>
 **Ending/withdrawal conditions and treatment of existing publications:** ____________________
 
 This consent does not permit an invented testimonial, a false student result, unrelated endorsement, fabricated speech, a synthetic likeness or AI-model training. Any materially different use needs a new agreement.
 
 I understand the specified uses and have had the opportunity to ask questions.
 
-Participant signature and date: ____________________  
+Participant signature and date: ____________________<br>
 Accepted by Angsuman Das, signature and date: ____________________
 
 Keep this signed form privately. The public register should contain its reference and agreed credit, not the participant's private contact information or signature.

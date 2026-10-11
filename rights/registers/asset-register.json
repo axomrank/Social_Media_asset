@@ -18386,8 +18386,8 @@
     {
       "asset_id": "AXR-A-8EB4AED90FF4",
       "path": "source-assets/pilot-v1/contributors/ADULT_PARTICIPANT_RELEASE.md",
-      "sha256": "874f19d90ae539f4375ac8ec360774bbe020bab34f2d0242f8f2dbb77429d801",
-      "bytes": 1947,
+      "sha256": "68ea3b331706f3d69b3173ac24be7520ccf7b7fc7610ae5a89c47c815fe771e6",
+      "bytes": 1969,
       "kind": "document",
       "purpose": "source_based_asset_pilot",
       "creator": null,
@@ -18412,8 +18412,8 @@
     {
       "asset_id": "AXR-A-40615C4B93BC",
       "path": "source-assets/pilot-v1/contributors/CONTRIBUTOR_CONSENT_AND_LICENCE.md",
-      "sha256": "82be862d7c1f263d260f361e7318e29e98e0db65813d8d10fad7e34cbe31a616",
-      "bytes": 5269,
+      "sha256": "baabefd9bfc2d5253856ac81b34edef1bdb1aaf4e6d2ba108a0cb8b59f2daf99",
+      "bytes": 5307,
       "kind": "document",
       "purpose": "source_based_asset_pilot",
       "creator": null,
@@ -18928,8 +18928,8 @@
     {
       "asset_id": "AXR-A-D701ECDCA274",
       "path": "source-assets/pilot-v1/gallery.html",
-      "sha256": "fd8d4385556b14c0b89e1f4e8d999f0d879cb79295b5cefe3b02b4d850a1ad4e",
-      "bytes": 46124,
+      "sha256": "96a5d3759c9ca694a4f9aa751203fbe000e6803f09908ac01b33f6d93f2f316a",
+      "bytes": 46216,
       "kind": "production_record_or_code",
       "purpose": "source_based_asset_pilot",
       "creator": null,
@@ -18954,7 +18954,7 @@
     {
       "asset_id": "AXR-A-494EDA3B5281",
       "path": "source-assets/pilot-v1/manifest.json",
-      "sha256": "fa313aae49691542bfe871928dd715c189384bea2cf4a19881d5b4ff3ccac772",
+      "sha256": "bece914d8f56b15de02aaa1d1f9f942314cfddf04b81a3c3fca93932c38cf129",
       "bytes": 38908,
       "kind": "production_record_or_code",
       "purpose": "source_based_asset_pilot",
@@ -25382,8 +25382,8 @@
     {
       "asset_id": "AXR-A-4DD75A8EE458",
       "path": "source-assets/pilot-v1/scripts/build_catalog.py",
-      "sha256": "bf20b01aa9d615469765bf20cc0e2311b54e59d62763d1567aa1012fbf346ee5",
-      "bytes": 7536,
+      "sha256": "73eccbffd41e29d18fa7061a26657d7be4ebce709fe8d914c38bcba6db9dc61d",
+      "bytes": 7628,
       "kind": "production_record_or_code",
       "purpose": "source_based_asset_pilot",
       "creator": null,
