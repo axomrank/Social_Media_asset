@@ -1,0 +1,20 @@
+{
+  "id": "AXR-PLACE-0001",
+  "record_type": "place",
+  "status": "draft",
+  "title": {"en": "", "as": ""},
+  "region": "",
+  "district": "",
+  "summary": {"en": "", "as": ""},
+  "official_url": "",
+  "sources": [{"url": "", "locator": "", "checked_at": null}],
+  "editor": null,
+  "reviewers": {"facts": null, "assamese": null, "local_context": null},
+  "checked_at": null,
+  "next_review_at": null,
+  "expires_at": null,
+  "media_ids": [],
+  "uncertainties": [],
+  "correction_contact": null,
+  "version": 1
+}

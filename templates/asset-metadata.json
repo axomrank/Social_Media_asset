@@ -1,0 +1,21 @@
+{
+  "id": "AXR-ASSET-0001",
+  "status": "draft",
+  "title": "",
+  "category": "",
+  "kind": "illustration",
+  "original_path": "",
+  "export_paths": [],
+  "dimensions": null,
+  "language": [],
+  "alt_text": {"en": "", "as": ""},
+  "source_url": null,
+  "source_reference": null,
+  "generation": {"model": null, "date": null, "prompt_path": null, "references": [], "settings": {}},
+  "rights": {"holder": null, "licence": null, "permission_record": null, "credit": null, "status": "unconfirmed"},
+  "reviewers": {"facts": null, "language": null, "design": null},
+  "approved_at": null,
+  "published_urls": [],
+  "supersedes": null,
+  "notes": "Replace placeholders with reviewed facts; this example is not a publishable asset."
+}

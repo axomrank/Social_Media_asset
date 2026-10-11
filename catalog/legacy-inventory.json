@@ -1,0 +1,1796 @@
+{
+  "baseline_commit": "16c89f917e0289820558676363e6fdcad3c3fb63",
+  "files": [
+    {
+      "path": ".gitignore",
+      "category": "brand-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7c16f57aaaa2e7dab07df7a61e6fe7c74c5ffb56",
+      "bytes": 132,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/Ancient Fortress Palace in the Tropics kachari.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9abb336c3f3a079c8e266080e2589f51f5507f02",
+      "bytes": 3382220,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/Golden-Hour Palace Courtyard Montage.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6b3612d31d012f79a9e6dcba06f811b62eb967ea",
+      "bytes": 3010508,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/Golden-Hour Talatal Ghar Heritage Collage.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ae2f4dc0b6bfb49f33e4abe24125a6410f01c819",
+      "bytes": 3165304,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/Royal Court at the Earthen Temple kachari.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4d948acfb2addab302e19799df85d64a2b7d0d49",
+      "bytes": 2620951,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/Talatal ghar.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "43d886ccf5039051f7d315a6bdf39405466dbba7",
+      "bytes": 2589018,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kachari couple in fort yard.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "910589e8347796a1cd6b4306236862d442f54318",
+      "bytes": 2383817,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kachari couple in fort yard2.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7acfbb7a190b97d798325d44229d78571c6a368d",
+      "bytes": 2336460,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kachari drone.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "25e975187bdda796d6f3fbc0ff00911867c671e4",
+      "bytes": 3328547,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kachari palace rebuild.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "39e02e61a949bdb53c327f06230d8138bbc7cca0",
+      "bytes": 2988009,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kachari1.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "11465db5ce685e978bf85e1971b6c75701584f17",
+      "bytes": 3377608,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kareng ghar 360.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "52d8e71fd8b00794c974457bcf80e2f9d955b841",
+      "bytes": 2713032,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kareng ghar interior.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1e636f8dcc1529a9a339cfb546d0d26e978a63b5",
+      "bytes": 2762068,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kareng ghar topp floor.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "bbc64dad8f019e616924933d224615cd6a320b86",
+      "bytes": 2924485,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/kareng har1.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "afa80293ae4cb72e95d5e4b5f38131fa380ab247",
+      "bytes": 2844287,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/karengh ghar drone shot.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f5960a5daaecefd7c4a6dd28b7847afc361f3dbc",
+      "bytes": 2502973,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/karengh ghar2 drone.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4cc1c1de29afd41b0d4cb1e93b418f0ca1d31980",
+      "bytes": 2570514,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/remade kareng ghar.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4699fc57125852822065794baee06bc5b3250814",
+      "bytes": 2742537,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/talatal interior.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "652b23b50275b6f7915654e979ce33586c2fcedb",
+      "bytes": 2874879,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/talatal.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "0e1debbbbdd17cea0da25746870d5cb1995248d7",
+      "bytes": 2746285,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/tunnel to dikhou.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "07e02dcc3bb12d3096a607aa2a18db3138487c42",
+      "bytes": 2586566,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/tunnel to dikhou2.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "143beb5d967c4a06f960cbeace50b5d569a24a88",
+      "bytes": 2504831,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/tunnel to dikhou3.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1ebccb11c8f89babf4d065bb66e481cd4596ab82",
+      "bytes": 2548023,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/tunnel to dikhou4.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "125085ee48d75cde688b9a900f874c2e96648b6d",
+      "bytes": 2648166,
+      "symlink": false
+    },
+    {
+      "path": "AI_AHOM/tunnel to dilhou2.png",
+      "category": "historical-illustration",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4db53ca1c54c9c2fe56a3f7afb43c6da1842358a",
+      "bytes": 2535344,
+      "symlink": false
+    },
+    {
+      "path": "Ahom_insignia_plain.svg.webp",
+      "category": "brand-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9ad177106fdda36a780cc356cbbddd27f62f121b",
+      "bytes": 13118,
+      "symlink": false
+    },
+    {
+      "path": "AxomRank_Brand_Identity_Guide.docx",
+      "category": "brand-authority",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e322a6130c0547d418ed161acc7baef998c4355c",
+      "bytes": 204224,
+      "symlink": false
+    },
+    {
+      "path": "AxomRank_Instagram_Content_Strategy_for_Assam.docx",
+      "category": "brand-authority",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "c704a2e84d0240f3682aa947cb6de44d0b0412fb",
+      "bytes": 206828,
+      "symlink": false
+    },
+    {
+      "path": "CAROUSEL_PREFERENCES.md",
+      "category": "brand-authority",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "fc4119be3cf6951560f56f83754cfa7fe2026c39",
+      "bytes": 1901,
+      "symlink": false
+    },
+    {
+      "path": "Golden Ahom winged insignia.png",
+      "category": "brand-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f2d2d948315194e8f5c98b7f13a187efbb394192",
+      "bytes": 1165815,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_10_assam_gk_carousels/AxomRank_Assam_History_and_GK_10_Carousel_Plan.xlsx",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "75f9b1957aaecac837b8dc9148b3cc11158dfb91",
+      "bytes": 202390,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_10_assam_gk_carousels/AxomRank_Assam_History_and_GK_10_Carousel_Plan.xlsx.inspect.ndjson",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "07b34426aa738827af11a6303a83cbbf0c6927e6",
+      "bytes": 477096,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_4_day_carousels/AxomRank_Assam_Visual_Style_and_4_Day_Carousel_Plan.xlsx",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "12427f41280ef5e6f6b868f9329083136e5dc47c",
+      "bytes": 244010,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_4_day_carousels/AxomRank_Assam_Visual_Style_and_4_Day_Carousel_Plan.xlsx.inspect.ndjson",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "691e8f37fa486065c9d020a4da6e01ed854b14a8",
+      "bytes": 235886,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/AxomRank_90_Reel_Ideas_and_30_Second_Scripts.xlsx",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "00f37d61118eef62d245754cf6a03b11fbaee979",
+      "bytes": 69887,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/AxomRank_90_Reel_Ideas_and_30_Second_Scripts.xlsx.inspect.ndjson",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a3eb32a6d870f0eafafb3456a0011195799a5650",
+      "bytes": 996767,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/content_validation.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a7673efc9af0b52113782be024faa6784f1a6564",
+      "bytes": 11271,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/guide_notes_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "3b51b5b5b20e4e8363de8699c4273f7d3db847d5",
+      "bytes": 205769,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/guide_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1b70a52fd7f64dcc4d13981d3a67a62ba1e73e3e",
+      "bytes": 87101,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/hooks_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "91761cbac8c769ef1c8c40b58967786f731c8058",
+      "bytes": 60265,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/plan_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d0231edfd9107a157321ec6b3772eb98e88e918d",
+      "bytes": 32815,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/script_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "cb138468a081847f5174764a7c85a3880a45b498",
+      "bytes": 126139,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_90_reels/shots_preview.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7a1eaa7c2f2242200b458e3451c3dc4460ed16f3",
+      "bytes": 123880,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/AxomRank_Carousel_01.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d26545680df8a464a89fbb7d24c36e0b8942d924",
+      "bytes": 13215213,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ce7920ac44478e22ff8a8ceb47fdfd8805714182",
+      "bytes": 445,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "c8aa234304469f5fca8bced7225f9c76163cdd11",
+      "bytes": 10321,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "847c22573698bd76a9a4246fb012c7f1ef200de3",
+      "bytes": 2336936,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e4be446bbf1d683bd5a47492851e7686781f05bc",
+      "bytes": 2308992,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9b51f660360bfe966326bf4e71a726b3e10ff4f2",
+      "bytes": 2322530,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ae49eacfb5ad8d7143398a24c87d5c8d55efb603",
+      "bytes": 2226468,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "5d39b81e4407b8d5fc8d204ccaad087cac25e54b",
+      "bytes": 2256350,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9a5001aac5a95d146e412b7e8016b2b681f67fb4",
+      "bytes": 2335666,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/AxomRank_Carousel_01_Square.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ba1b0be6137c80cd7670853f3da61927bb3560ee",
+      "bytes": 14991706,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/AxomRank_Carousel_01_Square_v2.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "65ef8d02dcf148acc9d62a86379befd1275e73cb",
+      "bytes": 15095598,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ce7920ac44478e22ff8a8ceb47fdfd8805714182",
+      "bytes": 445,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/cover_v2_prompt.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "952151803e2c8c9c329cb91fa2f43b12afb85583",
+      "bytes": 1689,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e8595270b909a2ca570c5690eab99e83d1ab18dc",
+      "bytes": 8579,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/references.md",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d965eba57e39a0e2dce2f2ad0afbf0bb98e30a77",
+      "bytes": 705,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/references/charaideo.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9be9747867fa2bd7297903a141b8e4c1cfa49a07",
+      "bytes": 2993261,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/references/sukapha_arrival.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "16a7d6d28ee7017b2a6c0569ab25c62c6f2e9eec",
+      "bytes": 2749971,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ddede9a6c8d01adc2382083f6a0636a3adbeb7c4",
+      "bytes": 2631860,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_01_sukapha_v2.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "406a4db88a060861694f99cb6589f27f81b1aef9",
+      "bytes": 2709105,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "87bb6ab7182af9c34f679770ebf79fa49cde6340",
+      "bytes": 2759525,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "dcfb5e13fac3a552498dce8b52ce0a2c846a4bcc",
+      "bytes": 2903630,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "52486795e0379846289e427aeff7f070a77b28a2",
+      "bytes": 2293233,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "13f1ac6e106dc0b1ec41e94492103b9f4c19a5ee",
+      "bytes": 2414380,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_01_square/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "afeed1744d398d87e2d15fd2d99ebc63ed68503c",
+      "bytes": 2398240,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/AxomRank_Carousel_02_Saraighat.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "02df53d26e907684ca40c04d3a6b7a2019abe7bf",
+      "bytes": 15472241,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "845b7c338ebb762fd224ee8b6c3f27c8b652ec23",
+      "bytes": 692,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "2fac71db89dd6d0f9d3f2d8cdc2a75256e8e462d",
+      "bytes": 9330,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/references.md",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "3e7815ce4ca681f968877e20fac25bdbb926fc75",
+      "bytes": 830,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/references/lachit_portrait.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e4f8153c9ffffa37d9eba11abb8f80c47e38bbf6",
+      "bytes": 2136263,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f577ae6f1ef15888db9095f1d4ee13979b4f648b",
+      "bytes": 2606906,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "fe08a0629cd722d5b0ff25f9df99bca3b39d3ab1",
+      "bytes": 2774097,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "372ef684494edee18f109d5c9484eb2a4838bc3b",
+      "bytes": 2661198,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "372e6076a489749041b9af811bb4cc19a7e282ed",
+      "bytes": 2554788,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f0665fd5567a937da74a4819592c569f28f0ab84",
+      "bytes": 2610507,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_02_saraighat/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d020ed08b8925eb78d8425a2428f7919bb33046e",
+      "bytes": 2606551,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/Ahom_insignia_gold_reference.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4efbc993f525ad54e731839881322780b5a0e3ea",
+      "bytes": 2136675,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/AxomRank_Carousel_03.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9893d5c72037ff81448744c8b1277a9488730d4e",
+      "bytes": 16867093,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6ac7431350bca747bee81cb36dc0024923635875",
+      "bytes": 526,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1146be0a731e6ba636bdd9c044b8f06b0669810f",
+      "bytes": 9251,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/references.md",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "25b0712c669eaa3e3c329d041e6a299a095b817e",
+      "bytes": 517,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d04eaec73ee12646903db45fb877631af0afbd33",
+      "bytes": 2772593,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "8ef19f3c27aaa463fa57f9ea74ee6ff6e6eba2f3",
+      "bytes": 2461772,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6977f4aa61200b7d7d52a3c703ff7429a4c39f12",
+      "bytes": 2584044,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "98e0a7963eb9773bbacc12ba1dabeb7531b2eb52",
+      "bytes": 2660199,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "91e26059743c828f61b6404e52a062fb415e5d63",
+      "bytes": 2402111,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_03_alaboi_saraighat/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "13ad9b97a7b90870fbfe47cc5bf78420997a1869",
+      "bytes": 2449239,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/AxomRank_Carousel_04_Buranjis.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "22f89c8cd342f4fe7efcb4fcfd71469433e1e515",
+      "bytes": 13916614,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "31ae809e5199384bef3da8e0d54a3e2155c2d38a",
+      "bytes": 651,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "763374b93dfb8351ca69beb9d8462ed7eb4d00cd",
+      "bytes": 9569,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/references.md",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "76a5a45cd4c6e0514f3a52b387a8241b117be354",
+      "bytes": 673,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "3a9fbb383ccdb2d0843bf28fa8afed79e5dbfa15",
+      "bytes": 2248351,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "bee6cc13a34ff3d473722b21640edd18167f7e1b",
+      "bytes": 2081528,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f49743394a5322ac9341a0394a14eac90c3d99a9",
+      "bytes": 2593594,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e72f895e3c360a9fc3f818391fcbf462246a7d1d",
+      "bytes": 2514513,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "859ef5ba17b9980711fa95a055398abeb8c9666f",
+      "bytes": 2487629,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_04_buranjis/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "94f4ac62e1b76276235e7447d804c72b285559fa",
+      "bytes": 2492457,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/AxomRank_Carousel_05_Monuments.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "aac31b1afc95fc39204e9d32cd3b096ee50a2be6",
+      "bytes": 15067205,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "32a8c4198e3fd849d5d33c128eed0729093594c7",
+      "bytes": 468,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e02ad12bc83c3fb36ea19b0775a7138ca065adef",
+      "bytes": 13242,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/references/gola_ghar.jpg",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "50ac74b4486cf2a9f05398df425857d55438fdfb",
+      "bytes": 83984,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/references/rang_ghar.jpg",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ffaefebc59ead3cad1883e9c3077f5cc0e3b7c92",
+      "bytes": 122578,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/references/talatal_ghar.jpg",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6f216e1357a23b336ebb5c375614065707089ecb",
+      "bytes": 203915,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d283b9123249ac868a05f631e5077c3de256435a",
+      "bytes": 2711325,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "20e696973da4814b81e4cfb3289e56f2fdbd40b8",
+      "bytes": 2692322,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "140b6727195a4bf1ac86e4f82bfc2be4c76360cb",
+      "bytes": 2674005,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "0233b14c4458d0476fe1d7492b0a25ae0594d4d5",
+      "bytes": 2551340,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6b0121ef60ea414562cd3db2f6abe18ba801becc",
+      "bytes": 2455048,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousel_05_monuments/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "5ce441324825e7930ac14c8cb9154d594dde74f6",
+      "bytes": 2433724,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/AxomRank_Carousels_06_to_10.zip",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "579e0be5941468353b55c7744760646bf0ee2598",
+      "bytes": 85039019,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/README.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "22dbf2d84d0a984ccd6618cc816951c40a6396ae",
+      "bytes": 450,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/alt_text.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1e15e8249613907c1ecafe9343bb54331594b8e2",
+      "bytes": 1205,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a1e324661c86e304503917fb8fd4cb60b85dbc82",
+      "bytes": 568,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "0f3568e06047cd1ccdbce84f3688a2c315bb600f",
+      "bytes": 10241,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "48a31c61b59b877e7f6052df6a536b01d43157ac",
+      "bytes": 2390674,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "2ff50709086a0bac3122bea771c594e1454bcfd1",
+      "bytes": 2360968,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "38932a2a42508f2aa891c421f8f3e2591bb7feb1",
+      "bytes": 2724392,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "0b18115041833f5a934c6502bd072e6b20bde0ac",
+      "bytes": 2731545,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6e4a0ed7f2c2ad0624ac41008d32e97d108f73f1",
+      "bytes": 2677959,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_06_moidams/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "917e51d353715f7d43b659e7b2118b4a5a7cc9db",
+      "bytes": 2657502,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/alt_text.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "681c940e2f782a4e95c580022a6fa7f9833be5ef",
+      "bytes": 1554,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "eed54deabb401843fefd26261d06009848b1c886",
+      "bytes": 512,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f6cedc6549e4ef2546ae45697b448b0f30c5e46a",
+      "bytes": 14779,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "408a5c66774be909085662126f055219f012d46e",
+      "bytes": 2531349,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4d68b78291c3108d8efc2ef6874dda7ea780b3a8",
+      "bytes": 3136204,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "3981a81679522ec2035e4b8c906f41c156976656",
+      "bytes": 3262790,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1dc56c7564db393c9847dd78514d621487cdfbb8",
+      "bytes": 3025059,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "96b0f21c47aa92bf9ea6a8219141480fc81b504f",
+      "bytes": 3024729,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "51e7dcd14bdc8178329366ddce1bfa358360bcba",
+      "bytes": 2462150,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_07.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "fec3c6e5459b54c862b6150193fdb1022826cd53",
+      "bytes": 2592314,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_07_national_parks/slide_08.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "72c06a9c098f91c8b80474d8b33a1c4be3eaab38",
+      "bytes": 2645598,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/alt_text.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "c1057db74ef82be27d3668d444c649fad1d6756d",
+      "bytes": 1212,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "83f50e3fda6e68671f42fdeb32c0cc3c73900d29",
+      "bytes": 483,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "064d7b9234be28c29e582345b51d918484110322",
+      "bytes": 11483,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7b87b5057a68fdea4e2aa1073771ba260ed9e9f5",
+      "bytes": 2510785,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "737fe02b3cd1b90d9181a574156a300649f49f4c",
+      "bytes": 2830611,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f9216b19ac1876f8998067ad37dfb8b6d0800899",
+      "bytes": 3024003,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "b084fb09f0a83e8df12908df00d4e43e3c0e9c7a",
+      "bytes": 2835719,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "9519942d3026700fcf9bffbef113d5e26fcd6963",
+      "bytes": 2833160,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_08_unesco/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "41fa9dbae99c402c72b5c015fc0902c66b334f2f",
+      "bytes": 2465667,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/alt_text.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d1c5139c3353c114d7fae18e520c557ca4213905",
+      "bytes": 1284,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "d5c3dec8d71e114fd0a7a14834fb7a6123b213ba",
+      "bytes": 514,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "887f9ab597cb7ad679132459d7db0978cbdfd277",
+      "bytes": 15654,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "02f974cffd48fad10e76df5c98e1a358cd4e8731",
+      "bytes": 2871163,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1a2c550ce6bc954c9936256f616c6667b325766a",
+      "bytes": 2853996,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4901d413d480572510220009f15c6120ee243568",
+      "bytes": 2639242,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1688751b4ceeff58c33eab91d8808efadfbdfa8b",
+      "bytes": 2414883,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "35254bc34499ff6bed862a2cb60a202774ff22c7",
+      "bytes": 2788528,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_09_ahom_gk/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "183ae1ad6cb3e7438ad348844b09537356a76dda",
+      "bytes": 2546179,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/alt_text.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "090266c415c145e5f45ae1fb11df460d945afe54",
+      "bytes": 1302,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/caption.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "fedaf2ee46bdf084548baa555c896d4756e58583",
+      "bytes": 577,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/generation_prompts.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1cd90521d90c1472212c06060dbf7df7f18023df",
+      "bytes": 12324,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_01.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1c476076df1e746fb2fc498453672e12578b6854",
+      "bytes": 2857815,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_02.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "99b8bad829568c778fe154468941bb74a43c065b",
+      "bytes": 2777710,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_03.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "c4becbc8d8fd2a1b68e5e4669c3e79557558a2db",
+      "bytes": 2793683,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_04.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4bd7c8f1505d0a8e8a5e3ed70d23881a92f4425e",
+      "bytes": 2440065,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_05.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "bf8c91a9f7923911d90b15d2cc149260324aecca",
+      "bytes": 2673894,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/carousel_10_nature_gk/slide_06.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "46e429a817421ea2390c378b15fa1db3511ab8f9",
+      "bytes": 2639135,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/dimension_checks.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "b6e4364860e8dd76002280ae91752d45a055cc70",
+      "bytes": 6406,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/final_manifest.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7144dc30200c7818fab20dd090151e064bd40ccf",
+      "bytes": 94656,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/generated_manifest.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "208a6821e65a92209bb46c10773ec9dc8058cb73",
+      "bytes": 75211,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/plan.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e4c97384fd5c83c02b07b03890311711684d50bd",
+      "bytes": 25264,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/production_plan.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "233d5eed622aa3ad4a1f56970ce16afe40e15eb7",
+      "bytes": 64209,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/ahom_gallery.html",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "bd76309daf4e0e00e17a0e1fd618eaaad4345980",
+      "bytes": 210451,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/app.js",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "ec5cc8bc213259c14d9c22df73673a592d4de8e2",
+      "bytes": 19290,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/assam_gallery.html",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a4ad816d6397cddb308cfe24b263f5268867c204",
+      "bytes": 14293,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/buranji.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f8e455555d56ca53108cec5c54133ee5d7b082ba",
+      "bytes": 2363423,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/charaideo.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "e2c657af09aa72e632957370632d54c6a01a7998",
+      "bytes": 2447653,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/gallery.json",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "03d8d669ad5507f45daff5a1e7b2948154e0f99e",
+      "bytes": 29269,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/moidams.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "6e94ff3bbfc43e1138bd2f4c3968d083c207209a",
+      "bytes": 2493003,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/patkai.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "dfa0f6c9d306cde58895d2957e9cecceaee415f2",
+      "bytes": 2812310,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/sukapha.png",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "3198e9d72b96b44143218cc8ed8b86d803892ca0",
+      "bytes": 2325045,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/survey.pdf",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "2fcac22d6388131a22af01b53d1fd15c80102e43",
+      "bytes": 13196321,
+      "symlink": false
+    },
+    {
+      "path": "outputs/axomrank_carousels_06_10/references/survey.txt",
+      "category": "campaigns-and-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "5bff1a55ea20f494bc47d780382d5571004272f3",
+      "bytes": 1298783,
+      "symlink": false
+    },
+    {
+      "path": "reel_work/build_workbook.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "2889a059acb5d75a80673b8334a494ef18e2ca49",
+      "bytes": 16039,
+      "symlink": false
+    },
+    {
+      "path": "reel_work/node_modules",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "76f7886eef70c55972601b033f109b571a508984",
+      "bytes": 89,
+      "symlink": true
+    },
+    {
+      "path": "reel_work/reels_data.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a087b2e8ac57fb82cccff359aeecf1784087796b",
+      "bytes": 100567,
+      "symlink": false
+    },
+    {
+      "path": "style_work/assam_gk_10_data.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1c898306dbd6714d8fe8195a49eed9c5fd939182",
+      "bytes": 18902,
+      "symlink": false
+    },
+    {
+      "path": "style_work/build_10_gk.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "dee194c3ece8e074ede5c0dda9a12ab217b99594",
+      "bytes": 10454,
+      "symlink": false
+    },
+    {
+      "path": "style_work/build_carousel_workbook.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "7302970b4b878d5c7f7e1159af91cadd1f1aedf6",
+      "bytes": 16986,
+      "symlink": false
+    },
+    {
+      "path": "style_work/carousel_data.mjs",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "eaef1708d2a702ab5355f6db4552a74a8d4c61ff",
+      "bytes": 22401,
+      "symlink": false
+    },
+    {
+      "path": "style_work/node_modules",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "76f7886eef70c55972601b033f109b571a508984",
+      "bytes": 89,
+      "symlink": true
+    },
+    {
+      "path": "style_work/qa/plan_hooks.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "784298be910512b08592b651c9bc630793a753cf",
+      "bytes": 68736,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa/product_prerequisites.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "a8aeced8da68717adde1a1c3f99885bdb0892a9c",
+      "bytes": 170652,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa/slide_copy.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "931fd0706d6058c745fcf22b3bbed48db724c2df",
+      "bytes": 67459,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa/style_board_embedded.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "98539b466a880b1404503d87316c720357eadbaf",
+      "bytes": 261059,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa/style_palette.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4b240510330aaa7e1a03c86dbe273ad5bb0d055d",
+      "bytes": 81353,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa/style_rules.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "4345523a34eb7e15822d0260e71aebff55279fda",
+      "bytes": 116835,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa10/checks.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "bb6209b560d2d810f0c0a8fef8f2204723b7d2f6",
+      "bytes": 53550,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa10/copy.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "81ac3e87dd031085396652e827d4e366b350e9a7",
+      "bytes": 27486,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa10/plan.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "132327744535ff2bd03d3ac8fbb1473b0ddf84ea",
+      "bytes": 52286,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa10/style.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "0125afa94010ca1dfd596a76caf25a6a8b02c31e",
+      "bytes": 183942,
+      "symlink": false
+    },
+    {
+      "path": "style_work/qa10/style_board.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "24a4933eabdcc5d083225b20e5c9a19ccb09cdcd",
+      "bytes": 189217,
+      "symlink": false
+    },
+    {
+      "path": "style_work/rang_ghar_original.jpg",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "1e4a811a1c2c6e9c30dc28c8f0dd21569d943cc0",
+      "bytes": 184237,
+      "symlink": false
+    },
+    {
+      "path": "style_work/style_reference.png",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "cd45364755c5f8ee9689e74a85d6b7deb100fe3e",
+      "bytes": 234209,
+      "symlink": false
+    },
+    {
+      "path": "style_work/style_reference.svg",
+      "category": "production-source",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "f0845fa706648decb7375ea451fff4867806caa1",
+      "bytes": 255893,
+      "symlink": false
+    },
+    {
+      "path": "sukapha-on-throne-side.png",
+      "category": "brand-reference",
+      "status": "legacy-review-required",
+      "rights_status": "not-established-by-inventory",
+      "git_blob": "218f9d10c2e5a1030be567d2b17f756de34f2d29",
+      "bytes": 2024755,
+      "symlink": false
+    }
+  ]
+}

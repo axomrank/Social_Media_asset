@@ -1,0 +1,22 @@
+# Content brief
+
+- Content ID:
+- Category / series:
+- Audience and question answered:
+- Funnel stage (for feed posts): discovery / trust / action
+- One CTA and tested destination:
+- Status: draft
+- Owner / factual reviewer / Assamese reviewer:
+- English title and complete copy:
+- Assamese title and complete copy:
+- Claims and exact source references:
+- Conflicting evidence or uncertainty:
+- Media source / generator / model / prompt / reference permission:
+- Required illustration/reconstruction disclosure:
+- Rights holder / licence or consent / credit:
+- Editable design and final export paths:
+- Actual dimensions / crop / phone readability check:
+- Caption / alt text / subtitles:
+- Checked date / expires date / next review date:
+- Approval and publication URL:
+- Correction record:
