@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-01",
+    "path": "photographs/pho-01-a-view-of-rong-ghar.jpg",
+    "title": "A view of Rong Ghar.JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_view_of_Rong_Ghar.JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_view_of_Rong_Ghar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Aniruddha Buragohain",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "ৰংঘৰ",
+    "date_created": "২৯ মে, ২০১২",
+    "commons_upload_timestamp": "2012-12-14T17:50:47Z",
+    "checked_at": "2026-10-11",
+    "bytes": 415616,
+    "sha256": "cdc32bb62af1b28d2f4e650b1bf3f612b979795ff82353bbef0cecf3c65b3268",
+    "width": 1600,
+    "height": 1200,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A view of Rong Ghar.JPG — Aniruddha Buragohain; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_view_of_Rong_Ghar.JPG",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "23195013": {
+          "pageid": 23195013,
+          "ns": 6,
+          "title": "File:A view of Rong Ghar.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2012-12-14T17:50:47Z",
+              "size": 415616,
+              "width": 1600,
+              "height": 1200,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/A_view_of_Rong_Ghar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_view_of_Rong_Ghar.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23195013",
+              "sha1": "e3744d153efccf4e35f1c72cff3f6fd6bdfa6581",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-12-14 17:50:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A view of Rong Ghar",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon Coolpix 2200|Rang Ghar|Assamese Wikipedia Photo Competition",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "ৰংঘৰ",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "২৯ মে, ২০১২",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"https://as.wikipedia.org/wiki/User:Aniruddha_Buragohain\" class=\"extiw\" title=\"as:User:Aniruddha Buragohain\">Aniruddha Buragohain</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

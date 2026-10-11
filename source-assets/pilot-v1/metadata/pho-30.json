@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-30",
+    "path": "photographs/pho-30-a-tea-estate-in-dibrugarh-district-assam.jpg",
+    "title": "A tea estate in Dibrugarh district, Assam.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_tea_estate_in_Dibrugarh_district,_Assam.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/A_tea_estate_in_Dibrugarh_district%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Joli",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "অসমৰ ডিব্ৰুগড় জিলাৰ এখন চাহ বাগান",
+    "date_created": "2012-11-09 06:36:43",
+    "commons_upload_timestamp": "2021-01-07T00:08:17Z",
+    "checked_at": "2026-10-11",
+    "bytes": 3440082,
+    "sha256": "645701c6a575b51abc781fea92f62aa3b37cf2f59145a72c131314583d8c7658",
+    "width": 3648,
+    "height": 2736,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A tea estate in Dibrugarh district, Assam.jpg — Joli; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_tea_estate_in_Dibrugarh_district,_Assam.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "98601362": {
+          "pageid": 98601362,
+          "ns": 6,
+          "title": "File:A tea estate in Dibrugarh district, Assam.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2021-01-07T00:08:17Z",
+              "size": 3440082,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/A_tea_estate_in_Dibrugarh_district%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_tea_estate_in_Dibrugarh_district,_Assam.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98601362",
+              "sha1": "409026379513fc58ea414bf7ef4535cd037d7237",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-07 00:08:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A tea estate in Dibrugarh district, Assam",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Assamese Wikipedia Photography Competition 2021|Self-published work|Tea plantations in Assam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "অসমৰ ডিব্ৰুগড় জিলাৰ এখন চাহ বাগান",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-11-09 06:36:43",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Joli\" title=\"User:Joli\">Joli</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

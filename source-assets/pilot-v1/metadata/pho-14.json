@@ -1,0 +1,138 @@
+{
+  "record": {
+    "id": "PHO-14",
+    "path": "photographs/pho-14-new-silchar-railway-station-2016.jpg",
+    "title": "New Silchar Railway Station 2016.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:New_Silchar_Railway_Station_2016.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/New_Silchar_Railway_Station_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Mahasish",
+    "source_statement": "I clicked this picture with my camera.",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "This a picture of new railways station as of 19th March 1991",
+    "date_created": "2016-03-19",
+    "commons_upload_timestamp": "2023-11-07T11:28:47Z",
+    "checked_at": "2026-10-11",
+    "bytes": 419906,
+    "sha256": "2c0a2242a25a9e18a4647c99fe15239920744048d361f761ac1ba2a088dae702",
+    "width": 1006,
+    "height": 671,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "New Silchar Railway Station 2016.jpg — Mahasish; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:New_Silchar_Railway_Station_2016.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "continue": {
+      "iistart": "2016-10-17T06:50:09Z",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "52320957": {
+          "pageid": 52320957,
+          "ns": 6,
+          "title": "File:New Silchar Railway Station 2016.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2023-11-07T11:28:47Z",
+              "size": 419906,
+              "width": 1006,
+              "height": 671,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/New_Silchar_Railway_Station_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:New_Silchar_Railway_Station_2016.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52320957",
+              "sha1": "1403460731c8b2231df53742173464ee61d37618",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-11-07 11:28:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "New Silchar Railway Station 2016",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|License migration redundant|Self-published work|Language Martyr's Memorial, Silchar railway station",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "This a picture of new railways station as of 19th March 1991",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2016-03-19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "I clicked this picture with my camera.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/User:Mahasish\" class=\"extiw\" title=\"en:User:Mahasish\">Mahasish</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/User:Mahasish\" class=\"extiw\" title=\"wikipedia:User:Mahasish\">Mahasish</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

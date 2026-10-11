@@ -5,10 +5,10 @@ ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'rights/registers';OUT.mkdir(parents=True,exist_ok=True)
 tracked=[x for x in subprocess.check_output(['git','ls-files','-z'],cwd=ROOT).decode().split('\0') if x]
 # Include newly authored files before staging, but not generated register outputs.
-for folder in ['docs/about-contact','rights/templates','rights/scripts','illustrations']:
+for folder in ['docs/about-contact','rights/templates','rights/scripts','illustrations','source-assets']:
  tracked.extend(str(p.relative_to(ROOT)) for p in (ROOT/folder).rglob('*') if p.is_file())
 tracked.extend(['rights/README.md','rights/clearance-records.json'])
-paths=sorted(set(x for x in tracked if not x.startswith('rights/registers/') and not x.endswith('.zip') and x not in {'.gitignore','.gitattributes'}))
+paths=sorted(set(x for x in tracked if not x.startswith('rights/registers/') and not x.endswith('.zip') and '__pycache__' not in x.split('/') and x not in {'.gitignore','.gitattributes'}))
 imports=json.loads((ROOT/'catalog/project-import.json').read_text())
 import_by_path={x['repository_path']:x for x in imports['files']}
 legacy=json.loads((ROOT/'catalog/legacy-inventory.json').read_text())
@@ -23,6 +23,11 @@ collection_records={}
 for record_path in (collection_root/'records').glob('*.json'):
  data=json.loads(record_path.read_text())
  if data.get('master'):collection_records[data['master']]=(data,str(record_path.relative_to(ROOT)))
+source_root=ROOT/'source-assets/pilot-v1'
+source_media={}
+for source_metadata in (source_root/'metadata').glob('*.json'):
+ data=json.loads(source_metadata.read_text());row=data.get('record',{})
+ if row.get('path'):source_media['source-assets/pilot-v1/'+row['path']]=(row,str(source_metadata.relative_to(ROOT)))
 records=[]
 for name in paths:
  p=ROOT/name
@@ -73,6 +78,19 @@ for name in paths:
     refs.append('illustrations/collection-v1/manifest.json');notes.append('Preview or archived variant; source records in collection manifest.')
   elif '/concept-diagrams/' in name:
    refs.append('illustrations/collection-v1/concept-diagrams/method-validation.json');notes.append('Owner-requested editable educational explanation, generated deterministically; not third-party scanned artwork.')
+ if name.startswith('source-assets/pilot-v1/'):
+  refs=['source-assets/pilot-v1/README.md','source-assets/pilot-v1/manifest.json'];purpose='source_based_asset_pilot'
+  original=name
+  if name.startswith('source-assets/pilot-v1/previews/'):
+   stem=p.stem.upper();match=next((k for k,(v,_) in source_media.items() if v.get('id')==stem),None)
+   if match:original=match;dependencies=[match];notes.append('Index preview derivative; original media remains unchanged.')
+  if original in source_media:
+   data,meta_path=source_media[original];refs.append(meta_path);source_urls=[data['source_page'],data['original_url']];creator=data.get('creator') or data.get('source_creator');credit=data.get('public_credit');lic=data.get('licence','');licurl=data.get('licence_url')
+   if lic.startswith(('CC BY','CC0')) and creator and licurl:
+    rights='licence_documented';permission='COMMONS-'+data['id']+'-2026-10-11';basis='Public file licence documented in exact Commons metadata: '+lic+' '+licurl;scope=['Reuse with exact attribution and applicable share-alike obligations'];notes.append('Public licence is not a model release, institutional endorsement, signed AxomRank consent or linguistic/context validation.')
+   else:notes.append('Source licence/territorial public-domain basis still requires rights review.')
+  if name.startswith('source-assets/pilot-v1/maps/') and suffix in ['.geojson','.svg','.png']:
+   level='adm1' if p.stem=='assam-overview' else 'adm2';meta_path='source-assets/pilot-v1/maps/'+level+'-source-metadata.json';data=json.loads((ROOT/meta_path).read_text());refs.append(meta_path);creator=data['boundarySource'];source_urls=[data['gjDownloadURL'],'https://www.geoboundaries.org/api.html'];credit='geoBoundaries; '+creator+'; '+data['boundaryLicense'];rights='licence_documented';permission='GEOBOUNDARIES-'+data['boundaryID'];basis='Original dataset licence recorded by geoBoundaries: '+data['boundaryLicense'];scope=['Dated map/context reuse with source attribution and applicable CC BY/ODbL terms'];notes.append('Boundary year '+data['boundaryYearRepresented']+'; not a current boundary or street-navigation assertion.')
  # Publication eligibility is intentionally narrow; evidence must be complete for approved use.
  eligible=rights=='licence_documented' or rights=='owner_requested_brand_copy' and kind=='document'
  record={'asset_id':'AXR-A-'+hashlib.sha256(name.encode()).hexdigest()[:12].upper(),'path':name,'sha256':sha,'bytes':len(raw),'kind':kind,'purpose':purpose,'creator':creator,'source_urls':source_urls,'source_references':list(dict.fromkeys(refs)),'rights_status':rights,'permission_record_id':permission,'permission_basis':basis,'approved_scope':scope,'public_credit':credit,'dependencies':list(dict.fromkeys(dependencies)),'eligible_for_declared_use':eligible,'approval_date':'2026-10-11' if eligible else None,'permission_expires_at':None,'review_owner':'Angsuman Das','private_permission_evidence_reference':None,'notes':notes}

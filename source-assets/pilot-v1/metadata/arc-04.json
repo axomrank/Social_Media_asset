@@ -1,0 +1,141 @@
+{
+  "record": {
+    "id": "ARC-04",
+    "title": "OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav",
+    "path": "contributors/archive/karbi-04.wav",
+    "source_page": "https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "publisher_source": "https://theofdn.org/resources/karbi/",
+    "speaker": "D.S. Teron",
+    "speaker_context": "Karbi elder and self-sponsored language/culture researcher, as described by the publisher",
+    "speaker_origin": "Karbi Anglong district, Assam, India",
+    "recordist": "Subhashish Panigrahi",
+    "recording_date": "2017-05-21",
+    "languages": "Karbi and English; inspect individual segment before excerpting",
+    "creator": "Subhashish Panigrahi",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "public_credit": "D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav; original recording unchanged.",
+    "checked_at": "2026-10-11",
+    "sha256": "b236e9a738a196b684a888c643ebf91f063573a991212c571467a5b9f0c7785b",
+    "bytes": 64627382,
+    "signed_axomrank_consent_record": null,
+    "status": "licensed published archive; context and transcription review pending",
+    "notes": [
+      "All six segments come from one interviewee, not six independent contributors.",
+      "These are source-based published perspectives, not commissioned AxomRank submissions.",
+      "Do not generalise one account to every Karbi person or other Assam communities."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav",
+          "to": "File:OpenSpeaks - Language Documentation - Karbi - 6. Storytelling of the Karbi people.wav"
+        }
+      ],
+      "pages": {
+        "59247118": {
+          "pageid": 59247118,
+          "ns": 6,
+          "title": "File:OpenSpeaks - Language Documentation - Karbi - 6. Storytelling of the Karbi people.wav",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2017-05-24T07:30:25Z",
+              "size": 64627382,
+              "width": 0,
+              "height": 0,
+              "duration": 732.7322448979592,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59247118",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-05-24 07:30:25",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "OpenSpeaks - Language Documentation - Karbi - 6. Storytelling of the Karbi people",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Dharamsing Teron|Karbi pronunciation|Uploaded with pattypan|Karbi people|Karbi language|Files by Subhashish Panigrahi|OpenSpeaks – language documentation - Karbi",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<hr>\n<p><b>Cite as</b><br>\n</p><p><br>\n</p>\n<hr>\n<center>\n<p><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/OpenSpeaks\" title=\"OpenSpeaks\"><img alt=\"OpenSpeaks logo\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/OpenSpeaks_logo.svg/60px-OpenSpeaks_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"60\" height=\"19\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/OpenSpeaks_logo.svg/120px-OpenSpeaks_logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"162\"></a></span> <span typeof=\"mw:File\"><span><img alt=\"Open Access logo\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_Access_PLoS.svg/60px-Open_Access_PLoS.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"60\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Open_Access_PLoS.svg/120px-Open_Access_PLoS.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"900\" data-file-height=\"360\"></span></span>\n</p>\n</center>\n<p>This media is part of OpenSpeaks, an initiative to document Indigenous and other low-resourced languages and support language archivists. Content published with Open Access under a Creative Commons license.\n</p>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2017-05-23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi>Subhashish Panigrahi</bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<div style=\"max-width:70em; margin:auto; padding: 2em; background:#3CBBB1; box-shadow: 8px 8px 5px #93a1a1; -moz-border-radius: 15px; border-radius: 15px; color:#0A0F0D;\" class=\"plainlinks\">\n<p><b>Credit information:</b>\n</p>\n<ul><li>This work was created by <a href=\"//commons.wikimedia.org/wiki/User:Psubhashish\" title=\"User:Psubhashish\">Subhashish Panigrahi</a>. You are free to use it for any purpose as long as you credit me properly.</li></ul>\n<p>✐ <b><a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/Psubhashish\" title=\"Special:EmailUser/Psubhashish\">Contact me</a></b> (<i>log in required</i>) • ✍︎ <a rel=\"nofollow\" class=\"external text\" href=\"https://psubhashish.com/contact\">Email</a>\n</p>\n<ul><li><b>If you are the subject</b> of the picture and would like to schedule another shoot.</li>\n<li>If you're unsure about how you can use this picture.</li></ul>\n<p><b>Reuse:</b>\n</p>\n<ul><li>If you use this image outside of Wikimedia projects, I would be happy to hear from you.</li>\n<li>If you use this image in a printed publication, I would love to get a copy for my archives.</li></ul>\n</div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

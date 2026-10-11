@@ -1,6 +1,6 @@
 # AxomRank asset rights register
 
-Baseline 11 October 2026. 676 file records. Machine-readable authority: [asset-register.json](asset-register.json). Pending means evidence is incomplete, not that a file is unlawful.
+Baseline 11 October 2026. 911 file records. Machine-readable authority: [asset-register.json](asset-register.json). Pending means evidence is incomplete, not that a file is unlawful.
 
 | Asset ID | Path | Status | Credit |
 |---|---|---|---|
@@ -657,6 +657,241 @@ Baseline 11 October 2026. 676 file records. Machine-readable authority: [asset-r
 | AXR-A-E6119DF4C327 | `rights/templates/RIGHTS_CONFIRMATION.md` | owner_requested_template | AxomRank |
 | AXR-A-5E300B8412F9 | `rights/templates/clearance-record.example.json` | owner_requested_template | AxomRank |
 | AXR-A-C197F7BB26C7 | `scripts/validate_library.py` | pending | Unconfirmed |
+| AXR-A-9E445DC63260 | `source-assets/pilot-v1/README.md` | pending | Unconfirmed |
+| AXR-A-8EB4AED90FF4 | `source-assets/pilot-v1/contributors/ADULT_PARTICIPANT_RELEASE.md` | pending | Unconfirmed |
+| AXR-A-40615C4B93BC | `source-assets/pilot-v1/contributors/CONTRIBUTOR_CONSENT_AND_LICENCE.md` | pending | Unconfirmed |
+| AXR-A-D4DAD61EBF2F | `source-assets/pilot-v1/contributors/archive-register.json` | pending | Unconfirmed |
+| AXR-A-8727F7D87F9C | `source-assets/pilot-v1/contributors/archive/karbi-01.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_2._Meaning_of_Karbi_and_the_Karbi_people.wav; original recording unchanged. |
+| AXR-A-3E086ED8C367 | `source-assets/pilot-v1/contributors/archive/karbi-02.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_5._Karbi_language_-_its_language_family_and_related_languages.wav; original recording unchanged. |
+| AXR-A-B50897FE7065 | `source-assets/pilot-v1/contributors/archive/karbi-03.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_4.Traditional_games_of_the_Karbi_people.wav; original recording unchanged. |
+| AXR-A-851A05E945B9 | `source-assets/pilot-v1/contributors/archive/karbi-04.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_6._Storytelling_of_the_Karbi_people.wav; original recording unchanged. |
+| AXR-A-17F04F2F2264 | `source-assets/pilot-v1/contributors/archive/karbi-05.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_7._Folk_songs_of_the_Karbi_people.wav; original recording unchanged. |
+| AXR-A-84FFC4ECB26F | `source-assets/pilot-v1/contributors/archive/karbi-06.wav` | licence_documented | D.S. Teron (speaker), Subhashish Panigrahi (recordist), O Foundation/OpenSpeaks; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:OpenSpeaks_-_Language_Documentation_-_Karbi_-_8._Local_festival_celebrations_by_the_Karbi_people.wav; original recording unchanged. |
+| AXR-A-5D549AB0F5AD | `source-assets/pilot-v1/contributors/commissioning-register.json` | pending | Unconfirmed |
+| AXR-A-DA3B4F0F116A | `source-assets/pilot-v1/curation-changes.json` | pending | Unconfirmed |
+| AXR-A-0DFD23D1F20B | `source-assets/pilot-v1/education/directory.csv` | pending | Unconfirmed |
+| AXR-A-2AA0A386AB25 | `source-assets/pilot-v1/education/directory.json` | pending | Unconfirmed |
+| AXR-A-36BCEF2506A9 | `source-assets/pilot-v1/education/historical-institution-seeds.json` | pending | Unconfirmed |
+| AXR-A-F548C4D58DB9 | `source-assets/pilot-v1/education/reference/cotton-navigation.json` | pending | Unconfirmed |
+| AXR-A-0958D407CCE5 | `source-assets/pilot-v1/education/reference/iit-guwahati-navigation.json` | pending | Unconfirmed |
+| AXR-A-46BB98C92386 | `source-assets/pilot-v1/education/reference/official-stream-list-historical.pdf` | pending | Unconfirmed |
+| AXR-A-4D246AF1D0A3 | `source-assets/pilot-v1/education/reference/tezpur-navigation.json` | pending | Unconfirmed |
+| AXR-A-7F922C08EEDF | `source-assets/pilot-v1/education/reference/tourism-navigation.json` | pending | Unconfirmed |
+| AXR-A-D701ECDCA274 | `source-assets/pilot-v1/gallery.html` | pending | Unconfirmed |
+| AXR-A-494EDA3B5281 | `source-assets/pilot-v1/manifest.json` | pending | Unconfirmed |
+| AXR-A-593A799022FA | `source-assets/pilot-v1/maps/adm1-source-metadata.json` | pending | Unconfirmed |
+| AXR-A-7A9F67BB0BDC | `source-assets/pilot-v1/maps/adm2-source-metadata.json` | pending | Unconfirmed |
+| AXR-A-44B5D9F0278D | `source-assets/pilot-v1/maps/assam-overview.geojson` | licence_documented | geoBoundaries; DataMeet India community, Election Commission of India; Creative Commons Attribution 2.5 India (CC BY 2.5 IN) |
+| AXR-A-70576971FCD0 | `source-assets/pilot-v1/maps/assam-overview.png` | licence_documented | geoBoundaries; DataMeet India community, Election Commission of India; Creative Commons Attribution 2.5 India (CC BY 2.5 IN) |
+| AXR-A-EE00B0FCEE62 | `source-assets/pilot-v1/maps/assam-overview.svg` | licence_documented | geoBoundaries; DataMeet India community, Election Commission of India; Creative Commons Attribution 2.5 India (CC BY 2.5 IN) |
+| AXR-A-5E660C34723E | `source-assets/pilot-v1/maps/guwahati-district-context.geojson` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-CF1104A82901 | `source-assets/pilot-v1/maps/guwahati-district-context.png` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-E17FDDE5E021 | `source-assets/pilot-v1/maps/guwahati-district-context.svg` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-87320B5CABEF | `source-assets/pilot-v1/maps/silchar-district-context.geojson` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-FE197D9AAAA3 | `source-assets/pilot-v1/maps/silchar-district-context.png` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-2FFA9CFB8C3F | `source-assets/pilot-v1/maps/silchar-district-context.svg` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-FE1A2D3699EC | `source-assets/pilot-v1/maps/sivasagar-district-context.geojson` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-89F68EAB4F14 | `source-assets/pilot-v1/maps/sivasagar-district-context.png` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-3E6168B44EDE | `source-assets/pilot-v1/maps/sivasagar-district-context.svg` | licence_documented | geoBoundaries; Pathways Data Pvt. Ltd., lgdirectory.gov.in; Open Data Commons Open Database License 1.0 |
+| AXR-A-B2645F782ED5 | `source-assets/pilot-v1/maps/source-register.json` | pending | Unconfirmed |
+| AXR-A-59FA13720D03 | `source-assets/pilot-v1/media-register.json` | pending | Unconfirmed |
+| AXR-A-327D41F9A713 | `source-assets/pilot-v1/metadata/arc-01.json` | pending | Unconfirmed |
+| AXR-A-C37FCB1C0488 | `source-assets/pilot-v1/metadata/arc-02.json` | pending | Unconfirmed |
+| AXR-A-301697F32B53 | `source-assets/pilot-v1/metadata/arc-03.json` | pending | Unconfirmed |
+| AXR-A-491E491BA58D | `source-assets/pilot-v1/metadata/arc-04.json` | pending | Unconfirmed |
+| AXR-A-395BA99F9F79 | `source-assets/pilot-v1/metadata/arc-05.json` | pending | Unconfirmed |
+| AXR-A-4842F5FD8330 | `source-assets/pilot-v1/metadata/arc-06.json` | pending | Unconfirmed |
+| AXR-A-8C7F59FB77D6 | `source-assets/pilot-v1/metadata/aud-01.json` | pending | Unconfirmed |
+| AXR-A-8C707C2A0E0C | `source-assets/pilot-v1/metadata/aud-02.json` | pending | Unconfirmed |
+| AXR-A-29673DA49CE4 | `source-assets/pilot-v1/metadata/aud-03.json` | pending | Unconfirmed |
+| AXR-A-F7279E972FAE | `source-assets/pilot-v1/metadata/aud-04.json` | pending | Unconfirmed |
+| AXR-A-B15185CFB2BC | `source-assets/pilot-v1/metadata/aud-05.json` | pending | Unconfirmed |
+| AXR-A-1815B25AC9F7 | `source-assets/pilot-v1/metadata/aud-06.json` | pending | Unconfirmed |
+| AXR-A-E4813CB15A1D | `source-assets/pilot-v1/metadata/aud-07.json` | pending | Unconfirmed |
+| AXR-A-47AFDD1C79E1 | `source-assets/pilot-v1/metadata/aud-08.json` | pending | Unconfirmed |
+| AXR-A-FE4EBFD9DB90 | `source-assets/pilot-v1/metadata/aud-09.json` | pending | Unconfirmed |
+| AXR-A-C687203D0B4D | `source-assets/pilot-v1/metadata/aud-10.json` | pending | Unconfirmed |
+| AXR-A-B10E60B91A41 | `source-assets/pilot-v1/metadata/aud-11.json` | pending | Unconfirmed |
+| AXR-A-D3FD4B1834D4 | `source-assets/pilot-v1/metadata/aud-12.json` | pending | Unconfirmed |
+| AXR-A-26F12AB4530B | `source-assets/pilot-v1/metadata/aud-13.json` | pending | Unconfirmed |
+| AXR-A-7819BC0A1A2A | `source-assets/pilot-v1/metadata/aud-14.json` | pending | Unconfirmed |
+| AXR-A-F0F7010F5981 | `source-assets/pilot-v1/metadata/aud-15.json` | pending | Unconfirmed |
+| AXR-A-D9C51A6FF9B0 | `source-assets/pilot-v1/metadata/aud-16.json` | pending | Unconfirmed |
+| AXR-A-52B471919B37 | `source-assets/pilot-v1/metadata/aud-17.json` | pending | Unconfirmed |
+| AXR-A-295124B83765 | `source-assets/pilot-v1/metadata/aud-18.json` | pending | Unconfirmed |
+| AXR-A-429943C992A8 | `source-assets/pilot-v1/metadata/aud-19.json` | pending | Unconfirmed |
+| AXR-A-A155EF83D40C | `source-assets/pilot-v1/metadata/aud-20.json` | pending | Unconfirmed |
+| AXR-A-69855B4AAE6F | `source-assets/pilot-v1/metadata/aud-21.json` | pending | Unconfirmed |
+| AXR-A-6336E1DD8450 | `source-assets/pilot-v1/metadata/aud-22.json` | pending | Unconfirmed |
+| AXR-A-F3330FD74C5D | `source-assets/pilot-v1/metadata/aud-23.json` | pending | Unconfirmed |
+| AXR-A-F9C9DCC02969 | `source-assets/pilot-v1/metadata/aud-24.json` | pending | Unconfirmed |
+| AXR-A-5D5E770C3576 | `source-assets/pilot-v1/metadata/aud-25.json` | pending | Unconfirmed |
+| AXR-A-EF823E62E591 | `source-assets/pilot-v1/metadata/aud-26.json` | pending | Unconfirmed |
+| AXR-A-B5DF06D494E8 | `source-assets/pilot-v1/metadata/aud-27.json` | pending | Unconfirmed |
+| AXR-A-3954707C23C6 | `source-assets/pilot-v1/metadata/aud-28.json` | pending | Unconfirmed |
+| AXR-A-AAADFA4B0D22 | `source-assets/pilot-v1/metadata/aud-29.json` | pending | Unconfirmed |
+| AXR-A-3850E37B4458 | `source-assets/pilot-v1/metadata/aud-30.json` | pending | Unconfirmed |
+| AXR-A-F2D8E1AFF691 | `source-assets/pilot-v1/metadata/obj-01.json` | pending | Unconfirmed |
+| AXR-A-7A55CA57C91F | `source-assets/pilot-v1/metadata/obj-02.json` | pending | Unconfirmed |
+| AXR-A-F2D18BA55E08 | `source-assets/pilot-v1/metadata/obj-03.json` | pending | Unconfirmed |
+| AXR-A-9E6DC1CD737D | `source-assets/pilot-v1/metadata/obj-04.json` | pending | Unconfirmed |
+| AXR-A-581C040C672F | `source-assets/pilot-v1/metadata/obj-05.json` | pending | Unconfirmed |
+| AXR-A-BE22BD36DF3E | `source-assets/pilot-v1/metadata/obj-06.json` | pending | Unconfirmed |
+| AXR-A-471DE2170496 | `source-assets/pilot-v1/metadata/obj-07.json` | pending | Unconfirmed |
+| AXR-A-EA286A2D7227 | `source-assets/pilot-v1/metadata/obj-08.json` | pending | Unconfirmed |
+| AXR-A-10755BCD270E | `source-assets/pilot-v1/metadata/pho-01.json` | pending | Unconfirmed |
+| AXR-A-356258432B97 | `source-assets/pilot-v1/metadata/pho-02.json` | pending | Unconfirmed |
+| AXR-A-CB56BB33E29B | `source-assets/pilot-v1/metadata/pho-03.json` | pending | Unconfirmed |
+| AXR-A-7E20E38B8278 | `source-assets/pilot-v1/metadata/pho-04.json` | pending | Unconfirmed |
+| AXR-A-965095808937 | `source-assets/pilot-v1/metadata/pho-05.json` | pending | Unconfirmed |
+| AXR-A-BA70D573B210 | `source-assets/pilot-v1/metadata/pho-06.json` | pending | Unconfirmed |
+| AXR-A-8960E5579C35 | `source-assets/pilot-v1/metadata/pho-07.json` | pending | Unconfirmed |
+| AXR-A-C63526A971FC | `source-assets/pilot-v1/metadata/pho-08.json` | pending | Unconfirmed |
+| AXR-A-0C5278036C4A | `source-assets/pilot-v1/metadata/pho-09.json` | pending | Unconfirmed |
+| AXR-A-37C3265786FD | `source-assets/pilot-v1/metadata/pho-10.json` | pending | Unconfirmed |
+| AXR-A-2FD6305A9A52 | `source-assets/pilot-v1/metadata/pho-11.json` | pending | Unconfirmed |
+| AXR-A-978365FA0492 | `source-assets/pilot-v1/metadata/pho-12.json` | pending | Unconfirmed |
+| AXR-A-3B84EF695D03 | `source-assets/pilot-v1/metadata/pho-13.json` | pending | Unconfirmed |
+| AXR-A-E854204A0BAE | `source-assets/pilot-v1/metadata/pho-14.json` | pending | Unconfirmed |
+| AXR-A-930210BD46A8 | `source-assets/pilot-v1/metadata/pho-15.json` | pending | Unconfirmed |
+| AXR-A-6B7F19DB0E1D | `source-assets/pilot-v1/metadata/pho-16.json` | pending | Unconfirmed |
+| AXR-A-7076F334789A | `source-assets/pilot-v1/metadata/pho-17.json` | pending | Unconfirmed |
+| AXR-A-DB77DB000B46 | `source-assets/pilot-v1/metadata/pho-18.json` | pending | Unconfirmed |
+| AXR-A-FFB4F6BC3F72 | `source-assets/pilot-v1/metadata/pho-19.json` | pending | Unconfirmed |
+| AXR-A-FAA23182EAE1 | `source-assets/pilot-v1/metadata/pho-20.json` | pending | Unconfirmed |
+| AXR-A-1A376934E542 | `source-assets/pilot-v1/metadata/pho-21.json` | pending | Unconfirmed |
+| AXR-A-D9ACA0B33F27 | `source-assets/pilot-v1/metadata/pho-22.json` | pending | Unconfirmed |
+| AXR-A-16EB1DF68425 | `source-assets/pilot-v1/metadata/pho-23.json` | pending | Unconfirmed |
+| AXR-A-A39503027A9D | `source-assets/pilot-v1/metadata/pho-24.json` | pending | Unconfirmed |
+| AXR-A-D2AF06598DA5 | `source-assets/pilot-v1/metadata/pho-25.json` | pending | Unconfirmed |
+| AXR-A-21EEFD2F1A4F | `source-assets/pilot-v1/metadata/pho-26.json` | pending | Unconfirmed |
+| AXR-A-022BF0D47905 | `source-assets/pilot-v1/metadata/pho-27.json` | pending | Unconfirmed |
+| AXR-A-ED3FB442E0D4 | `source-assets/pilot-v1/metadata/pho-28.json` | pending | Unconfirmed |
+| AXR-A-8943A27B6D1A | `source-assets/pilot-v1/metadata/pho-29.json` | pending | Unconfirmed |
+| AXR-A-B3BD9C7DDFE2 | `source-assets/pilot-v1/metadata/pho-30.json` | pending | Unconfirmed |
+| AXR-A-CD081265D28D | `source-assets/pilot-v1/objects/obj-01-assam-coin-sketch-by-jean-baptise-tavernir.jpg` | pending | Assam coin sketch by Jean Baptise Tavernir.jpg — Jean Baptiste Tavernier (1605-1689); Public domain; https://commons.wikimedia.org/wiki/File:Assam_coin_sketch_by_Jean_Baptise_Tavernir.jpg |
+| AXR-A-D935985A30BD | `source-assets/pilot-v1/objects/obj-02-assam-shiva-simha-squar-coin.jpg` | licence_documented | Assam Shiva Simha Squar coin.jpg — Muddy Rhino; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Assam_Shiva_Simha_Squar_coin.jpg |
+| AXR-A-463147ACF80B | `source-assets/pilot-v1/objects/obj-03-coin-of-ahom-queen-ambika-devi.jpg` | licence_documented | Coin of Ahom queen Ambika devi.jpg — ComparingQuantities; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Coin_of_Ahom_queen_Ambika_devi.jpg |
+| AXR-A-7306AF478C89 | `source-assets/pilot-v1/objects/obj-04-coin-of-assam-lakshmi-singha.jpg` | licence_documented | Coin of Assam, Lakshmi Singha.jpg — Unknown author Unknown author; CC0; https://commons.wikimedia.org/wiki/File:Coin_of_Assam,_Lakshmi_Singha.jpg |
+| AXR-A-3BFB6ED4D392 | `source-assets/pilot-v1/objects/obj-05-siva-1.jpg` | pending | Siva-1.JPG — Dilbar and Dosai; Public domain; https://commons.wikimedia.org/wiki/File:Siva-1.JPG |
+| AXR-A-5AFE839D9DC5 | `source-assets/pilot-v1/objects/obj-06-nidhanpur-copper-plate-inscriptions-of-kumar-bhaskar-varman.jpg` | licence_documented | Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman.jpg — নৰুনা বৰুৱা; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg |
+| AXR-A-441EB2AA20B8 | `source-assets/pilot-v1/objects/obj-07-kanai-barasi-rock-cut-inscriptions-of-1205-ce-in-north-guwahati-08.jpg` | licence_documented | Kanai Barasi rock cut inscriptions of 1205 CE in North Guwahati 08.jpg — Pinakpani; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Kanai_Barasi_rock_cut_inscriptions_of_1205_CE_in_North_Guwahati_08.jpg |
+| AXR-A-C6DBE5C9C564 | `source-assets/pilot-v1/objects/obj-08-manuscript-sml.jpg` | licence_documented | Manuscript-sml.JPG — Satyakam Phukan; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Manuscript-sml.JPG |
+| AXR-A-22C68C49E6FB | `source-assets/pilot-v1/photographs/pho-01-a-view-of-rong-ghar.jpg` | licence_documented | A view of Rong Ghar.JPG — Aniruddha Buragohain; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_view_of_Rong_Ghar.JPG |
+| AXR-A-6E0F2A66E0F3 | `source-assets/pilot-v1/photographs/pho-02-ahom-architectural-marvel.jpg` | licence_documented | Ahom architectural Marvel.jpg — Thapalens; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Ahom_architectural_Marvel.jpg |
+| AXR-A-0DE0C9D97C6D | `source-assets/pilot-v1/photographs/pho-03-architecture-a-view-from-rang-ghar.jpg` | licence_documented | Architecture - A view from Rang-Ghar.jpg — Gitika Gayan; CC BY 3.0; https://commons.wikimedia.org/wiki/File:Architecture_-_A_view_from_Rang-Ghar.jpg |
+| AXR-A-0E22FD3D4E21 | `source-assets/pilot-v1/photographs/pho-04-a-chamber-in-talatal-ghar-in-sivasagar-assam.jpg` | licence_documented | A chamber in Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_chamber_in_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-F114D5416C38 | `source-assets/pilot-v1/photographs/pho-05-a-partial-view-of-talatal-ghar-in-sivasagar-assam.jpg` | licence_documented | A partial view of Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_partial_view_of_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-5E1E3A518AC2 | `source-assets/pilot-v1/photographs/pho-06-a-side-view-of-talatal-ghar-in-sivasagar-assam.jpg` | licence_documented | A side view of Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_side_view_of_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-EA44AC58EA69 | `source-assets/pilot-v1/photographs/pho-07-a-part-of-the-waterfalls-of-vasistha-alternative-basistha-muni-ashram-at-vashista-man.jpg` | licence_documented | A part of the waterfalls of Vasistha(alternative Basistha) Muni Ashram at Vashista Mandir, Guwahati, Assam.jpg — Romam1988; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_part_of_the_waterfalls_of_Vasistha(alternative_Basistha)_Muni_Ashram_at_Vashista_Mandir,_Guwahati,_Assam.jpg |
+| AXR-A-3F0E17A4E310 | `source-assets/pilot-v1/photographs/pho-08-a-view-from-nilachal-hill-in-guwahati-assam-india.jpg` | licence_documented | A view from Nilachal Hill in Guwahati, Assam, India.jpg — পাপৰি বৰা; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg |
+| AXR-A-2A7F98131028 | `source-assets/pilot-v1/photographs/pho-09-a-view-of-deepor-beel-in-the-vicinity-of-aec.jpg` | pending | A view of Deepor Beel in the vicinity of AEC.jpg — Konwar.anupam  at  English Wikipedia; Public domain; https://commons.wikimedia.org/wiki/File:A_view_of_Deepor_Beel_in_the_vicinity_of_AEC.jpg |
+| AXR-A-0CC166027634 | `source-assets/pilot-v1/photographs/pho-10-a-tea-garden-in-cachar-district-assam-.jpg` | licence_documented | A Tea Garden in Cachar District, Assam..JPG — Deeporaj; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Tea_Garden_in_Cachar_District,_Assam..JPG |
+| AXR-A-448B13667B34 | `source-assets/pilot-v1/photographs/pho-11-a-glimpse-of-na-duar-historic-gate-of-ahom-era.jpg` | licence_documented | A glimpse of Na-Duar, historic gate of Ahom era.jpg — JyotiPN; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_glimpse_of_Na-Duar,_historic_gate_of_Ahom_era.jpg |
+| AXR-A-98B00706F830 | `source-assets/pilot-v1/photographs/pho-12-silchar-nazirpatty.jpg` | licence_documented | Silchar Nazirpatty.jpg — Goswami21; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Silchar_Nazirpatty.jpg |
+| AXR-A-ECB2BB2EEE00 | `source-assets/pilot-v1/photographs/pho-13-barak-river-as-seen-from-sadarghat-bridge-silchar-assam-.jpg` | licence_documented | Barak River as seen from Sadarghat Bridge, Silchar, Assam..JPG — Deeporaj; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Barak_River_as_seen_from_Sadarghat_Bridge,_Silchar,_Assam..JPG |
+| AXR-A-AAF05FBCDE96 | `source-assets/pilot-v1/photographs/pho-14-new-silchar-railway-station-2016.jpg` | licence_documented | New Silchar Railway Station 2016.jpg — Mahasish; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:New_Silchar_Railway_Station_2016.jpg |
+| AXR-A-6D6E74CDA18D | `source-assets/pilot-v1/photographs/pho-15-a-sunset-during-summer.jpg` | licence_documented | A sunset during summer.jpg — Sankhyac; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_sunset_during_summer.jpg |
+| AXR-A-86DF0C0F865B | `source-assets/pilot-v1/photographs/pho-16-assam-057.jpg` | licence_documented | Assam 057.jpg — Peter Andersen; CC BY 2.5; https://commons.wikimedia.org/wiki/File:Assam_057.jpg |
+| AXR-A-22B068C05B32 | `source-assets/pilot-v1/photographs/pho-17-a-trail-in-kaziranga-national-park-assam.jpg` | licence_documented | A trail in Kaziranga National Park, Assam.jpg — Joli; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_trail_in_Kaziranga_National_Park,_Assam.jpg |
+| AXR-A-7E208160B59F | `source-assets/pilot-v1/photographs/pho-18-a-vibrant-bird-2.jpg` | licence_documented | A vibrant bird 2.jpg — Karabi kanan chutia; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg |
+| AXR-A-F6987AE9CDCC | `source-assets/pilot-v1/photographs/pho-19-adrian-scottow-c-s-rawanapar-high-school-on-majuli-island-assam-img-7996.jpg` | licence_documented | Adrian Scottow, C S Rawanapar High School on Majuli Island (Assam) IMG 7996.jpg — Adrian Scottow; CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Adrian_Scottow,_C_S_Rawanapar_High_School_on_Majuli_Island_(Assam)_IMG_7996.jpg |
+| AXR-A-2584F92B07D0 | `source-assets/pilot-v1/photographs/pho-20-a-bamboo-and-thatch-house-in-majuli-assam.jpg` | licence_documented | A bamboo and thatch house in Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_and_thatch_house_in_Majuli,_Assam.jpg |
+| AXR-A-DE2FDEB9B047 | `source-assets/pilot-v1/photographs/pho-21-a-bamboo-bridge-on-luhit-river-majuli-assam.jpg` | licence_documented | A bamboo bridge on Luhit river, Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_bridge_on_Luhit_river,_Majuli,_Assam.jpg |
+| AXR-A-727BD59C2215 | `source-assets/pilot-v1/photographs/pho-22-1st-overbridge-of-dibrugarh-along-the-mankata-road.jpg` | licence_documented | 1st Overbridge of Dibrugarh along the Mankata Road.jpg — Nborkakoty; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:1st_Overbridge_of_Dibrugarh_along_the_Mankata_Road.jpg |
+| AXR-A-72499E5DA976 | `source-assets/pilot-v1/photographs/pho-23-dibrugarh-railway-station.jpg` | licence_documented | Dibrugarh railway station.jpg — Nborkakoty; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Dibrugarh_railway_station.jpg |
+| AXR-A-C498FFA0168C | `source-assets/pilot-v1/photographs/pho-24-a-street-at-chitadar-chuk-majuli-assam.jpg` | licence_documented | A street at Chitadar chuk, Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_street_at_Chitadar_chuk,_Majuli,_Assam.jpg |
+| AXR-A-0A06019FEBA7 | `source-assets/pilot-v1/photographs/pho-25-a-park-in-tezpur-138909169-.jpeg` | licence_documented | A Park In Tezpur (138909169).jpeg — Alexandre Ultré; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Park_In_Tezpur_(138909169).jpeg |
+| AXR-A-2E3982582B59 | `source-assets/pilot-v1/photographs/pho-26-a-sunset-in-tezpur-2-138912985-.jpeg` | licence_documented | A Sunset In Tezpur 2 (138912985).jpeg — Alexandre Ultré; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Sunset_In_Tezpur_2_(138912985).jpeg |
+| AXR-A-9622F89660C3 | `source-assets/pilot-v1/photographs/pho-27-a-view-of-chowk-market-tezpur.jpg` | licence_documented | A view of Chowk Market, Tezpur.jpg — Bishnu Saikia; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_view_of_Chowk_Market,_Tezpur.jpg |
+| AXR-A-9ED8F0578128 | `source-assets/pilot-v1/photographs/pho-28-gaurang-hostel-iit-guwahati-oct24-a7cr-03209.jpg` | licence_documented | Gaurang Hostel IIT Guwahati Oct24 A7CR 03209.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg |
+| AXR-A-113E0DD0C7D4 | `source-assets/pilot-v1/photographs/pho-29-road-east-iit-guwahati-assam-oct24-a7cr-03203.jpg` | licence_documented | Road East IIT Guwahati Assam Oct24 A7CR 03203.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg |
+| AXR-A-2B15A10FF0CD | `source-assets/pilot-v1/photographs/pho-30-a-tea-estate-in-dibrugarh-district-assam.jpg` | licence_documented | A tea estate in Dibrugarh district, Assam.jpg — Joli; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_tea_estate_in_Dibrugarh_district,_Assam.jpg |
+| AXR-A-B85E87CD7B12 | `source-assets/pilot-v1/places/directory.csv` | pending | Unconfirmed |
+| AXR-A-778C6C80B38D | `source-assets/pilot-v1/places/directory.json` | pending | Unconfirmed |
+| AXR-A-D499D3618EE5 | `source-assets/pilot-v1/previews/obj-01.jpg` | pending | Assam coin sketch by Jean Baptise Tavernir.jpg — Jean Baptiste Tavernier (1605-1689); Public domain; https://commons.wikimedia.org/wiki/File:Assam_coin_sketch_by_Jean_Baptise_Tavernir.jpg |
+| AXR-A-D5BDEEF31CD0 | `source-assets/pilot-v1/previews/obj-02.jpg` | licence_documented | Assam Shiva Simha Squar coin.jpg — Muddy Rhino; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Assam_Shiva_Simha_Squar_coin.jpg |
+| AXR-A-ED4BA47B4D53 | `source-assets/pilot-v1/previews/obj-03.jpg` | licence_documented | Coin of Ahom queen Ambika devi.jpg — ComparingQuantities; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Coin_of_Ahom_queen_Ambika_devi.jpg |
+| AXR-A-639376AD8FFE | `source-assets/pilot-v1/previews/obj-04.jpg` | licence_documented | Coin of Assam, Lakshmi Singha.jpg — Unknown author Unknown author; CC0; https://commons.wikimedia.org/wiki/File:Coin_of_Assam,_Lakshmi_Singha.jpg |
+| AXR-A-D41399905DA0 | `source-assets/pilot-v1/previews/obj-05.jpg` | pending | Siva-1.JPG — Dilbar and Dosai; Public domain; https://commons.wikimedia.org/wiki/File:Siva-1.JPG |
+| AXR-A-2D010E50E43C | `source-assets/pilot-v1/previews/obj-06.jpg` | licence_documented | Nidhanpur Copper Plate Inscriptions of Kumar Bhaskar Varman.jpg — নৰুনা বৰুৱা; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Nidhanpur_Copper_Plate_Inscriptions_of_Kumar_Bhaskar_Varman.jpg |
+| AXR-A-7DBAAB31E0CB | `source-assets/pilot-v1/previews/obj-07.jpg` | licence_documented | Kanai Barasi rock cut inscriptions of 1205 CE in North Guwahati 08.jpg — Pinakpani; CC BY 4.0; https://commons.wikimedia.org/wiki/File:Kanai_Barasi_rock_cut_inscriptions_of_1205_CE_in_North_Guwahati_08.jpg |
+| AXR-A-849287F5A0B0 | `source-assets/pilot-v1/previews/obj-08.jpg` | licence_documented | Manuscript-sml.JPG — Satyakam Phukan; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Manuscript-sml.JPG |
+| AXR-A-37CA873E4E2B | `source-assets/pilot-v1/previews/obj-contact-sheet.jpg` | pending | Unconfirmed |
+| AXR-A-5373DC450C02 | `source-assets/pilot-v1/previews/pho-01.jpg` | licence_documented | A view of Rong Ghar.JPG — Aniruddha Buragohain; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_view_of_Rong_Ghar.JPG |
+| AXR-A-061093DFB878 | `source-assets/pilot-v1/previews/pho-02.jpg` | licence_documented | Ahom architectural Marvel.jpg — Thapalens; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Ahom_architectural_Marvel.jpg |
+| AXR-A-64A8AA3A3CAC | `source-assets/pilot-v1/previews/pho-03.jpg` | licence_documented | Architecture - A view from Rang-Ghar.jpg — Gitika Gayan; CC BY 3.0; https://commons.wikimedia.org/wiki/File:Architecture_-_A_view_from_Rang-Ghar.jpg |
+| AXR-A-E1B9D93B9451 | `source-assets/pilot-v1/previews/pho-04.jpg` | licence_documented | A chamber in Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_chamber_in_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-6617AC04CEE4 | `source-assets/pilot-v1/previews/pho-05.jpg` | licence_documented | A partial view of Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_partial_view_of_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-4B5AC7C70ECA | `source-assets/pilot-v1/previews/pho-06.jpg` | licence_documented | A side view of Talatal Ghar in Sivasagar, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_side_view_of_Talatal_Ghar_in_Sivasagar,_Assam.jpg |
+| AXR-A-8FAD79B0E5A6 | `source-assets/pilot-v1/previews/pho-07.jpg` | licence_documented | A part of the waterfalls of Vasistha(alternative Basistha) Muni Ashram at Vashista Mandir, Guwahati, Assam.jpg — Romam1988; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_part_of_the_waterfalls_of_Vasistha(alternative_Basistha)_Muni_Ashram_at_Vashista_Mandir,_Guwahati,_Assam.jpg |
+| AXR-A-C23526E7F203 | `source-assets/pilot-v1/previews/pho-08.jpg` | licence_documented | A view from Nilachal Hill in Guwahati, Assam, India.jpg — পাপৰি বৰা; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg |
+| AXR-A-7E3A31E20439 | `source-assets/pilot-v1/previews/pho-09.jpg` | pending | A view of Deepor Beel in the vicinity of AEC.jpg — Konwar.anupam  at  English Wikipedia; Public domain; https://commons.wikimedia.org/wiki/File:A_view_of_Deepor_Beel_in_the_vicinity_of_AEC.jpg |
+| AXR-A-B64EA8D5F092 | `source-assets/pilot-v1/previews/pho-10.jpg` | licence_documented | A Tea Garden in Cachar District, Assam..JPG — Deeporaj; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Tea_Garden_in_Cachar_District,_Assam..JPG |
+| AXR-A-B4989AD1D3DA | `source-assets/pilot-v1/previews/pho-11.jpg` | licence_documented | A glimpse of Na-Duar, historic gate of Ahom era.jpg — JyotiPN; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_glimpse_of_Na-Duar,_historic_gate_of_Ahom_era.jpg |
+| AXR-A-3F6D8E0B9E14 | `source-assets/pilot-v1/previews/pho-12.jpg` | licence_documented | Silchar Nazirpatty.jpg — Goswami21; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Silchar_Nazirpatty.jpg |
+| AXR-A-833748F55D82 | `source-assets/pilot-v1/previews/pho-13.jpg` | licence_documented | Barak River as seen from Sadarghat Bridge, Silchar, Assam..JPG — Deeporaj; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Barak_River_as_seen_from_Sadarghat_Bridge,_Silchar,_Assam..JPG |
+| AXR-A-26433B1F9276 | `source-assets/pilot-v1/previews/pho-14.jpg` | licence_documented | New Silchar Railway Station 2016.jpg — Mahasish; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:New_Silchar_Railway_Station_2016.jpg |
+| AXR-A-C60ED4EA7CE5 | `source-assets/pilot-v1/previews/pho-15.jpg` | licence_documented | A sunset during summer.jpg — Sankhyac; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_sunset_during_summer.jpg |
+| AXR-A-90652E360007 | `source-assets/pilot-v1/previews/pho-16.jpg` | licence_documented | Assam 057.jpg — Peter Andersen; CC BY 2.5; https://commons.wikimedia.org/wiki/File:Assam_057.jpg |
+| AXR-A-F8D91EF90014 | `source-assets/pilot-v1/previews/pho-17.jpg` | licence_documented | A trail in Kaziranga National Park, Assam.jpg — Joli; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_trail_in_Kaziranga_National_Park,_Assam.jpg |
+| AXR-A-6F3487510140 | `source-assets/pilot-v1/previews/pho-18.jpg` | licence_documented | A vibrant bird 2.jpg — Karabi kanan chutia; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg |
+| AXR-A-48DCC6652916 | `source-assets/pilot-v1/previews/pho-19.jpg` | licence_documented | Adrian Scottow, C S Rawanapar High School on Majuli Island (Assam) IMG 7996.jpg — Adrian Scottow; CC BY-SA 2.0; https://commons.wikimedia.org/wiki/File:Adrian_Scottow,_C_S_Rawanapar_High_School_on_Majuli_Island_(Assam)_IMG_7996.jpg |
+| AXR-A-1BE740B35DFC | `source-assets/pilot-v1/previews/pho-20.jpg` | licence_documented | A bamboo and thatch house in Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_and_thatch_house_in_Majuli,_Assam.jpg |
+| AXR-A-5923CE32AFE3 | `source-assets/pilot-v1/previews/pho-21.jpg` | licence_documented | A bamboo bridge on Luhit river, Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_bridge_on_Luhit_river,_Majuli,_Assam.jpg |
+| AXR-A-DC47B9593459 | `source-assets/pilot-v1/previews/pho-22.jpg` | licence_documented | 1st Overbridge of Dibrugarh along the Mankata Road.jpg — Nborkakoty; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:1st_Overbridge_of_Dibrugarh_along_the_Mankata_Road.jpg |
+| AXR-A-C78B46868818 | `source-assets/pilot-v1/previews/pho-23.jpg` | licence_documented | Dibrugarh railway station.jpg — Nborkakoty; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Dibrugarh_railway_station.jpg |
+| AXR-A-5C839D9B2C73 | `source-assets/pilot-v1/previews/pho-24.jpg` | licence_documented | A street at Chitadar chuk, Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_street_at_Chitadar_chuk,_Majuli,_Assam.jpg |
+| AXR-A-71306C477979 | `source-assets/pilot-v1/previews/pho-25.jpg` | licence_documented | A Park In Tezpur (138909169).jpeg — Alexandre Ultré; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Park_In_Tezpur_(138909169).jpeg |
+| AXR-A-997061FEF2DE | `source-assets/pilot-v1/previews/pho-26.jpg` | licence_documented | A Sunset In Tezpur 2 (138912985).jpeg — Alexandre Ultré; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_Sunset_In_Tezpur_2_(138912985).jpeg |
+| AXR-A-01F0A89E18DC | `source-assets/pilot-v1/previews/pho-27.jpg` | licence_documented | A view of Chowk Market, Tezpur.jpg — Bishnu Saikia; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:A_view_of_Chowk_Market,_Tezpur.jpg |
+| AXR-A-F76F133C4942 | `source-assets/pilot-v1/previews/pho-28.jpg` | licence_documented | Gaurang Hostel IIT Guwahati Oct24 A7CR 03209.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg |
+| AXR-A-13D26017AAEF | `source-assets/pilot-v1/previews/pho-29.jpg` | licence_documented | Road East IIT Guwahati Assam Oct24 A7CR 03203.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg |
+| AXR-A-0AC2C5E99E61 | `source-assets/pilot-v1/previews/pho-30.jpg` | licence_documented | A tea estate in Dibrugarh district, Assam.jpg — Joli; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_tea_estate_in_Dibrugarh_district,_Assam.jpg |
+| AXR-A-88D4584D13BB | `source-assets/pilot-v1/previews/pho-contact-sheet.jpg` | pending | Unconfirmed |
+| AXR-A-E0E09A1F43A1 | `source-assets/pilot-v1/pronunciation/audio-format-checks.json` | pending | Unconfirmed |
+| AXR-A-201A90043AB4 | `source-assets/pilot-v1/pronunciation/audio/aud-01.oga` | licence_documented | As-অসম.oga — w:Ziabur Rahman; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%85%E0%A6%B8%E0%A6%AE.oga; unchanged original recording. |
+| AXR-A-F6C251321384 | `source-assets/pilot-v1/pronunciation/audio/aud-02.oga` | licence_documented | As-অসমীয়া.oga — Sagir Ahmed Msa; CC BY-SA 3.0; https://creativecommons.org/licenses/by-sa/3.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%85%E0%A6%B8%E0%A6%AE%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%BE.oga; unchanged original recording. |
+| AXR-A-53F2895B5FA8 | `source-assets/pilot-v1/pronunciation/audio/aud-03.wav` | licence_documented | As-বিহু.wav — Msasag; CC0; http://creativecommons.org/publicdomain/zero/1.0/deed.en; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav; unchanged original recording. |
+| AXR-A-118A4132ADDD | `source-assets/pilot-v1/pronunciation/audio/aud-04.oga` | licence_documented | As-গোলাঘাট.oga — OmerMarcel; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga; unchanged original recording. |
+| AXR-A-A594D4514EE0 | `source-assets/pilot-v1/pronunciation/audio/aud-05.oga` | licence_documented | As-বহী.oga — Msasag; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga; unchanged original recording. |
+| AXR-A-59DC9E83F0A6 | `source-assets/pilot-v1/pronunciation/audio/aud-06.ogg` | licence_documented | As-এক.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%8F%E0%A6%95.ogg; unchanged original recording. |
+| AXR-A-4D440A0DD763 | `source-assets/pilot-v1/pronunciation/audio/aud-07.ogg` | licence_documented | As-দুই.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A6%E0%A7%81%E0%A6%87.ogg; unchanged original recording. |
+| AXR-A-BF557D229141 | `source-assets/pilot-v1/pronunciation/audio/aud-08.ogg` | licence_documented | As-তিনি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-6E6AB138B9F6 | `source-assets/pilot-v1/pronunciation/audio/aud-09.ogg` | licence_documented | As-চাৰি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%9A%E0%A6%BE%E0%A7%B0%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-F9FE838793B3 | `source-assets/pilot-v1/pronunciation/audio/aud-10.ogg` | licence_documented | As-পাঁচ.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A.ogg; unchanged original recording. |
+| AXR-A-B9D9A4CCCC3E | `source-assets/pilot-v1/pronunciation/audio/aud-11.ogg` | licence_documented | As-ছয়.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg; unchanged original recording. |
+| AXR-A-CD5D393CAB73 | `source-assets/pilot-v1/pronunciation/audio/aud-12.ogg` | licence_documented | As-সাত.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%B8%E0%A6%BE%E0%A6%A4.ogg; unchanged original recording. |
+| AXR-A-6393472D12AE | `source-assets/pilot-v1/pronunciation/audio/aud-13.ogg` | licence_documented | As-আঠ.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%86%E0%A6%A0.ogg; unchanged original recording. |
+| AXR-A-D65D6B1ABE00 | `source-assets/pilot-v1/pronunciation/audio/aud-14.ogg` | licence_documented | As-ন.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A8.ogg; unchanged original recording. |
+| AXR-A-0E7B1AF4DF35 | `source-assets/pilot-v1/pronunciation/audio/aud-15.ogg` | licence_documented | As-দহ.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A6%E0%A6%B9.ogg; unchanged original recording. |
+| AXR-A-6366A85DED1B | `source-assets/pilot-v1/pronunciation/audio/aud-16.ogg` | licence_documented | As-আপুনি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%86%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-06E066F63382 | `source-assets/pilot-v1/pronunciation/audio/aud-17.ogg` | licence_documented | As-মই.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AE%E0%A6%87.ogg; unchanged original recording. |
+| AXR-A-DE52FC0E84F0 | `source-assets/pilot-v1/pronunciation/audio/aud-18.ogg` | licence_documented | As-আমি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%86%E0%A6%AE%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-870AD975FAAA | `source-assets/pilot-v1/pronunciation/audio/aud-19.ogg` | licence_documented | As-তুমি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-27827A663F49 | `source-assets/pilot-v1/pronunciation/audio/aud-20.ogg` | licence_documented | As-তেওঁ.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A7%87%E0%A6%93%E0%A6%81.ogg; unchanged original recording. |
+| AXR-A-F96197684662 | `source-assets/pilot-v1/pronunciation/audio/aud-21.ogg` | licence_documented | As-তেখেত.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%A4.ogg; unchanged original recording. |
+| AXR-A-9777543F338D | `source-assets/pilot-v1/pronunciation/audio/aud-22.ogg` | licence_documented | As-কি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E0%A6%BF.ogg; unchanged original recording. |
+| AXR-A-055B7587747F | `source-assets/pilot-v1/pronunciation/audio/aud-23.ogg` | licence_documented | As-কিমান.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8.ogg; unchanged original recording. |
+| AXR-A-FDF799171377 | `source-assets/pilot-v1/pronunciation/audio/aud-24.ogg` | licence_documented | As-কিয়.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E0%A6%BF%E0%A6%AF%E0%A6%BC.ogg; unchanged original recording. |
+| AXR-A-2EFE943D1A5A | `source-assets/pilot-v1/pronunciation/audio/aud-25.ogg` | licence_documented | As-কেতিয়া.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.ogg; unchanged original recording. |
+| AXR-A-D91BE86C2D36 | `source-assets/pilot-v1/pronunciation/audio/aud-26.ogg` | licence_documented | As-কেনেকৈ.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%95%E0%A7%88.ogg; unchanged original recording. |
+| AXR-A-79F04E03EF48 | `source-assets/pilot-v1/pronunciation/audio/aud-27.ogg` | licence_documented | As-ক’ত.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%95%E2%80%99%E0%A6%A4.ogg; unchanged original recording. |
+| AXR-A-3CA8F9B32674 | `source-assets/pilot-v1/pronunciation/audio/aud-28.ogg` | licence_documented | As-নীলা.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%BE.ogg; unchanged original recording. |
+| AXR-A-390D8B413C50 | `source-assets/pilot-v1/pronunciation/audio/aud-29.ogg` | licence_documented | As-বগা.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%97%E0%A6%BE.ogg; unchanged original recording. |
+| AXR-A-924138035E58 | `source-assets/pilot-v1/pronunciation/audio/aud-30.ogg` | licence_documented | As-ৰঙা.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A7%B0%E0%A6%99%E0%A6%BE.ogg; unchanged original recording. |
+| AXR-A-D7D6D223860D | `source-assets/pilot-v1/pronunciation/glossary-draft.csv` | pending | Unconfirmed |
+| AXR-A-8DF218887CFE | `source-assets/pilot-v1/pronunciation/glossary-draft.json` | pending | Unconfirmed |
+| AXR-A-A56D6D2949BE | `source-assets/pilot-v1/pronunciation/licensed-audio-glossary.csv` | pending | Unconfirmed |
+| AXR-A-3C330DC60FEF | `source-assets/pilot-v1/pronunciation/licensed-audio-register.json` | pending | Unconfirmed |
+| AXR-A-8414AE58F52A | `source-assets/pilot-v1/qa.json` | pending | Unconfirmed |
+| AXR-A-4DD75A8EE458 | `source-assets/pilot-v1/scripts/build_catalog.py` | pending | Unconfirmed |
+| AXR-A-FA39FB7C7AC4 | `source-assets/pilot-v1/scripts/build_maps.py` | pending | Unconfirmed |
+| AXR-A-2371E3852D12 | `source-assets/pilot-v1/scripts/build_records.py` | pending | Unconfirmed |
+| AXR-A-B8E23D0AA8FF | `source-assets/pilot-v1/scripts/curate_media.py` | pending | Unconfirmed |
+| AXR-A-12208F475838 | `source-assets/pilot-v1/scripts/download_audio.py` | pending | Unconfirmed |
+| AXR-A-88B8C5E5EBA0 | `source-assets/pilot-v1/scripts/download_perspectives.py` | pending | Unconfirmed |
+| AXR-A-03128F6D3590 | `source-assets/pilot-v1/scripts/download_sources.py` | pending | Unconfirmed |
 | AXR-A-E2E8C8DC2C3D | `style_work/assam_gk_10_data.mjs` | pending | Unconfirmed |
 | AXR-A-5D62FCE7F5AE | `style_work/build_10_gk.mjs` | pending | Unconfirmed |
 | AXR-A-326C0ABB0B65 | `style_work/build_carousel_workbook.mjs` | pending | Unconfirmed |

@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-08",
+    "path": "photographs/pho-08-a-view-from-nilachal-hill-in-guwahati-assam-india.jpg",
+    "title": "A view from Nilachal Hill in Guwahati, Assam, India.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A_view_from_Nilachal_Hill_in_Guwahati%2C_Assam%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "পাপৰি বৰা",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "A view from Nilachal Hill in Guwahati, Assam, India",
+    "date_created": "2025-10-26",
+    "commons_upload_timestamp": "2025-10-26T13:29:55Z",
+    "checked_at": "2026-10-11",
+    "bytes": 193595,
+    "sha256": "0113e7f63302b5628f514b54482a1a74a0bec74add2837315a11ca873826d5c6",
+    "width": 1600,
+    "height": 1200,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A view from Nilachal Hill in Guwahati, Assam, India.jpg — পাপৰি বৰা; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "177397741": {
+          "pageid": 177397741,
+          "ns": 6,
+          "title": "File:A view from Nilachal Hill in Guwahati, Assam, India.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2025-10-26T13:29:55Z",
+              "size": 193595,
+              "width": 1600,
+              "height": 1200,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A_view_from_Nilachal_Hill_in_Guwahati%2C_Assam%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177397741",
+              "sha1": "8cfaec8c163eb26ecc9647fc55e1a3067268eddf",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-26 13:29:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A view from Nilachal Hill in Guwahati, Assam, India",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Guwahati|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.156671",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "91.665859",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A view from Nilachal Hill in Guwahati, Assam, India <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:A_view_from_Nilachal_Hill_in_Guwahati,_Assam,_India.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-10-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:%E0%A6%AA%E0%A6%BE%E0%A6%AA%E0%A7%B0%E0%A6%BF_%E0%A6%AC%E0%A7%B0%E0%A6%BE\" title=\"User:পাপৰি বৰা\">পাপৰি বৰা</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

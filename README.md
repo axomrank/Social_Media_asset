@@ -47,3 +47,7 @@ The chosen series is **From Sukaphaa to Gomdhar Konwar**. [Master plan](projects
 Run `python3 scripts/validate_library.py` from the repository root. It checks imported files against their SHA-256 manifest and parses repository JSON files. Existing draft-link gaps and unavailable upstream assets are documented in the import report. New planning quantities are proposals, not completed artwork.
 
 The original documents and third-party references retain their own ownership and rights status. This import does not grant a blanket licence to the asset library. Record rights before publishing or redistributing an individual asset.
+
+## Source-based pilot assets
+
+[Downloaded real media, dated GIS masters and official-source records](source-assets/pilot-v1/README.md), with [portable gallery](source-assets/pilot-v1/gallery.html) and explicit review/acquisition gaps.

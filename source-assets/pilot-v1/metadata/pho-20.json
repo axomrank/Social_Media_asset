@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-20",
+    "path": "photographs/pho-20-a-bamboo-and-thatch-house-in-majuli-assam.jpg",
+    "title": "A bamboo and thatch house in Majuli, Assam.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_bamboo_and_thatch_house_in_Majuli,_Assam.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_bamboo_and_thatch_house_in_Majuli%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Joli Rumi",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "A bamboo and thatch house in Majuli, Assam",
+    "date_created": "2023-12-30 07:25:24",
+    "commons_upload_timestamp": "2024-12-23T14:06:23Z",
+    "checked_at": "2026-10-11",
+    "bytes": 3039367,
+    "sha256": "2ab2145bb5932e0271c30fc31d5662e67c9d4551ae88579c0acb671774bf81d0",
+    "width": 4032,
+    "height": 2268,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A bamboo and thatch house in Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_and_thatch_house_in_Majuli,_Assam.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "157029282": {
+          "pageid": 157029282,
+          "ns": 6,
+          "title": "File:A bamboo and thatch house in Majuli, Assam.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2024-12-23T14:06:23Z",
+              "size": 3039367,
+              "width": 4032,
+              "height": 2268,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_bamboo_and_thatch_house_in_Majuli%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_bamboo_and_thatch_house_in_Majuli,_Assam.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157029282",
+              "sha1": "3330085747f3a9b405733fd7f758d780545a3d43",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-12-23 14:06:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A bamboo and thatch house in Majuli, Assam",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Majuli|Self-published work|Houses in Assam|Stilt houses in India|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.999269",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "94.140436",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A bamboo and thatch house in Majuli, Assam",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2023-12-30 07:25:24",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Joli_Rumi\" title=\"User:Joli Rumi\">Joli Rumi</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

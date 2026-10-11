@@ -82,3 +82,10 @@ An asset is complete when its editable original, export, caption/alt text, sourc
 ## Source references
 
 Brand specifications come from the [existing guide](../../AxomRank_Brand_Identity_Guide.docx) and [later carousel rules](../../CAROUSEL_PREFERENCES.md). Research entry points: [official tourism destinations](https://assamtourism.gov.in/Explore.php) and [official college details](https://directorateofhighereducation.assam.gov.in/information-services/detail/list-of-colleges-with-details), accessed 11 October 2026. Recommended counts above are editorial planning judgments, not external benchmarks.
+
+
+## Source-based acquisition update — 11 October 2026
+
+The [source-based pilot package](../../source-assets/pilot-v1/README.md) contains 30 credited photographic originals, eight object/document reproductions, four dated GIS boundary masters, 25 programme records across two institutions, 12 place records, 30 licensed Assamese pronunciation files and six published Karbi oral-history segments from one speaker. Exact sources, licences, file checksums and review gaps accompany the files.
+
+This does not establish 25 verified institutions, current administrative boundaries, complete visitor/access/admission information, native-reviewed pronunciations or six diverse commissioned contributors. Those remaining targets are recorded explicitly in the package.

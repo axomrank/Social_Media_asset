@@ -1,0 +1,1174 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5336,
+      "sha256": "46b2edfbe54199969058034fb2c50cabb52b7718f9123de369aea21b8b17b76a"
+    },
+    {
+      "path": "contributors/ADULT_PARTICIPANT_RELEASE.md",
+      "bytes": 1947,
+      "sha256": "874f19d90ae539f4375ac8ec360774bbe020bab34f2d0242f8f2dbb77429d801"
+    },
+    {
+      "path": "contributors/CONTRIBUTOR_CONSENT_AND_LICENCE.md",
+      "bytes": 5269,
+      "sha256": "82be862d7c1f263d260f361e7318e29e98e0db65813d8d10fad7e34cbe31a616"
+    },
+    {
+      "path": "contributors/archive/karbi-01.wav",
+      "bytes": 8772468,
+      "sha256": "f9d7c043ddf66316315112ebe648660f011d23e98b39e40e47bf923d517eee01"
+    },
+    {
+      "path": "contributors/archive/karbi-02.wav",
+      "bytes": 33323816,
+      "sha256": "860239d3978a7ef3831422d3555ee938da8c4872330e3369e8cc4f5dfddba4ca"
+    },
+    {
+      "path": "contributors/archive/karbi-03.wav",
+      "bytes": 24161990,
+      "sha256": "eddba39e0e1b8cf8bfdf4d83f729b5e1ec89030caab678b41947c287e9c4c974"
+    },
+    {
+      "path": "contributors/archive/karbi-04.wav",
+      "bytes": 64627382,
+      "sha256": "b236e9a738a196b684a888c643ebf91f063573a991212c571467a5b9f0c7785b"
+    },
+    {
+      "path": "contributors/archive/karbi-05.wav",
+      "bytes": 19531768,
+      "sha256": "f4f717807a39b6e3c055c2cec0c87108e41c59a1414a667939ce76f72ae77b3a"
+    },
+    {
+      "path": "contributors/archive/karbi-06.wav",
+      "bytes": 60786164,
+      "sha256": "67cdade53664a28f8e015f0152230e4054a5fe24638f4ed5d7bd912e7ef8ea6a"
+    },
+    {
+      "path": "contributors/archive-register.json",
+      "bytes": 12949,
+      "sha256": "0c2e82d1913524d40150bd676f3d97877197e8832f4ad9cb793333868cad18e1"
+    },
+    {
+      "path": "contributors/commissioning-register.json",
+      "bytes": 1977,
+      "sha256": "059d18250bdb280c70301429591b0d8fce586e2f90c8804972e4523557a2c10e"
+    },
+    {
+      "path": "curation-changes.json",
+      "bytes": 15253,
+      "sha256": "496c0e6facfc29c71912ad86c92fd06291524ae4deca76126b94509d12f2b805"
+    },
+    {
+      "path": "education/directory.csv",
+      "bytes": 15298,
+      "sha256": "4398fd05c99bcaf9db0e43aee95f168c01525d3f8e6ade6a16fdbeb3a6bdb942"
+    },
+    {
+      "path": "education/directory.json",
+      "bytes": 30471,
+      "sha256": "774c621811837096a0fad7092a55dd5d50905eecf51cddb2b934f2f88ef35f72"
+    },
+    {
+      "path": "education/historical-institution-seeds.json",
+      "bytes": 15522,
+      "sha256": "311ca61cd564e501e865a85c4e41044547d02e5b8680efbafa3e2428af8c139e"
+    },
+    {
+      "path": "education/reference/cotton-navigation.json",
+      "bytes": 38679,
+      "sha256": "3a704edaf41f585fdb35e8de311ab0c7f704b70b85b5522acae11b1a96687acc"
+    },
+    {
+      "path": "education/reference/iit-guwahati-navigation.json",
+      "bytes": 15798,
+      "sha256": "b129346274315d1399635191afe21019ba53cf22456a6c62dae2dece0b0e9b3f"
+    },
+    {
+      "path": "education/reference/official-stream-list-historical.pdf",
+      "bytes": 349424,
+      "sha256": "e29a49e812278c884a27bd50181bb191d2dc886dbebb05b3ac7fc753f92be9d6"
+    },
+    {
+      "path": "education/reference/tezpur-navigation.json",
+      "bytes": 8852,
+      "sha256": "b4d261e4928abb2a37bf12c039cafd0ef8cf73563c36ec3c4197eba9432f05db"
+    },
+    {
+      "path": "education/reference/tourism-navigation.json",
+      "bytes": 14339,
+      "sha256": "adc821261bf035d826d156e2d3239c71d0bb5051a5b8d27771d5bddc4387f5fb"
+    },
+    {
+      "path": "gallery.html",
+      "bytes": 46124,
+      "sha256": "fd8d4385556b14c0b89e1f4e8d999f0d879cb79295b5cefe3b02b4d850a1ad4e"
+    },
+    {
+      "path": "maps/adm1-source-metadata.json",
+      "bytes": 1805,
+      "sha256": "9086ff5f5115719030a66e351cb99a1f9135a6118e5e134bedc8abf6fc66f466"
+    },
+    {
+      "path": "maps/adm2-source-metadata.json",
+      "bytes": 1834,
+      "sha256": "00d3cc816abf8a76bb1e6252201e5a96af78f8e9940dff860a4b58cf07388a52"
+    },
+    {
+      "path": "maps/assam-overview.geojson",
+      "bytes": 3625778,
+      "sha256": "f92b62767ffb16b924eb34f55d79d917123355348d5c396aca6328cd248a0f9d"
+    },
+    {
+      "path": "maps/assam-overview.png",
+      "bytes": 132553,
+      "sha256": "21430e4eb843dc841c2b5d267a0c59da7711c23fb23cb5adc02e5dbfb7731d73"
+    },
+    {
+      "path": "maps/assam-overview.svg",
+      "bytes": 570548,
+      "sha256": "c8584e06a5414c971e533394796c843944300d5fda3ab95ce5fb4400551d466b"
+    },
+    {
+      "path": "maps/guwahati-district-context.geojson",
+      "bytes": 85734,
+      "sha256": "6718a117bd09da49a9ca0b2d36a8e69d28d49f6467b1ef2cccb6fe8c6fdfc847"
+    },
+    {
+      "path": "maps/guwahati-district-context.png",
+      "bytes": 136652,
+      "sha256": "9bf834eda04bb1be1074b534eb68b711a0b91d6b388b17838748a2e9b8ad194d"
+    },
+    {
+      "path": "maps/guwahati-district-context.svg",
+      "bytes": 19304,
+      "sha256": "1e7affc14378e54ca0c115302fa9d19dc8d92cbd3553d2539ca54b3d0b154732"
+    },
+    {
+      "path": "maps/silchar-district-context.geojson",
+      "bytes": 154286,
+      "sha256": "4ae6b0f9774e9d829b65192f70d47a10de9b352ef20200b882dadf14c6037ec4"
+    },
+    {
+      "path": "maps/silchar-district-context.png",
+      "bytes": 118565,
+      "sha256": "ffac3e024b8a0026e6b9f95c6ab3a3b6cafeccf5e44d7623db4b6b701f449989"
+    },
+    {
+      "path": "maps/silchar-district-context.svg",
+      "bytes": 33691,
+      "sha256": "d411d5c97aacd9593d66621feb155ab1cd67c3d194bdd49bc870ccb932493865"
+    },
+    {
+      "path": "maps/sivasagar-district-context.geojson",
+      "bytes": 65135,
+      "sha256": "2532317085f89c7f420f9c5b07f99e20c26f2872a4b1eb360a96901c6a7d0340"
+    },
+    {
+      "path": "maps/sivasagar-district-context.png",
+      "bytes": 113464,
+      "sha256": "478196bc4adc014e3e8d5e4de5a6f315d9233c3524e1851a643892a823b95982"
+    },
+    {
+      "path": "maps/sivasagar-district-context.svg",
+      "bytes": 14308,
+      "sha256": "75add4d942e94996ca7e800915839c4cac70ac16684430717550078c132bf0e0"
+    },
+    {
+      "path": "maps/source-register.json",
+      "bytes": 3780,
+      "sha256": "bda8dcd45dcb6f1097daf79086d244c63a007a264e2756892f79258477aab996"
+    },
+    {
+      "path": "media-register.json",
+      "bytes": 71176,
+      "sha256": "f8e80d2ab6abc30de920213cb3d07c80434f255bf807cbb92a96cadaf15ef665"
+    },
+    {
+      "path": "metadata/arc-01.json",
+      "bytes": 9264,
+      "sha256": "5c282030161009dc2250b1f837139f032212e3aa9ddd59f35d54b944d2fca6b1"
+    },
+    {
+      "path": "metadata/arc-02.json",
+      "bytes": 9476,
+      "sha256": "b7e56723f2b476e13abc1e9f8517fed9fdfc3c6da52c238b16b7329574b16ff8"
+    },
+    {
+      "path": "metadata/arc-03.json",
+      "bytes": 9256,
+      "sha256": "bb0cfa0a698da0fde90c01b054982170a47a2783e47999b0aba629b83b5552fa"
+    },
+    {
+      "path": "metadata/arc-04.json",
+      "bytes": 9216,
+      "sha256": "866daab1904e16310bb7d4b359fbb940516e0fbf39cf73f7e13e19fd5fe127ee"
+    },
+    {
+      "path": "metadata/arc-05.json",
+      "bytes": 9196,
+      "sha256": "887fa6156beef722a4779608fd2dedf1ebed94ddfd9072612724c9e0b1d1cd01"
+    },
+    {
+      "path": "metadata/arc-06.json",
+      "bytes": 9366,
+      "sha256": "e31627e6039c18fd4d2610fde5922fc632655e35509cb243ce8c308609a50fb4"
+    },
+    {
+      "path": "metadata/aud-01.json",
+      "bytes": 5861,
+      "sha256": "f09300d620af0cc360ed61d9d09b3a1ee6d7e75662250ddb36760f88c42935cc"
+    },
+    {
+      "path": "metadata/aud-02.json",
+      "bytes": 6210,
+      "sha256": "18311697ea64fbef5af0f6af9800fffffc7b59016246fb265ba303f57db11557"
+    },
+    {
+      "path": "metadata/aud-03.json",
+      "bytes": 5386,
+      "sha256": "54160058352e2123b1b490bd4bb0d9e746de722c3b7fd81642b3cec412b5a2ef"
+    },
+    {
+      "path": "metadata/aud-04.json",
+      "bytes": 5609,
+      "sha256": "ce2d81eed9f0831613932dad045c8bf0ec2309b2a94e9f563557cfe71d2f37f8"
+    },
+    {
+      "path": "metadata/aud-05.json",
+      "bytes": 5276,
+      "sha256": "7890824f3ba82628825f4811cf63bb1bb48a96879660818bc809d314e132f68d"
+    },
+    {
+      "path": "metadata/aud-06.json",
+      "bytes": 5260,
+      "sha256": "9328e888edc49112186c05318db61def7702042eb55bded566e7acb6615439c2"
+    },
+    {
+      "path": "metadata/aud-07.json",
+      "bytes": 5320,
+      "sha256": "c22fc0f7b157e2ce87c67678cd19a10a9fc5148d072f111f3c48e9da6f4f593b"
+    },
+    {
+      "path": "metadata/aud-08.json",
+      "bytes": 5381,
+      "sha256": "92000870cc6929f5ac059b90384e6d36a64985e523a222c58714155fb3f838a2"
+    },
+    {
+      "path": "metadata/aud-09.json",
+      "bytes": 5381,
+      "sha256": "5a17926cef9d382e7ac34a88042a4fe1d535ffbde2e5ffc4c9dd8d3ddc877943"
+    },
+    {
+      "path": "metadata/aud-10.json",
+      "bytes": 5381,
+      "sha256": "00569e5c4dacfe9a5f62a5e7411ea699591c3e6b3344e33e631b2fdb44ddcd7c"
+    },
+    {
+      "path": "metadata/aud-11.json",
+      "bytes": 5320,
+      "sha256": "5d57b1e4e8a1ea2b3bf38cff84e5c169ee572cc09adeaa16a818c97fc781c966"
+    },
+    {
+      "path": "metadata/aud-12.json",
+      "bytes": 5322,
+      "sha256": "3af7adf48eeadbd533522f16a49283461664c00afa0d21f2c60b351279aaafb2"
+    },
+    {
+      "path": "metadata/aud-13.json",
+      "bytes": 5262,
+      "sha256": "c96a4bb7540ffafc8c09a2ee7cf9e2332ce7a38ecf9908e778c494c0035c216f"
+    },
+    {
+      "path": "metadata/aud-14.json",
+      "bytes": 5201,
+      "sha256": "af23ebfabf4a2ec6f4278187760b12e73b95e9619e7dd335213635f4571afc70"
+    },
+    {
+      "path": "metadata/aud-15.json",
+      "bytes": 5259,
+      "sha256": "4d33241c47dffd32ca46a3f71afc7ee338597df0546451f3793efe058906659c"
+    },
+    {
+      "path": "metadata/aud-16.json",
+      "bytes": 5449,
+      "sha256": "5f021d21de83f5398eb789214d276dec5818094cc154c69b93970cc26e74f937"
+    },
+    {
+      "path": "metadata/aud-17.json",
+      "bytes": 5258,
+      "sha256": "253803d4615019f42df111e9f455e7d8345eac9c4dcf2f96066254e3e218e4e3"
+    },
+    {
+      "path": "metadata/aud-18.json",
+      "bytes": 5318,
+      "sha256": "658edcd36702bff3088c9c45424a6c145e46973aeb11eae08287eb05ee93b056"
+    },
+    {
+      "path": "metadata/aud-19.json",
+      "bytes": 5391,
+      "sha256": "33ee28e330cc82b0a75b7a3d0f38e34f6271686c2cb3721f99f5fb16b4d594de"
+    },
+    {
+      "path": "metadata/aud-20.json",
+      "bytes": 5396,
+      "sha256": "828414cce3050018d0e7c292abfde9c1904b690ba3faa50f7bc60e40a9eb4850"
+    },
+    {
+      "path": "metadata/aud-21.json",
+      "bytes": 5454,
+      "sha256": "6c72f1e5b2426a2e9bbcceeec56b32093461c753f329d0d125c6287b728ab431"
+    },
+    {
+      "path": "metadata/aud-22.json",
+      "bytes": 5260,
+      "sha256": "4115e6f2c8f995603bceb933e61fd9f35c7570ab1acf907e33ce78557cc5560e"
+    },
+    {
+      "path": "metadata/aud-23.json",
+      "bytes": 5454,
+      "sha256": "29a4aa17b79f994558d4033d65092a4530712334b551c153767e58adae1a2f5a"
+    },
+    {
+      "path": "metadata/aud-24.json",
+      "bytes": 5380,
+      "sha256": "e0f4f30614e669fb0b81e5041533535f16f809352c6f0cd5d2e2a8d5817fc15e"
+    },
+    {
+      "path": "metadata/aud-25.json",
+      "bytes": 5561,
+      "sha256": "6274d306afd0412d99c872a4563260c61e1496ec1598587199e6ed6f49c1942c"
+    },
+    {
+      "path": "metadata/aud-26.json",
+      "bytes": 5500,
+      "sha256": "81ae6dffcda1487b5ec5a1f77200865cf6b833784f855d431166ad9d6dc8280f"
+    },
+    {
+      "path": "metadata/aud-27.json",
+      "bytes": 5322,
+      "sha256": "6ea673e1bf1bdd68e83afec30bbc6a939a72c464a3bf3d5ec98f83ddfd2f53eb"
+    },
+    {
+      "path": "metadata/aud-28.json",
+      "bytes": 5351,
+      "sha256": "f2fe451600a40b11b3968e6641bac3481f59a650a6336921f1aad59bd679f404"
+    },
+    {
+      "path": "metadata/aud-29.json",
+      "bytes": 5291,
+      "sha256": "e01f27c2c28f996b3a9e83c1065657338cd446f4adc90d7fa9017d0870be0a90"
+    },
+    {
+      "path": "metadata/aud-30.json",
+      "bytes": 5290,
+      "sha256": "40ce20ed1b8ad8ab610d28ca8994344ba229e9ca67c7e332de84e9b043dc9df1"
+    },
+    {
+      "path": "metadata/obj-01.json",
+      "bytes": 6268,
+      "sha256": "af34fdf12cc89ee1c4016a90467200be2ee955a74fc1a38367e2e756b3f7ff85"
+    },
+    {
+      "path": "metadata/obj-02.json",
+      "bytes": 5519,
+      "sha256": "8d4c03a805189fa70806a19d8361cb8954a66698f7fb67dd0a1b531ea4c83642"
+    },
+    {
+      "path": "metadata/obj-03.json",
+      "bytes": 5458,
+      "sha256": "ad8b4b83e1287834c5a09b7755b30441fd5f6f6ba7611f7c27a0016cd1925de5"
+    },
+    {
+      "path": "metadata/obj-04.json",
+      "bytes": 6322,
+      "sha256": "dde9158daec3552d49b5ebbbec4db8189de69801d94eea5cbc5261c1abaf6251"
+    },
+    {
+      "path": "metadata/obj-05.json",
+      "bytes": 5293,
+      "sha256": "f3ad896813f8cf5bb0ad65a66a194f9dd3c723038002a7f227ea6f402bfcb025"
+    },
+    {
+      "path": "metadata/obj-06.json",
+      "bytes": 6000,
+      "sha256": "2382c88cb7af31d5f7b12721849eaefcb7f78b1a8b0e205a25ac26c010bcf85d"
+    },
+    {
+      "path": "metadata/obj-07.json",
+      "bytes": 5805,
+      "sha256": "504309f18c0401f5bc58505b6afd20b7d034bcc998e93f943f4c979248e72313"
+    },
+    {
+      "path": "metadata/obj-08.json",
+      "bytes": 5421,
+      "sha256": "b8ee422dc548b1199182cb14e89475242e72d89d7904028b5600ca4c38463b9f"
+    },
+    {
+      "path": "metadata/pho-01.json",
+      "bytes": 5332,
+      "sha256": "3477d77480212aee87a40d2f0f907cc1b99d7afaa20cac4194d82ce69e3ddf75"
+    },
+    {
+      "path": "metadata/pho-02.json",
+      "bytes": 7081,
+      "sha256": "4e4084f357d67593a07fcf929dc7fa708e881ac67885fea8b9eb3e513f2aa469"
+    },
+    {
+      "path": "metadata/pho-03.json",
+      "bytes": 5967,
+      "sha256": "1b9637c30efbf22cd39300a7b3a12e7fdb35599e7e76d928f6182a160b03f57d"
+    },
+    {
+      "path": "metadata/pho-04.json",
+      "bytes": 6252,
+      "sha256": "4acdf1e50983cba2eb1fb1a6d63a15625ae7d960359bfb26a6d18375e2edac4b"
+    },
+    {
+      "path": "metadata/pho-05.json",
+      "bytes": 6302,
+      "sha256": "4a88ba05d3d1d998d1293b91868cdddeff2ff1e6dfc16ab8c19dc24804d2e3eb"
+    },
+    {
+      "path": "metadata/pho-06.json",
+      "bytes": 6122,
+      "sha256": "338803a6d42b0f9754edeeee3fd0eb5301f71788e43181cc5ffbe63d7d78b96d"
+    },
+    {
+      "path": "metadata/pho-07.json",
+      "bytes": 6701,
+      "sha256": "e3b2e7d716921a04cb394807e94751a5789f9348d5b9d15644b104b2e6563090"
+    },
+    {
+      "path": "metadata/pho-08.json",
+      "bytes": 6915,
+      "sha256": "34338a951acf7564c0826492b457d2cc5537908a3ae6ff40afb46dbf48d660ef"
+    },
+    {
+      "path": "metadata/pho-09.json",
+      "bytes": 5798,
+      "sha256": "8e314780cc4eaa43a8e4d7f1c25c1b2294832879634854adc0c602f89c83468f"
+    },
+    {
+      "path": "metadata/pho-10.json",
+      "bytes": 5542,
+      "sha256": "8502fbaa28499ba4dad7fe7f1709df212b6552fae6498f4598c9efc750706122"
+    },
+    {
+      "path": "metadata/pho-11.json",
+      "bytes": 5756,
+      "sha256": "c3fa624e051d1b31a2d0b57d80c571884436a70a01a11195744e88fa7d39d604"
+    },
+    {
+      "path": "metadata/pho-12.json",
+      "bytes": 12419,
+      "sha256": "0436fa951b93122a4bd603cae3c72be3a6411cecf778c7945b254bae40aa4c0e"
+    },
+    {
+      "path": "metadata/pho-13.json",
+      "bytes": 5741,
+      "sha256": "e8991754912f925d9104cfd38d61e1511fe001c8005aec7dc849cb8c25c40cf0"
+    },
+    {
+      "path": "metadata/pho-14.json",
+      "bytes": 5952,
+      "sha256": "a9f03a8b8092ab1ed243cf5ce0d8597967eb4c9eff4b69b8d438f3c340560eb1"
+    },
+    {
+      "path": "metadata/pho-15.json",
+      "bytes": 5845,
+      "sha256": "836b6e42a454ace24ff9237d243ffcc3d687d907d249f4821f03f9b0e5c87f20"
+    },
+    {
+      "path": "metadata/pho-16.json",
+      "bytes": 5664,
+      "sha256": "8a56171ef627b831d5139b511da27371b1ac6207b03090aec4af5c8a3bf8d2e7"
+    },
+    {
+      "path": "metadata/pho-17.json",
+      "bytes": 5658,
+      "sha256": "acea52fc0e5d049b06fff54fa453d0b5068349e368e350f4499f43de92873ba1"
+    },
+    {
+      "path": "metadata/pho-18.json",
+      "bytes": 5701,
+      "sha256": "3274b79ef5102204dcd6351ff89c640fdb42a99860ea462fd4020cd3e74d0355"
+    },
+    {
+      "path": "metadata/pho-19.json",
+      "bytes": 12751,
+      "sha256": "534efbc348f03327e616f542f137c32218bcf6ff6676827fb22acb232ad00b35"
+    },
+    {
+      "path": "metadata/pho-20.json",
+      "bytes": 6033,
+      "sha256": "efdb2295f6e9890e3b32bd139641c53aa3849ce7196f2617eeedae60f9e6e074"
+    },
+    {
+      "path": "metadata/pho-21.json",
+      "bytes": 6063,
+      "sha256": "4d3eacf1eeb8a8dd58378e7e2334758f24d4b6fcea57d70d5afd512867a860bb"
+    },
+    {
+      "path": "metadata/pho-22.json",
+      "bytes": 6152,
+      "sha256": "151720341b8075787374545a4d887a3f37cdd90e499c0a398d26c49657cddd66"
+    },
+    {
+      "path": "metadata/pho-23.json",
+      "bytes": 5847,
+      "sha256": "111a1ddf20d342de39621ffb462b932135d2e7324b049162f9324fc6889de23c"
+    },
+    {
+      "path": "metadata/pho-24.json",
+      "bytes": 5974,
+      "sha256": "779b631fc8d5e0d4f58984024b791e33b9d5f089d8c6e8d36330766bffac0184"
+    },
+    {
+      "path": "metadata/pho-25.json",
+      "bytes": 13016,
+      "sha256": "8c91fcf0cbbc53f9fdd64ea0c151e514d9358c6aad8477a87918d7e1f15a436e"
+    },
+    {
+      "path": "metadata/pho-26.json",
+      "bytes": 13071,
+      "sha256": "14ff17418a89e5d867ba598902e97d2f15e350b750ad22f410c8cf45660abc38"
+    },
+    {
+      "path": "metadata/pho-27.json",
+      "bytes": 5470,
+      "sha256": "b12502a02a326803d6760d5399f8b27ff2811cc93c57250d24bae235bb076e8d"
+    },
+    {
+      "path": "metadata/pho-28.json",
+      "bytes": 6214,
+      "sha256": "2aa6dcbb71cb5c775251024f3adae4be164bb2dd243ba94ba9e0db5d82532bf2"
+    },
+    {
+      "path": "metadata/pho-29.json",
+      "bytes": 6201,
+      "sha256": "ff510e53c2c564d871e0fa7b66238e4080e90106ada145386fc257d70cce8bbf"
+    },
+    {
+      "path": "metadata/pho-30.json",
+      "bytes": 5617,
+      "sha256": "6e07de93124c5aec37fd3898e95f03f9b6f22e29357e83ed5aff4c20e7ab78ae"
+    },
+    {
+      "path": "objects/obj-01-assam-coin-sketch-by-jean-baptise-tavernir.jpg",
+      "bytes": 80006,
+      "sha256": "c8f7c283f4aec402f6d46fcdd13990c5adb10a137260f454ec1e624e43dacb88"
+    },
+    {
+      "path": "objects/obj-02-assam-shiva-simha-squar-coin.jpg",
+      "bytes": 66636,
+      "sha256": "beccab39429d029957f5cc1b63d9df0e3a66e6d05d48322de543a8b846a42f73"
+    },
+    {
+      "path": "objects/obj-03-coin-of-ahom-queen-ambika-devi.jpg",
+      "bytes": 33837,
+      "sha256": "c191abac0c2d1e0baa093e783a99e6f4ef2ea4e54dc7ab8f882a402b97612933"
+    },
+    {
+      "path": "objects/obj-04-coin-of-assam-lakshmi-singha.jpg",
+      "bytes": 187335,
+      "sha256": "34df2f3077418d758ad4ab07c865dbdea64beaf3b24df2a9b7ffaeafa91fd18f"
+    },
+    {
+      "path": "objects/obj-05-siva-1.jpg",
+      "bytes": 16230,
+      "sha256": "a3bb8834e82b1c05700e3c70c42edb05e0f218bc89aa4ab351898932cd996a65"
+    },
+    {
+      "path": "objects/obj-06-nidhanpur-copper-plate-inscriptions-of-kumar-bhaskar-varman.jpg",
+      "bytes": 4009698,
+      "sha256": "3556c26a0a6d291abe704c9ffa183820edeeafafeb6ca79feb8463f545088085"
+    },
+    {
+      "path": "objects/obj-07-kanai-barasi-rock-cut-inscriptions-of-1205-ce-in-north-guwahati-08.jpg",
+      "bytes": 3826688,
+      "sha256": "61cd03ff45714927fb735e5c360a0ee90983e50ce3542023aba985a38fe30d59"
+    },
+    {
+      "path": "objects/obj-08-manuscript-sml.jpg",
+      "bytes": 179100,
+      "sha256": "3314734319fe03fa25caf467faca2d1785845a5abd665427130bfbb23683898d"
+    },
+    {
+      "path": "photographs/pho-01-a-view-of-rong-ghar.jpg",
+      "bytes": 415616,
+      "sha256": "cdc32bb62af1b28d2f4e650b1bf3f612b979795ff82353bbef0cecf3c65b3268"
+    },
+    {
+      "path": "photographs/pho-02-ahom-architectural-marvel.jpg",
+      "bytes": 3894703,
+      "sha256": "83813c0d11365cc3697647bb7d279e89f554a6047e9e36275da0e8fe13e9cb2d"
+    },
+    {
+      "path": "photographs/pho-03-architecture-a-view-from-rang-ghar.jpg",
+      "bytes": 854224,
+      "sha256": "2b260e619dc7fb6df8c2cce9e6865956627447bb15bad48b984bb8c44bb375fa"
+    },
+    {
+      "path": "photographs/pho-04-a-chamber-in-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 3272609,
+      "sha256": "5d611a27133c3b9ac27a69beb426575db3e3a11b04fbf175c476fb83df6f0ae3"
+    },
+    {
+      "path": "photographs/pho-05-a-partial-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 2664755,
+      "sha256": "d8570f8333bbbdb6a03b358624fb3a27684f6798e298d154762fe1f03daf6c16"
+    },
+    {
+      "path": "photographs/pho-06-a-side-view-of-talatal-ghar-in-sivasagar-assam.jpg",
+      "bytes": 3410978,
+      "sha256": "9ce8ccb808d80d6aeff8e3d85f4f6113784f7eeadfea614407816df26ac77d96"
+    },
+    {
+      "path": "photographs/pho-07-a-part-of-the-waterfalls-of-vasistha-alternative-basistha-muni-ashram-at-vashista-man.jpg",
+      "bytes": 6917116,
+      "sha256": "f7cd8e2a63c12b7e8bc1bfda372dbed82d2ac59c6d878ebccd3aac0ddc488ca2"
+    },
+    {
+      "path": "photographs/pho-08-a-view-from-nilachal-hill-in-guwahati-assam-india.jpg",
+      "bytes": 193595,
+      "sha256": "0113e7f63302b5628f514b54482a1a74a0bec74add2837315a11ca873826d5c6"
+    },
+    {
+      "path": "photographs/pho-09-a-view-of-deepor-beel-in-the-vicinity-of-aec.jpg",
+      "bytes": 199690,
+      "sha256": "fc553d309d77ae3310e33f84c5e15720c991d4497f3c0be05b42f8fd1e8a0d87"
+    },
+    {
+      "path": "photographs/pho-10-a-tea-garden-in-cachar-district-assam-.jpg",
+      "bytes": 3771750,
+      "sha256": "c8a7759ce40bfb4fd9ae8eff19fadca4904b5e6705da8df297341e789e9a4fe9"
+    },
+    {
+      "path": "photographs/pho-11-a-glimpse-of-na-duar-historic-gate-of-ahom-era.jpg",
+      "bytes": 7443652,
+      "sha256": "770dcc653aabf185045a67e80792f99ed78d2b0f8283b3c7350d309672bd1b89"
+    },
+    {
+      "path": "photographs/pho-12-silchar-nazirpatty.jpg",
+      "bytes": 122378,
+      "sha256": "6d93ccb6e4b35aaff675467b74e8700c846b2b73b8f2492ae7b65679b3b20cdf"
+    },
+    {
+      "path": "photographs/pho-13-barak-river-as-seen-from-sadarghat-bridge-silchar-assam-.jpg",
+      "bytes": 3780854,
+      "sha256": "c2c924023fd40b0483037b08e6b6b435d6cfc08a9ddba65683ac38e569516acd"
+    },
+    {
+      "path": "photographs/pho-14-new-silchar-railway-station-2016.jpg",
+      "bytes": 419906,
+      "sha256": "2c0a2242a25a9e18a4647c99fe15239920744048d361f761ac1ba2a088dae702"
+    },
+    {
+      "path": "photographs/pho-15-a-sunset-during-summer.jpg",
+      "bytes": 2469356,
+      "sha256": "c915dda5d9951f9a8fbb43f315d70af8389e9c834cec1ca54d292b66662fa2dc"
+    },
+    {
+      "path": "photographs/pho-16-assam-057.jpg",
+      "bytes": 1392647,
+      "sha256": "41151b3c8eb609062512362350d390bb0336258e7e4c6742f71d8b5710765b6b"
+    },
+    {
+      "path": "photographs/pho-17-a-trail-in-kaziranga-national-park-assam.jpg",
+      "bytes": 2851756,
+      "sha256": "43a5d08e1b969c3b105b5ad2863d7ec51ebfe9d15092116d1f5a053a6990f0a9"
+    },
+    {
+      "path": "photographs/pho-18-a-vibrant-bird-2.jpg",
+      "bytes": 1528540,
+      "sha256": "f98981fbe621eb27104d315d42910e9f9554401fa4df67680cbb92c06647aaf2"
+    },
+    {
+      "path": "photographs/pho-19-adrian-scottow-c-s-rawanapar-high-school-on-majuli-island-assam-img-7996.jpg",
+      "bytes": 7851843,
+      "sha256": "6c0f3234c9e67da7427dae9ebaf975ead5b5adf71874d4a9a21f5a8b07cef26c"
+    },
+    {
+      "path": "photographs/pho-20-a-bamboo-and-thatch-house-in-majuli-assam.jpg",
+      "bytes": 3039367,
+      "sha256": "2ab2145bb5932e0271c30fc31d5662e67c9d4551ae88579c0acb671774bf81d0"
+    },
+    {
+      "path": "photographs/pho-21-a-bamboo-bridge-on-luhit-river-majuli-assam.jpg",
+      "bytes": 2534565,
+      "sha256": "72d5e12a5f620e229fe5c374b803428cbd6fa37a4092c90c2ef40096d6760dfe"
+    },
+    {
+      "path": "photographs/pho-22-1st-overbridge-of-dibrugarh-along-the-mankata-road.jpg",
+      "bytes": 2317183,
+      "sha256": "c5fbdcaeac13ff83c876122db0f91d4129edf6b661d215ae7e36dcef72361293"
+    },
+    {
+      "path": "photographs/pho-23-dibrugarh-railway-station.jpg",
+      "bytes": 3022780,
+      "sha256": "db106cf41857a63c6362d906872d6f4ebf6c0f989ecbe7bdc2f887127ea41261"
+    },
+    {
+      "path": "photographs/pho-24-a-street-at-chitadar-chuk-majuli-assam.jpg",
+      "bytes": 4097248,
+      "sha256": "32c1120e134ba9af2110fb7fcd8f0e69a88c627f2c432155c46807760824ee89"
+    },
+    {
+      "path": "photographs/pho-25-a-park-in-tezpur-138909169-.jpeg",
+      "bytes": 1164850,
+      "sha256": "bbe0f5dd04d05d98f9f1a0831be02beb4675e80b169930e072def9e37d778247"
+    },
+    {
+      "path": "photographs/pho-26-a-sunset-in-tezpur-2-138912985-.jpeg",
+      "bytes": 329833,
+      "sha256": "9fb00d785aa4933a531082f9229eec1a52f27321c9efaf83417d477e8a2022b1"
+    },
+    {
+      "path": "photographs/pho-27-a-view-of-chowk-market-tezpur.jpg",
+      "bytes": 1781077,
+      "sha256": "0e82b57b938361c87484d39d7155b1a962cb7d0678232421b6c24feb3565274a"
+    },
+    {
+      "path": "photographs/pho-28-gaurang-hostel-iit-guwahati-oct24-a7cr-03209.jpg",
+      "bytes": 29636448,
+      "sha256": "8f93d709a9365bf57629e0daf23456d4befd70a479982a58619a6250cb6a9db9"
+    },
+    {
+      "path": "photographs/pho-29-road-east-iit-guwahati-assam-oct24-a7cr-03203.jpg",
+      "bytes": 42011583,
+      "sha256": "a39844c3cbbb2fe2c40f00372837c76550606dfca523ce3e1f31bb2da990549f"
+    },
+    {
+      "path": "photographs/pho-30-a-tea-estate-in-dibrugarh-district-assam.jpg",
+      "bytes": 3440082,
+      "sha256": "645701c6a575b51abc781fea92f62aa3b37cf2f59145a72c131314583d8c7658"
+    },
+    {
+      "path": "places/directory.csv",
+      "bytes": 5398,
+      "sha256": "63ca3b7bcc64f624c4427778d7e58c53095a007267042784ff260b3a019df44a"
+    },
+    {
+      "path": "places/directory.json",
+      "bytes": 11364,
+      "sha256": "16d2b6390d89d34608448cdee6d6dd692d7ba3dd852747ab72554fafe9f82ba3"
+    },
+    {
+      "path": "previews/obj-01.jpg",
+      "bytes": 41827,
+      "sha256": "f019712d15e922d0f1658e9a089e3d713c9334d29cd17bead5c28d7797b45ba8"
+    },
+    {
+      "path": "previews/obj-02.jpg",
+      "bytes": 41086,
+      "sha256": "a64d84190a95a4e9835eb9b44022c44162f7d1bb00cb693f030ebd850aae781e"
+    },
+    {
+      "path": "previews/obj-03.jpg",
+      "bytes": 32394,
+      "sha256": "8a6baf07779479164e58d9072f7c40cc2a834692af16ba424610f16c20cafd0f"
+    },
+    {
+      "path": "previews/obj-04.jpg",
+      "bytes": 53746,
+      "sha256": "e3b462f0c47d1f2db036d8ea2d1f8400592ea43d3393a2686bed1dbad6924a19"
+    },
+    {
+      "path": "previews/obj-05.jpg",
+      "bytes": 14092,
+      "sha256": "34653a135c9be4b11ef65fa0876bb575276cc4b95979bdefa147e050391ba397"
+    },
+    {
+      "path": "previews/obj-06.jpg",
+      "bytes": 41387,
+      "sha256": "7e93b4fd3cf22bdff51d59b42be3343bb3aae1751b8519d4c9e2cfbad343ff2c"
+    },
+    {
+      "path": "previews/obj-07.jpg",
+      "bytes": 43418,
+      "sha256": "580bbfff9e153af1c02a06f5c3c63575bf4c74778187fbd7654ef35daf69c72f"
+    },
+    {
+      "path": "previews/obj-08.jpg",
+      "bytes": 50192,
+      "sha256": "31293cbec8909cbb9e39db1cf7520dcbce7a2f1c0872ce318e1a43ecd8aa35d2"
+    },
+    {
+      "path": "previews/obj-contact-sheet.jpg",
+      "bytes": 185626,
+      "sha256": "d89a21041d7fe5aa16fa64b5fc87a20d7b556e3ea8d6e3294439744200be4a82"
+    },
+    {
+      "path": "previews/pho-01.jpg",
+      "bytes": 48435,
+      "sha256": "e323e76a68ca9470b209b7cbc89fc56fbe89e3c2fd415fd0ba7974ae19e06423"
+    },
+    {
+      "path": "previews/pho-02.jpg",
+      "bytes": 36828,
+      "sha256": "e29184003ea44b9a893550c5b1164f188c24033f419b6d7555366b3bfd006e69"
+    },
+    {
+      "path": "previews/pho-03.jpg",
+      "bytes": 17842,
+      "sha256": "f33930bd47b77845b075f0dd093272aa82139be1e898a6605a9e0ec5f4314e7e"
+    },
+    {
+      "path": "previews/pho-04.jpg",
+      "bytes": 32671,
+      "sha256": "955ed455a2d3e4af92533a5dec658a85a41a0b97a57f12087562c80c298388b9"
+    },
+    {
+      "path": "previews/pho-05.jpg",
+      "bytes": 36174,
+      "sha256": "48fcd778f5dce06871f3b815ce53590eaffb3df23cc8b00662e7ff483857c0ab"
+    },
+    {
+      "path": "previews/pho-06.jpg",
+      "bytes": 43354,
+      "sha256": "bda57e410204470e3bbd9b174419d9ad0dcc38aa03fa102b6c9780e300f8b885"
+    },
+    {
+      "path": "previews/pho-07.jpg",
+      "bytes": 53454,
+      "sha256": "70a6ac034d133a5895c174db136f5dac6393357b9491d6e1abe3cf355f51dce8"
+    },
+    {
+      "path": "previews/pho-08.jpg",
+      "bytes": 31485,
+      "sha256": "ebf97546a75d93ecdca761a6064a2c911b9a95bfaefcb3568449372d96ed987e"
+    },
+    {
+      "path": "previews/pho-09.jpg",
+      "bytes": 27993,
+      "sha256": "0051e62b3ffe140be115bfe8c477bb8167414ea6b10f89dc9837fb170f6dd1aa"
+    },
+    {
+      "path": "previews/pho-10.jpg",
+      "bytes": 50143,
+      "sha256": "428cf9314e8153159ef9b7c95e6b2f584c7f5fa06517c9e620b47ed35b8db0c8"
+    },
+    {
+      "path": "previews/pho-11.jpg",
+      "bytes": 65140,
+      "sha256": "5f950461aebfa2bfbd7daad17b872583ef949ad452f34d9525872d6d4aed0edd"
+    },
+    {
+      "path": "previews/pho-12.jpg",
+      "bytes": 61576,
+      "sha256": "cf3648ee4118a6d0c63a28e758feee7596922b4503cf8fadf31e81d771e71ceb"
+    },
+    {
+      "path": "previews/pho-13.jpg",
+      "bytes": 11436,
+      "sha256": "9bc021782c990e3ade0f7db716176f8773358c550cc9a5b30d1ac49c213318e5"
+    },
+    {
+      "path": "previews/pho-14.jpg",
+      "bytes": 28489,
+      "sha256": "91c492e95059de02e852cb74c6c39a510d1a4643f456ff25cd37d307779ddb44"
+    },
+    {
+      "path": "previews/pho-15.jpg",
+      "bytes": 15002,
+      "sha256": "9302f3466291615d95ed280d7d9c27138aedbd16a2b34a1fe2982eaee705bbb5"
+    },
+    {
+      "path": "previews/pho-16.jpg",
+      "bytes": 43600,
+      "sha256": "779ae1890dff530ea3079e2c59a3f7b9f4b876f2eb4c918a886f7c6235462596"
+    },
+    {
+      "path": "previews/pho-17.jpg",
+      "bytes": 27159,
+      "sha256": "c7f68187335862548f237a3c63802a5a97ccac9e0324f0c87ec0deb74752e457"
+    },
+    {
+      "path": "previews/pho-18.jpg",
+      "bytes": 41480,
+      "sha256": "77470578f32d707e4624ff4c6ada33413561985af3724562057e419669c092d6"
+    },
+    {
+      "path": "previews/pho-19.jpg",
+      "bytes": 36101,
+      "sha256": "aa44b3921b95cecb839b43acfd4c2b37e4270b3fb7d6a1b54f677075db86167b"
+    },
+    {
+      "path": "previews/pho-20.jpg",
+      "bytes": 31417,
+      "sha256": "2220129cc99d185e0220720548b948103e197e8ec006349648094c026040a7f3"
+    },
+    {
+      "path": "previews/pho-21.jpg",
+      "bytes": 33059,
+      "sha256": "2fb9715f76dcc7989a4fe89bbe77252a2d43ef52f487d310b486d86e246fbce3"
+    },
+    {
+      "path": "previews/pho-22.jpg",
+      "bytes": 19554,
+      "sha256": "14fe1db999c833839820f47d30bf2c87d6ed550c182b1b1fae21baa957df0bc7"
+    },
+    {
+      "path": "previews/pho-23.jpg",
+      "bytes": 31897,
+      "sha256": "a38794464c41c81343a87831fe951637bbc9e24a114d6fb970aaf49ac7225b28"
+    },
+    {
+      "path": "previews/pho-24.jpg",
+      "bytes": 45675,
+      "sha256": "47a6b67a4965411abf86db72c019f7cd648cbbe0eec3bc645fbca169ba0896e0"
+    },
+    {
+      "path": "previews/pho-25.jpg",
+      "bytes": 50656,
+      "sha256": "61bfcca5f72b3f4a4961e5cf14c232c50a270f438572a9d10494e58a7f5d3d8d"
+    },
+    {
+      "path": "previews/pho-26.jpg",
+      "bytes": 17409,
+      "sha256": "9cb00cf1d9c98dd916f90b662e2bfede2c6f12e7251edb00108eeaecac2fc40b"
+    },
+    {
+      "path": "previews/pho-27.jpg",
+      "bytes": 43056,
+      "sha256": "1f62aa9087bf37753670a22ccc38a287b4504fffa3ea514d0298f259725c6b3c"
+    },
+    {
+      "path": "previews/pho-28.jpg",
+      "bytes": 31980,
+      "sha256": "bba13c4282c1d61e5d794cb509db4cc0546ef77279544ea446dae60c0bc87fea"
+    },
+    {
+      "path": "previews/pho-29.jpg",
+      "bytes": 43988,
+      "sha256": "94dfbfaa21bb3d30e6336b58819984364814b729bc69a04ec7a31994ebbe6239"
+    },
+    {
+      "path": "previews/pho-30.jpg",
+      "bytes": 46198,
+      "sha256": "2ad0eb9ebe6467cd9818b9976e2e91460ae1360a4d18445592e4f2bfd91b9801"
+    },
+    {
+      "path": "previews/pho-contact-sheet.jpg",
+      "bytes": 728739,
+      "sha256": "a5eab356124462e26703a61ac714d6a60078db11254623b6219f18c523617586"
+    },
+    {
+      "path": "pronunciation/audio/aud-01.oga",
+      "bytes": 23664,
+      "sha256": "1aa6de0baba45b2afb02395594f949163fe17d2b2f4824201d38bdc4db6f49f4"
+    },
+    {
+      "path": "pronunciation/audio/aud-02.oga",
+      "bytes": 10588,
+      "sha256": "cceaf8e8bec5c8ac125b3adf9232e82502c8185914813855d9f3b364258aff56"
+    },
+    {
+      "path": "pronunciation/audio/aud-03.wav",
+      "bytes": 421966,
+      "sha256": "c063e72a93a8394f0b09660b456c22818a8e7cd84f5108c1b6e2a3ffc024cb73"
+    },
+    {
+      "path": "pronunciation/audio/aud-04.oga",
+      "bytes": 12160,
+      "sha256": "44fd37126c754ee753f63c82014bc97538a92a49a766d51580785e9252f1bf56"
+    },
+    {
+      "path": "pronunciation/audio/aud-05.oga",
+      "bytes": 16778,
+      "sha256": "8bef388f27ac9c2f2eeb0bbc57ff90996f83f76be6627b3f9748dc25025d9bf4"
+    },
+    {
+      "path": "pronunciation/audio/aud-06.ogg",
+      "bytes": 17445,
+      "sha256": "f29a6983b0212728f8eebc9a62edb78c678155b97ab33c83b358024883ef059c"
+    },
+    {
+      "path": "pronunciation/audio/aud-07.ogg",
+      "bytes": 17477,
+      "sha256": "8ac1712b55258b9912cc14ab17d26b955604e6143dad31273a4d5e36e410fb20"
+    },
+    {
+      "path": "pronunciation/audio/aud-08.ogg",
+      "bytes": 17768,
+      "sha256": "eff17162d6f049707fbcfba46b838fd7b5532e7a1f5fed073bb6750ca5be1cd7"
+    },
+    {
+      "path": "pronunciation/audio/aud-09.ogg",
+      "bytes": 17599,
+      "sha256": "a51362e2e23227a1a160ea50eb5a8bbdc889af4a5e5e6bb5f5a72a79dc219e9a"
+    },
+    {
+      "path": "pronunciation/audio/aud-10.ogg",
+      "bytes": 16890,
+      "sha256": "ade3c641c9e337069cc479cba19384644ae5410548cb58628b7fc7af1cfa7cae"
+    },
+    {
+      "path": "pronunciation/audio/aud-11.ogg",
+      "bytes": 19833,
+      "sha256": "50fc209cdddfdbf87494032ff760639b386e96fc3153bb45ee263cbdfd962d8d"
+    },
+    {
+      "path": "pronunciation/audio/aud-12.ogg",
+      "bytes": 16688,
+      "sha256": "535d2d5ec30003adedc0ca3cef25b0a9a9a4850c1140725c4277ac617c219d7e"
+    },
+    {
+      "path": "pronunciation/audio/aud-13.ogg",
+      "bytes": 14947,
+      "sha256": "a80e51da3c0c3db768da78bdd6c2454f66aee2fb1f787cb2fe161127c4911a5c"
+    },
+    {
+      "path": "pronunciation/audio/aud-14.ogg",
+      "bytes": 16883,
+      "sha256": "134cf799368a70c2bb898ba3c13384d34692dee7eaeae361355d6fe4c6955c8e"
+    },
+    {
+      "path": "pronunciation/audio/aud-15.ogg",
+      "bytes": 15871,
+      "sha256": "4e4f1c842cc3d862c764b85c71d408d69fbbc9f708eb73a60f1295455125474a"
+    },
+    {
+      "path": "pronunciation/audio/aud-16.ogg",
+      "bytes": 17574,
+      "sha256": "b0b10d493766bb2ef95960f3597b68a7304bee0cf5a300ee05ef089465e67e18"
+    },
+    {
+      "path": "pronunciation/audio/aud-17.ogg",
+      "bytes": 22141,
+      "sha256": "d95a4970fd4ee03aeec10da9e8f89af3842d35ff507cecaca55620bbd3168be1"
+    },
+    {
+      "path": "pronunciation/audio/aud-18.ogg",
+      "bytes": 17025,
+      "sha256": "843e350e099441aad934a1c39b27de7d7573659ce7c62abaf8842cd634220d67"
+    },
+    {
+      "path": "pronunciation/audio/aud-19.ogg",
+      "bytes": 20237,
+      "sha256": "1397ac4e98f7b587ff83852c1d8c9d9b900ddc2df64b90ed8561f240142762c9"
+    },
+    {
+      "path": "pronunciation/audio/aud-20.ogg",
+      "bytes": 19816,
+      "sha256": "c1603c7b5397278c073b2a349ffe77e1d13d40d812951debc8111e521abe236f"
+    },
+    {
+      "path": "pronunciation/audio/aud-21.ogg",
+      "bytes": 19595,
+      "sha256": "2a0fdafab03f735b5bbfe1b0c7e7b6fb58a1fc886341d76b28e268bf2ae5eadb"
+    },
+    {
+      "path": "pronunciation/audio/aud-22.ogg",
+      "bytes": 17843,
+      "sha256": "a29cd8903bce50db4524af62f997158a9e097f485d22013cf3f8a1d4992d1b59"
+    },
+    {
+      "path": "pronunciation/audio/aud-23.ogg",
+      "bytes": 14789,
+      "sha256": "2dcfd1a24e3ce559b221d63292978015cb7393ffc91821f5d2f651bb356e6246"
+    },
+    {
+      "path": "pronunciation/audio/aud-24.ogg",
+      "bytes": 16973,
+      "sha256": "e83d3fb04b7ef1a4c914d56e2145db4610aaf2e94b36c017b47f8e1a9dd082ff"
+    },
+    {
+      "path": "pronunciation/audio/aud-25.ogg",
+      "bytes": 20849,
+      "sha256": "618b0c9df848b5b8b1a6b9b13f620a0246236211ec963e3b49a6d913e2e6e5d7"
+    },
+    {
+      "path": "pronunciation/audio/aud-26.ogg",
+      "bytes": 21155,
+      "sha256": "00f601ee5584f5d70d43f1f5f72d271200b9d2cc1698e797d5b2648e0975d563"
+    },
+    {
+      "path": "pronunciation/audio/aud-27.ogg",
+      "bytes": 16704,
+      "sha256": "c590eec134251420bc3903e18bae6694a7a86a8ada41c2db9914e09ecc23a08e"
+    },
+    {
+      "path": "pronunciation/audio/aud-28.ogg",
+      "bytes": 17297,
+      "sha256": "18a1d2eb13b753690e1786f884473570880f54fcdaac89f53705cef196c056aa"
+    },
+    {
+      "path": "pronunciation/audio/aud-29.ogg",
+      "bytes": 19318,
+      "sha256": "d19778aa1339121c8042f2fe5c2fd9d21920cbdb1aea891a92dc63a37d518027"
+    },
+    {
+      "path": "pronunciation/audio/aud-30.ogg",
+      "bytes": 22711,
+      "sha256": "bb1072e1d429c7622fb0f9ae28fc522e3fc66aa9a623a8e96bd5eab56f1f71d6"
+    },
+    {
+      "path": "pronunciation/audio-format-checks.json",
+      "bytes": 4651,
+      "sha256": "e1876ead9c3e562538db3a60a944f84ef4cbc56d86f9ee72566af8a8b5b28e5e"
+    },
+    {
+      "path": "pronunciation/glossary-draft.csv",
+      "bytes": 7110,
+      "sha256": "a93bcf9f35b8ea0c87ee9563446febb6d2e09196a54f109abf3aa7a29d4aed96"
+    },
+    {
+      "path": "pronunciation/glossary-draft.json",
+      "bytes": 17611,
+      "sha256": "b3b01dbb7b57a5c314f6f5583634338e4cd30660f8adfba1bbee22d26cfb249d"
+    },
+    {
+      "path": "pronunciation/licensed-audio-glossary.csv",
+      "bytes": 29451,
+      "sha256": "359ade94ce862d2cead2da9239596da7d78e04bc7427af508c44c40a359fe43d"
+    },
+    {
+      "path": "pronunciation/licensed-audio-register.json",
+      "bytes": 46784,
+      "sha256": "97b7a646afb2f629f7d61c1644b306bb621bcc6df683b92be6cc729c4db118b8"
+    },
+    {
+      "path": "qa.json",
+      "bytes": 825,
+      "sha256": "2cb445fe8bce80c241270a9f8378b352ce22805d87f0c567fde6afaacc70d18c"
+    },
+    {
+      "path": "scripts/build_catalog.py",
+      "bytes": 7536,
+      "sha256": "bf20b01aa9d615469765bf20cc0e2311b54e59d62763d1567aa1012fbf346ee5"
+    },
+    {
+      "path": "scripts/build_maps.py",
+      "bytes": 3375,
+      "sha256": "4b508e598e5ca19022cf1686a98dad513dc32c4abac3c8a4bfb17b4db8c67134"
+    },
+    {
+      "path": "scripts/build_records.py",
+      "bytes": 10445,
+      "sha256": "48aa572ad1f6ed6480dadd20734fe741ab66b8c7619caaaf61528f5e1c9593d4"
+    },
+    {
+      "path": "scripts/curate_media.py",
+      "bytes": 1571,
+      "sha256": "3bfca521aa95f342a63868d38b734c74c16b98c802fdc2d3cfdeb9044612fc89"
+    },
+    {
+      "path": "scripts/download_audio.py",
+      "bytes": 3533,
+      "sha256": "8d5d6c6f8568c857108b6766cb7ea7d373eaa69f7b1e0602342a87cf612de5df"
+    },
+    {
+      "path": "scripts/download_perspectives.py",
+      "bytes": 3033,
+      "sha256": "cb2d4c49f4f07dd04959318b39f64876a6f9126b1ed7e2816bd44341f2feea7b"
+    },
+    {
+      "path": "scripts/download_sources.py",
+      "bytes": 6228,
+      "sha256": "e93f2a231c280fa3552b96aacc647d6fd1facc1d77126dc24447c700b798f573"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-18",
+    "path": "photographs/pho-18-a-vibrant-bird-2.jpg",
+    "title": "A vibrant bird 2.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/A_vibrant_bird_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Karabi kanan chutia",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "branch, overlooking the misty grasslands of Kaziranga, capturing the park’s tranquil wilderness.",
+    "date_created": "2025-02-02 16:43:21",
+    "commons_upload_timestamp": "2025-07-11T12:53:37Z",
+    "checked_at": "2026-10-11",
+    "bytes": 1528540,
+    "sha256": "f98981fbe621eb27104d315d42910e9f9554401fa4df67680cbb92c06647aaf2",
+    "width": 4032,
+    "height": 3024,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A vibrant bird 2.jpg — Karabi kanan chutia; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "169691449": {
+          "pageid": 169691449,
+          "ns": 6,
+          "title": "File:A vibrant bird 2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2025-07-11T12:53:37Z",
+              "size": 1528540,
+              "width": 4032,
+              "height": 3024,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/A_vibrant_bird_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_vibrant_bird_2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169691449",
+              "sha1": "ab545a8c2c3d329dd40b6f649aabc1f7f26dbc84",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-07-11 12:53:37",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A vibrant bird 2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Kaziranga National Park|Self-published work|Uploaded via Campaign:wle-in|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Images from Wiki Loves Earth 2025|Images from Wiki Loves Earth 2025 in India",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "branch, overlooking the misty grasslands of Kaziranga, capturing the park’s tranquil wilderness.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-02-02 16:43:21",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Karabi_kanan_chutia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Karabi kanan chutia (page does not exist)\">Karabi kanan chutia</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

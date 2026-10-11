@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-29",
+    "path": "photographs/pho-29-road-east-iit-guwahati-assam-oct24-a7cr-03203.jpg",
+    "title": "Road East IIT Guwahati Assam Oct24 A7CR 03203.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Timothy A. Gonsalves",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Road heading east near Guest House, IIT Guwahati, Assam, India",
+    "date_created": "2024-10-07 07:01:50",
+    "commons_upload_timestamp": "2024-11-19T15:16:36Z",
+    "checked_at": "2026-10-11",
+    "bytes": 42011583,
+    "sha256": "a39844c3cbbb2fe2c40f00372837c76550606dfca523ce3e1f31bb2da990549f",
+    "width": 8467,
+    "height": 5645,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "Road East IIT Guwahati Assam Oct24 A7CR 03203.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "155360153": {
+          "pageid": 155360153,
+          "ns": 6,
+          "title": "File:Road East IIT Guwahati Assam Oct24 A7CR 03203.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2024-11-19T15:16:36Z",
+              "size": 42011583,
+              "width": 8467,
+              "height": 5645,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Road_East_IIT_Guwahati_Assam_Oct24_A7CR_03203.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155360153",
+              "sha1": "35ee8d14e6cef3069fa359e5b98aba6d957534e5",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-11-19 15:16:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Road East IIT Guwahati Assam Oct24 A7CR 03203",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "IIT Guwahati|Self-published work|Files with coordinates missing SDC location of creation|Images by User:Tagooty|Roads in Guwahati|Taken with Sony ILCE-7CR|Images by User:Tagooty/India",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.195488",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "91.696328",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Road heading east near Guest House, IIT Guwahati, Assam, India",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-10-07 07:01:50",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

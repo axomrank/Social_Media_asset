@@ -1,0 +1,126 @@
+{
+  "record": {
+    "id": "AUD-03",
+    "assamese_source_spelling": "বিহু",
+    "english_draft": "Bihu",
+    "source_title": "File:As-বিহু.wav",
+    "source_page": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_description": "The pronunciation of \"Bihu\" in Assamese.",
+    "source_creator": "Msasag",
+    "speaker_identity": null,
+    "speaker_region": null,
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "date_created": "2025-10-16",
+    "checked_at": "2026-10-11",
+    "path": "pronunciation/audio/aud-03.wav",
+    "bytes": 421966,
+    "sha256": "c063e72a93a8394f0b09660b456c22818a8e7cd84f5108c1b6e2a3ffc024cb73",
+    "public_credit": "As-বিহু.wav — Msasag; CC0; http://creativecommons.org/publicdomain/zero/1.0/deed.en; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav; unchanged original recording.",
+    "language_review": "pending qualified native reviewer; English gloss is draft",
+    "signed_axomrank_consent_record": null,
+    "permission_basis": "Public Commons licence only; not a newly commissioned or signed AxomRank contribution",
+    "review_status": "original audio downloaded; native linguistic validation pending"
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "176876882": {
+          "pageid": 176876882,
+          "ns": 6,
+          "title": "File:As-বিহু.wav",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2025-10-17T08:08:01Z",
+              "size": 421966,
+              "width": 0,
+              "height": 0,
+              "duration": 2.391655328798186,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A7%81.wav",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176876882",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-17 08:08:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "As-বিহু",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Festivals|CC-Zero|Bihu|Self-published work|Festivals in India|Festivals in Assam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The pronunciation of \"Bihu\" in Assamese.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2025-10-16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Msasag&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Msasag (page does not exist)\">Msasag</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "record": {
+    "id": "AUD-08",
+    "assamese_source_spelling": "তিনি",
+    "english_draft": "three",
+    "source_title": "File:As-তিনি.ogg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_description": "Pronunciation of the Assamese word(s)",
+    "source_creator": "Sagir Ahmed Msa",
+    "speaker_identity": null,
+    "speaker_region": null,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date_created": "2018-02-26",
+    "checked_at": "2026-10-11",
+    "path": "pronunciation/audio/aud-08.ogg",
+    "bytes": 17768,
+    "sha256": "eff17162d6f049707fbcfba46b838fd7b5532e7a1f5fed073bb6750ca5be1cd7",
+    "public_credit": "As-তিনি.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg; unchanged original recording.",
+    "language_review": "pending qualified native reviewer; English gloss is draft",
+    "signed_axomrank_consent_record": null,
+    "permission_basis": "Public Commons licence only; not a newly commissioned or signed AxomRank contribution",
+    "review_status": "original audio downloaded; native linguistic validation pending"
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "66816693": {
+          "pageid": 66816693,
+          "ns": 6,
+          "title": "File:As-তিনি.ogg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2018-02-26T12:52:15Z",
+              "size": 17768,
+              "width": 0,
+              "height": 0,
+              "duration": 2.020136054421769,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF.ogg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66816693",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-02-26 12:52:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "As-তিনি",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Assamese pronunciation|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Pronunciation of the Assamese word(s)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-02-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sagir_Ahmed_Msa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sagir Ahmed Msa (page does not exist)\">Sagir Ahmed Msa</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

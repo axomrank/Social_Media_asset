@@ -1,0 +1,126 @@
+{
+  "record": {
+    "id": "AUD-11",
+    "assamese_source_spelling": "ছয়",
+    "english_draft": "six",
+    "source_title": "File:As-ছয়.ogg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_description": "Pronunciation of the Assamese word(s)",
+    "source_creator": "Sagir Ahmed Msa",
+    "speaker_identity": null,
+    "speaker_region": null,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date_created": "2018-02-26",
+    "checked_at": "2026-10-11",
+    "path": "pronunciation/audio/aud-11.ogg",
+    "bytes": 19833,
+    "sha256": "50fc209cdddfdbf87494032ff760639b386e96fc3153bb45ee263cbdfd962d8d",
+    "public_credit": "As-ছয়.ogg — Sagir Ahmed Msa; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg; unchanged original recording.",
+    "language_review": "pending qualified native reviewer; English gloss is draft",
+    "signed_axomrank_consent_record": null,
+    "permission_basis": "Public Commons licence only; not a newly commissioned or signed AxomRank contribution",
+    "review_status": "original audio downloaded; native linguistic validation pending"
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "66816696": {
+          "pageid": 66816696,
+          "ns": 6,
+          "title": "File:As-ছয়.ogg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2018-02-26T12:52:18Z",
+              "size": 19833,
+              "width": 0,
+              "height": 0,
+              "duration": 2.2523356009070294,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%9B%E0%A6%AF%E0%A6%BC.ogg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66816696",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-02-26 12:52:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "As-ছয়",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Assamese pronunciation|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Pronunciation of the Assamese word(s)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-02-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sagir_Ahmed_Msa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sagir Ahmed Msa (page does not exist)\">Sagir Ahmed Msa</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

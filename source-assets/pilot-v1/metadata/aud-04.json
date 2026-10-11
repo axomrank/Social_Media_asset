@@ -1,0 +1,126 @@
+{
+  "record": {
+    "id": "AUD-04",
+    "assamese_source_spelling": "গোলাঘাট",
+    "english_draft": "Golaghat",
+    "source_title": "File:As-গোলাঘাট.oga",
+    "source_page": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_description": "Pronunciation of the name of the city in Assamese — male, neutral accent",
+    "source_creator": "OmerMarcel",
+    "speaker_identity": null,
+    "speaker_region": null,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date_created": "2019-12-30",
+    "checked_at": "2026-10-11",
+    "path": "pronunciation/audio/aud-04.oga",
+    "bytes": 12160,
+    "sha256": "44fd37126c754ee753f63c82014bc97538a92a49a766d51580785e9252f1bf56",
+    "public_credit": "As-গোলাঘাট.oga — OmerMarcel; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga; unchanged original recording.",
+    "language_review": "pending qualified native reviewer; English gloss is draft",
+    "signed_axomrank_consent_record": null,
+    "permission_basis": "Public Commons licence only; not a newly commissioned or signed AxomRank contribution",
+    "review_status": "original audio downloaded; native linguistic validation pending"
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "85436507": {
+          "pageid": 85436507,
+          "ns": 6,
+          "title": "File:As-গোলাঘাট.oga",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2019-12-30T15:13:06Z",
+              "size": 12160,
+              "width": 0,
+              "height": 0,
+              "duration": 0.84,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F.oga",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85436507",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2019-12-30 15:13:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "As-গোলাঘাট",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Golaghat|Assamese pronunciation|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Pronunciation of the name of the city in Assamese — male, neutral accent",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2019-12-30",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:OmerMarcel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:OmerMarcel (page does not exist)\">OmerMarcel</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

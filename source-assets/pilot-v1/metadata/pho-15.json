@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-15",
+    "path": "photographs/pho-15-a-sunset-during-summer.jpg",
+    "title": "A sunset during summer.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_sunset_during_summer.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_sunset_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Sankhyac",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "A sunset during summer",
+    "date_created": "2013-07-10",
+    "commons_upload_timestamp": "2016-12-18T12:56:03Z",
+    "checked_at": "2026-10-11",
+    "bytes": 2469356,
+    "sha256": "c915dda5d9951f9a8fbb43f315d70af8389e9c834cec1ca54d292b66662fa2dc",
+    "width": 4896,
+    "height": 2752,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A sunset during summer.jpg — Sankhyac; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_sunset_during_summer.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "54227635": {
+          "pageid": 54227635,
+          "ns": 6,
+          "title": "File:A sunset during summer.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2016-12-18T12:56:03Z",
+              "size": 2469356,
+              "width": 4896,
+              "height": 2752,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/A_sunset_during_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_sunset_during_summer.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54227635",
+              "sha1": "7b7027e6674526dce45ad05600fd5a73f5992013",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2016-12-18 12:56:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A sunset during summer",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Silchar|Self-published work|Sunsets of Assam|Files with coordinates missing SDC location of creation|Silhouettes of plants",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "24.820653",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "92.793675",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A sunset during summer",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-07-10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sankhyac&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sankhyac (page does not exist)\">Sankhyac</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

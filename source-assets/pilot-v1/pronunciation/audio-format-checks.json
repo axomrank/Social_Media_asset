@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AUD-01",
+    "duration_seconds": 3.029333,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-02",
+    "duration_seconds": 1.950476,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-03",
+    "duration_seconds": 2.391655,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-04",
+    "duration_seconds": 0.84,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-05",
+    "duration_seconds": 2.438095,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-06",
+    "duration_seconds": 1.927256,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-07",
+    "duration_seconds": 1.996916,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-08",
+    "duration_seconds": 2.020136,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-09",
+    "duration_seconds": 1.950476,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-10",
+    "duration_seconds": 1.880816,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-11",
+    "duration_seconds": 2.252336,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-12",
+    "duration_seconds": 1.857596,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-13",
+    "duration_seconds": 1.625397,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-14",
+    "duration_seconds": 1.927256,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-15",
+    "duration_seconds": 1.787937,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-16",
+    "duration_seconds": 1.973696,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-17",
+    "duration_seconds": 2.554195,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-18",
+    "duration_seconds": 1.600952,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-19",
+    "duration_seconds": 2.298776,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-20",
+    "duration_seconds": 2.205896,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-21",
+    "duration_seconds": 2.182676,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-22",
+    "duration_seconds": 2.043356,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-23",
+    "duration_seconds": 1.671837,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-24",
+    "duration_seconds": 1.950476,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-25",
+    "duration_seconds": 2.298776,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-26",
+    "duration_seconds": 2.298776,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-27",
+    "duration_seconds": 1.904036,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-28",
+    "duration_seconds": 1.904036,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-29",
+    "duration_seconds": 2.159456,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "AUD-30",
+    "duration_seconds": 2.600635,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-01",
+    "duration_seconds": 99.4539,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-02",
+    "duration_seconds": 377.812766,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-03",
+    "duration_seconds": 273.939002,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-04",
+    "duration_seconds": 732.732245,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-05",
+    "duration_seconds": 221.44229,
+    "review": "format/duration only; language validation pending"
+  },
+  {
+    "id": "ARC-06",
+    "duration_seconds": 689.179093,
+    "review": "format/duration only; language validation pending"
+  }
+]

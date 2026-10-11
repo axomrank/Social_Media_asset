@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-03",
+    "path": "photographs/pho-03-architecture-a-view-from-rang-ghar.jpg",
+    "title": "Architecture - A view from Rang-Ghar.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Architecture_-_A_view_from_Rang-Ghar.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Architecture_-_A_view_from_Rang-Ghar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Gitika Gayan",
+    "source_statement": "Own work",
+    "licence": "CC BY 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "usage_terms": "Creative Commons Attribution 3.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Rang - Ghar is situated in Sivsagar,Assam. It is a two storeyed building which served as royal sports pavilion in the time of Ahom Kingdom During Bihu.",
+    "date_created": "27 April 2017 (according to   Exif   data)",
+    "commons_upload_timestamp": "2021-01-20T06:39:22Z",
+    "checked_at": "2026-10-11",
+    "bytes": 854224,
+    "sha256": "2b260e619dc7fb6df8c2cce9e6865956627447bb15bad48b984bb8c44bb375fa",
+    "width": 2560,
+    "height": 1440,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "Architecture - A view from Rang-Ghar.jpg — Gitika Gayan; CC BY 3.0; https://commons.wikimedia.org/wiki/File:Architecture_-_A_view_from_Rang-Ghar.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "99022092": {
+          "pageid": 99022092,
+          "ns": 6,
+          "title": "File:Architecture - A view from Rang-Ghar.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2021-01-20T06:39:22Z",
+              "size": 854224,
+              "width": 2560,
+              "height": 1440,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Architecture_-_A_view_from_Rang-Ghar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Architecture_-_A_view_from_Rang-Ghar.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99022092",
+              "sha1": "ef2b30b5a56fdf442a6a599b7ff396c10aecf1f6",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-20 06:39:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Architecture - A view from Rang-Ghar",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Rang Ghar|Assamese Wikipedia Photography Competition 2021|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2017-04-27",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Rang - Ghar is situated in Sivsagar,Assam. It is a two storeyed building which served as royal sports pavilion in the time of Ahom Kingdom During Bihu.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "27 April 2017 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gitika_Gayan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gitika Gayan (page does not exist)\">Gitika Gayan</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

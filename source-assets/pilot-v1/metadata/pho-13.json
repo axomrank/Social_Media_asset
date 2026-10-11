@@ -1,0 +1,130 @@
+{
+  "record": {
+    "id": "PHO-13",
+    "path": "photographs/pho-13-barak-river-as-seen-from-sadarghat-bridge-silchar-assam-.jpg",
+    "title": "Barak River as seen from Sadarghat Bridge, Silchar, Assam..JPG",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Barak_River_as_seen_from_Sadarghat_Bridge,_Silchar,_Assam..JPG",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Barak_River_as_seen_from_Sadarghat_Bridge%2C_Silchar%2C_Assam..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Deeporaj",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 3.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "The Barak River, Silchar Town, India.",
+    "date_created": "2012-01-07",
+    "commons_upload_timestamp": "2012-01-08T15:46:44Z",
+    "checked_at": "2026-10-11",
+    "bytes": 3780854,
+    "sha256": "c2c924023fd40b0483037b08e6b6b435d6cfc08a9ddba65683ac38e569516acd",
+    "width": 3648,
+    "height": 2736,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "Barak River as seen from Sadarghat Bridge, Silchar, Assam..JPG — Deeporaj; CC BY-SA 3.0; https://commons.wikimedia.org/wiki/File:Barak_River_as_seen_from_Sadarghat_Bridge,_Silchar,_Assam..JPG",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "17973260": {
+          "pageid": 17973260,
+          "ns": 6,
+          "title": "File:Barak River as seen from Sadarghat Bridge, Silchar, Assam..JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2012-01-08T15:46:44Z",
+              "size": 3780854,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Barak_River_as_seen_from_Sadarghat_Bridge%2C_Silchar%2C_Assam..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Barak_River_as_seen_from_Sadarghat_Bridge,_Silchar,_Assam..JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17973260",
+              "sha1": "707334798d8ac843f41f90fd1a5188e1acbfff53",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-01-08 15:46:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Barak River as seen from Sadarghat Bridge, Silchar, Assam.",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSC-S1900|Blurred images|Barak River|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Barak River, Silchar Town, India.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-01-07",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Deeporaj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Deeporaj (page does not exist)\">Deeporaj</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

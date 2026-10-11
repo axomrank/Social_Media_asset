@@ -52,3 +52,8 @@ The last photograph/design reference is not automatically the canonical logo. Id
 ## Machine-readable records
 
 [Legacy inventory](legacy-inventory.json) has categories, path, Git blob ID and initial review status. [Project import manifest](project-import.json) has source/destination paths, sizes and SHA-256 checksums. Start future metadata with the [asset record](../templates/asset-metadata.json), [information record](../templates/information-record.json) and [content brief](../templates/content-brief.md). Unknown rights/review status stays unknown until someone verifies it.
+
+## Source-based pilot
+
+- [Acquisition status and sources](../source-assets/pilot-v1/README.md)
+- [Source media gallery](../source-assets/pilot-v1/gallery.html)

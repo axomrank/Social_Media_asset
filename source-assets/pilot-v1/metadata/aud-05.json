@@ -1,0 +1,126 @@
+{
+  "record": {
+    "id": "AUD-05",
+    "assamese_source_spelling": "বহী",
+    "english_draft": "notebook",
+    "source_title": "File:As-বহী.oga",
+    "source_page": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source_description": "Assamese pronunciation of the word.",
+    "source_creator": "Msasag",
+    "speaker_identity": null,
+    "speaker_region": null,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "date_created": "2018-06-27",
+    "checked_at": "2026-10-11",
+    "path": "pronunciation/audio/aud-05.oga",
+    "bytes": 16778,
+    "sha256": "8bef388f27ac9c2f2eeb0bbc57ff90996f83f76be6627b3f9748dc25025d9bf4",
+    "public_credit": "As-বহী.oga — Msasag; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0; https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga; unchanged original recording.",
+    "language_review": "pending qualified native reviewer; English gloss is draft",
+    "signed_axomrank_consent_record": null,
+    "permission_basis": "Public Commons licence only; not a newly commissioned or signed AxomRank contribution",
+    "review_status": "original audio downloaded; native linguistic validation pending"
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "70278280": {
+          "pageid": 70278280,
+          "ns": 6,
+          "title": "File:As-বহী.oga",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2018-06-27T03:56:49Z",
+              "size": 16778,
+              "width": 0,
+              "height": 0,
+              "duration": 2.4380952380952383,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:As-%E0%A6%AC%E0%A6%B9%E0%A7%80.oga",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70278280",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-06-27 03:56:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "As-বহী",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Assamese pronunciation|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Assamese pronunciation of the word.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2018-06-27",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Msasag&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Msasag (page does not exist)\">Msasag</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

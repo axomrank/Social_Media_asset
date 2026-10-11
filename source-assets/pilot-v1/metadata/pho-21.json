@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-21",
+    "path": "photographs/pho-21-a-bamboo-bridge-on-luhit-river-majuli-assam.jpg",
+    "title": "A bamboo bridge on Luhit river, Majuli, Assam.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:A_bamboo_bridge_on_Luhit_river,_Majuli,_Assam.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/A_bamboo_bridge_on_Luhit_river%2C_Majuli%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Joli Rumi",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "A bamboo bridge on Luhit river, Majuli, Assam",
+    "date_created": "2024-01-01 08:22:49",
+    "commons_upload_timestamp": "2025-01-03T14:32:01Z",
+    "checked_at": "2026-10-11",
+    "bytes": 2534565,
+    "sha256": "72d5e12a5f620e229fe5c374b803428cbd6fa37a4092c90c2ef40096d6760dfe",
+    "width": 4032,
+    "height": 2268,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "A bamboo bridge on Luhit river, Majuli, Assam.jpg — Joli Rumi; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:A_bamboo_bridge_on_Luhit_river,_Majuli,_Assam.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "157484687": {
+          "pageid": 157484687,
+          "ns": 6,
+          "title": "File:A bamboo bridge on Luhit river, Majuli, Assam.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2025-01-03T14:32:01Z",
+              "size": 2534565,
+              "width": 4032,
+              "height": 2268,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/A_bamboo_bridge_on_Luhit_river%2C_Majuli%2C_Assam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_bamboo_bridge_on_Luhit_river,_Majuli,_Assam.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157484687",
+              "sha1": "93cc0e4dfff4473a168ba8926862f1ebdb5cd681",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-01-03 14:32:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "A bamboo bridge on Luhit river, Majuli, Assam",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Majuli|Self-published work|Files with coordinates missing SDC location of creation|Bridges over the Lohit River",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "27.007619",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "94.133139",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A bamboo bridge on Luhit river, Majuli, Assam",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-01-01 08:22:49",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Joli_Rumi\" title=\"User:Joli Rumi\">Joli Rumi</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

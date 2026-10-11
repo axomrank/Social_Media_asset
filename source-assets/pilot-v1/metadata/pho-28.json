@@ -1,0 +1,143 @@
+{
+  "record": {
+    "id": "PHO-28",
+    "path": "photographs/pho-28-gaurang-hostel-iit-guwahati-oct24-a7cr-03209.jpg",
+    "title": "Gaurang Hostel IIT Guwahati Oct24 A7CR 03209.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "creator": "Timothy A. Gonsalves",
+    "source_statement": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "Creative Commons Attribution-Share Alike 4.0",
+    "attribution_required": "true",
+    "copyrighted": "True",
+    "description": "Gaurang Hostel front facade, IIT Guwahati, Assam, India",
+    "date_created": "2024-10-07 07:19:16",
+    "commons_upload_timestamp": "2024-11-22T03:59:27Z",
+    "checked_at": "2026-10-11",
+    "bytes": 29636448,
+    "sha256": "8f93d709a9365bf57629e0daf23456d4befd70a479982a58619a6250cb6a9db9",
+    "width": 8887,
+    "height": 4999,
+    "review_status": "metadata_checked_visual_review_pending",
+    "classification": "source-based photograph",
+    "public_credit": "Gaurang Hostel IIT Guwahati Oct24 A7CR 03209.jpg — Timothy A. Gonsalves; CC BY-SA 4.0; https://commons.wikimedia.org/wiki/File:Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg",
+    "notes": [
+      "Original file downloaded without image modification. Source description is a contributor statement, not independent archaeological identification. No model release is inferred."
+    ]
+  },
+  "raw_commons_response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "155519834": {
+          "pageid": 155519834,
+          "ns": 6,
+          "title": "File:Gaurang Hostel IIT Guwahati Oct24 A7CR 03209.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "timestamp": "2024-11-22T03:59:27Z",
+              "size": 29636448,
+              "width": 8887,
+              "height": 4999,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gaurang_Hostel_IIT_Guwahati_Oct24_A7CR_03209.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155519834",
+              "sha1": "f14b602c90532bfad36da0c7318064720e5fc773",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-11-22 03:59:27",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Gaurang Hostel IIT Guwahati Oct24 A7CR 03209",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Media with estimated locations|Files with coordinates missing SDC location of creation|Images by User:Tagooty|Taken with Sony ILCE-7CR|IIT Guwahati - Gaurang Hostel|Images by User:Tagooty/India",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality|valued",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "26.191017",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "91.700937",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Gaurang Hostel front facade, IIT Guwahati, Assam, India",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-10-07 07:19:16",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tagooty\" title=\"User:Tagooty\">Timothy A. Gonsalves</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

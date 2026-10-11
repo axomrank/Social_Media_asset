@@ -1,0 +1,22 @@
+{
+  "downloaded_photographs": 30,
+  "downloaded_object_document_images": 8,
+  "geospatial_masters": 4,
+  "education_programme_records": 25,
+  "education_institutions": 2,
+  "place_records": 12,
+  "place_sources_retrieved": 11,
+  "pronunciation_draft_terms": 30,
+  "licensed_pronunciation_files_downloaded": 30,
+  "reviewed_pronunciation_audio": 0,
+  "published_archive_segments_downloaded": 6,
+  "archive_unique_speakers": 1,
+  "contributor_briefs": 6,
+  "received_consented_contributions": 0,
+  "image_and_checksum_errors": [],
+  "notes": [
+    "Audio is publicly licensed; native review and signed AxomRank submissions remain separate gaps.",
+    "Source-file licensing is separate from subject/context verification.",
+    "UNESCO page blocked a direct HTTP fetch; its record retains a verified browser-source link."
+  ]
+}
