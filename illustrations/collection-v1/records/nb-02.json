@@ -1,0 +1,16 @@
+{
+  "id": "NB-02",
+  "master": "illustrations/collection-v1/masters/campaign-backgrounds/nb-02-opportunities.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nCampaign asset: intentionally clean studio 3D composition, no people, regional scenery or foliage. Empty ivory space is more important than decoration. Do not add plants, patterned cloth, extra books or extra symbolic objects.\nSubject/scene: Elegant realistic tactile 3D geometric composition lower-right: three ascending low steps in ivory with a restrained maroon rounded arch beyond, symbolising progress without guaranteeing outcomes. Open upper-left/central 60 percent space for bilingual copy, warm ivory seamless background, charcoal shadow accents. No arrows with labels, people, text, cultural motif or logo.",
+  "reference": null,
+  "sources": [],
+  "classification": "AI-generated campaign background",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "Three ivory steps lead toward a maroon arch on an open ivory studio background.",
+    "notes": "Progress metaphor, no guaranteed results; open copy space."
+  }
+}

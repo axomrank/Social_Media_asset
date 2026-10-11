@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "date": "2026-10-11",
+  "target": 36,
+  "approval": "Owner authorised completion of entire collection after four samples; house architecture, exterior and biomes accepted. Four samples individually approved; new outputs technically reviewed, not falsely recorded as individually approved.",
+  "items": [
+    {
+      "id": "LM-01",
+      "set": "learning-moments",
+      "slug": "after-work-study",
+      "title": "Adult study after work",
+      "scene": "",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "existing": "illustrations/review/sample-02/after-work-study-v1.png",
+      "review": "individually_approved"
+    },
+    {
+      "id": "LM-02",
+      "set": "learning-moments",
+      "slug": "shared-study",
+      "title": "Shared study space",
+      "scene": "",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "existing": "illustrations/review/sample-03/shared-study-v1.png",
+      "review": "individually_approved"
+    },
+    {
+      "id": "LM-03",
+      "set": "learning-moments",
+      "slug": "phone-revision",
+      "title": "Phone revision",
+      "scene": "",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "existing": "illustrations/review/sample-04/phone-revision-v1.png",
+      "review": "individually_approved"
+    },
+    {
+      "id": "LM-04",
+      "set": "learning-moments",
+      "slug": "peer-practice",
+      "title": "Peer practice",
+      "scene": "Two different adult learners at a veranda table in the owner-approved modest Brahmaputra Valley home. An adult man in ivory shirt explains a notebook example to an adult woman in maroon kurta, pointing naturally with one finger while she listens and prepares to write. Clearly peer discussion rather than independent study. Functional table, separate notebook, no readable writing. Warm shaded daylight.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "LM-05",
+      "set": "learning-moments",
+      "slug": "mistake-review",
+      "title": "Mistake review",
+      "scene": "A mature adult learner with short greying hair, plain maroon shirt, seated at an indoor wooden desk in the owner-approved home. Comparing two notebook pages thoughtfully, correcting own work with a pen; composed expression, no shame/failure dramatization. One closed book, simple warm desk lamp, ivory wall. No readable marks or scores. Method supplied in editable caption.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "LM-06",
+      "set": "learning-moments",
+      "slug": "commuter-reading",
+      "title": "Commuter reading",
+      "scene": "An adult woman in plain muted-maroon cotton kurta and trousers seated in a plausible local bus, reading a small paperback while waiting or travelling. Bus stationary visual, safe seated posture, simple metal grab rails, padded bench, window shows flat green Assam countryside with distant low houses, no landmarks. No luggage blocking exits, no phone distraction for driver, no readable bus route or book text.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "LM-07",
+      "set": "learning-moments",
+      "slug": "rural-desk",
+      "title": "Rural desk",
+      "scene": "",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "existing": "illustrations/review/sample-01/rural-study-v1.png",
+      "review": "individually_approved"
+    },
+    {
+      "id": "LM-08",
+      "set": "learning-moments",
+      "slug": "accessible-study",
+      "title": "Accessible learning setting",
+      "scene": "Adult learner who uses a manually propelled wheelchair, independently studying at an accessible desk in a simple ground-level modern study room in Assam. Comfortable knee clearance, no desk stretcher blocking wheelchair, unobstructed level floor and wide doorway. Plain maroon shirt, notebook and phone on desk, believable wheelchair seat/backrest/push rims/footrests and anatomy. Natural capable concentration, no helper required, no inspirational pity. Ivory wall and wooden shutter window, restrained greenery outside.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "CI-01",
+      "set": "concepts",
+      "slug": "percentage",
+      "title": "Percentage as part of a whole",
+      "scene": "Tactile realistic 3D educational still-life: one simple circular matte ivory disc with a precisely quarter-sized maroon sector, top-down oblique view on ivory desk, a plain blank notebook nearby. No numbers, symbols or labels. Quarter division must visually be 90 degrees, not arbitrary fraction. Generated art is illustrative; authoritative 4-of-16 grid and 25 percent method will be in editable SVG companion.",
+      "sources": [],
+      "method": "4 / 16 × 100 = 25%",
+      "diagram": "percentage"
+    },
+    {
+      "id": "CI-02",
+      "set": "concepts",
+      "slug": "ratio",
+      "title": "Ratio and scaling",
+      "scene": "Tactile 3D educational still-life of TWO maroon plain wooden counters and THREE muted-green counters, clearly separated in a single uncluttered row on ivory desk. Exactly five counters, no extras or decorative counting objects. No labels/text. Intended ratio maroon:green 2:3; SVG diagram will be authoritative.",
+      "sources": [],
+      "method": "2:3 scaled by 2 becomes 4:6; total 10",
+      "diagram": "ratio"
+    },
+    {
+      "id": "CI-03",
+      "set": "concepts",
+      "slug": "sequence",
+      "title": "Reasoning with a sequence",
+      "scene": "Tactile 3D educational still-life: four simple equal-sized ivory square tiles in a horizontal row; an understated maroon trail leads toward an empty fifth tile position. Do not put numbers or symbols on tiles. This is an unlabelled backing illustration; editable companion alone teaches sequence 2,4,6,8,10 and +2 rule.",
+      "sources": [],
+      "method": "2, 4, 6, 8, 10; add 2 each time",
+      "diagram": "sequence"
+    },
+    {
+      "id": "CI-04",
+      "set": "concepts",
+      "slug": "vocabulary",
+      "title": "Vocabulary in context",
+      "scene": "Realistic editorial still-life: open unlettered notebook, simple pencil, a small living plant and a glass of water on ivory wooden desk, maroon book cover. Visual theme careful observation of a plant; all vocabulary and contextual sentence supplied as editable text in companion, no generated lettering.",
+      "sources": [],
+      "method": "observe: notice carefully; Example: Observe how the seedling changes each day.",
+      "diagram": "vocabulary"
+    },
+    {
+      "id": "CI-05",
+      "set": "concepts",
+      "slug": "water-cycle",
+      "title": "Water cycle",
+      "scene": "Realistic digitally rendered educational landscape miniature: inland Assam-inspired lowland green terrain, a small freshwater pond, gentle cloud layer and rain falling over land, warm sun at edge; water also visible in atmosphere as faint rising vapor depiction. No snow mountains, ocean coast, labels or arrows. Conceptual scene not exact geographic proof. Mechanism/arrows will be authoritative in editable diagram.",
+      "sources": [],
+      "method": "Evaporation → condensation → precipitation → collection; energy from the Sun",
+      "diagram": "water-cycle"
+    },
+    {
+      "id": "CI-06",
+      "set": "concepts",
+      "slug": "simple-circuit",
+      "title": "A closed circuit",
+      "scene": "Realistic 3D science still-life with a small low-voltage single battery holder, switch, two insulated wires and small torch bulb on ivory desk. Clearly arranged functional closed circuit, bulb gently glowing, no wall socket or mains power. No decorative extra wires, no readable brand or voltage. Editable circuit diagram will be authoritative; art alone is not wiring instruction.",
+      "sources": [],
+      "method": "A complete closed path allows current; an open switch breaks the path.",
+      "diagram": "circuit"
+    },
+    {
+      "id": "CI-07",
+      "set": "concepts",
+      "slug": "input-process-output",
+      "title": "Input, process, output",
+      "scene": "Realistic 3D computer learning still-life on ivory background: keyboard foreground-left, plain small desktop computer in middle and monitor foreground-right, restrained maroon details; all screen blank. Functional everyday equipment, no floating magic symbols, no fake interface. Three separate objects for editable input-process-output companion.",
+      "sources": [],
+      "method": "Keyboard input → computer processes → result shown on screen",
+      "diagram": "ipo"
+    },
+    {
+      "id": "CI-08",
+      "set": "concepts",
+      "slug": "binary",
+      "title": "Binary place values",
+      "scene": "Realistic 3D computational still-life with FOUR clearly separated simple toggle switches in one row on a plain ivory base. On states subtly maroon, off states neutral; no numbers or labels. Exactly four switches. Do not imply electrical wiring lesson. Editable companion explains 8,4,2,1 place values and 1010 = 10.",
+      "sources": [],
+      "method": "1010₂ = 1×8 + 0×4 + 1×2 + 0×1 = 10₁₀",
+      "diagram": "binary"
+    },
+    {
+      "id": "AE-01",
+      "set": "assam-environments",
+      "slug": "river-valley",
+      "title": "Brahmaputra river-valley concept",
+      "scene": "Wide calm braided lowland river with shallow sandy bars, multiple winding channels and green floodplain vegetation, distant low hazy foothills only, no Himalaya backdrop. Ordinary riverbank with a modest roof edge at far right, no people or named bridge. Assam Brahmaputra Valley environment concept, not exact map, season, flood report or place proof.",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/brahmaputra-river-system"
+      ]
+    },
+    {
+      "id": "AE-02",
+      "set": "assam-environments",
+      "slug": "tea-landscape",
+      "title": "Assam tea landscape concept",
+      "scene": "Assam lowland tea landscape: gently undulating or mostly flat rows of low pruned tea bushes with scattered tall shade trees, damp soil paths, humid soft morning haze; not steep Darjeeling terraces, no snow peaks. No workers, colonial mansion, text, tea branding or stereotyped costumes. Conceptual landscape, not a named estate.",
+      "sources": [
+        "https://www.teaboard.gov.in/TEABOARDCSM/Ng%3D%3D",
+        "https://teaboard.gov.in/pdf/LIST_OF_APPROVED_PLANTING_MATERIALS_AND_SOIL_TESTING_LABORATORIES_pdf2583.pdf"
+      ]
+    },
+    {
+      "id": "AE-03",
+      "set": "assam-environments",
+      "slug": "wetland",
+      "title": "Freshwater beel concept",
+      "scene": "Assam freshwater beel concept: calm shallow open water, reeds and limited floating aquatic vegetation, natural low green margins, a few indistinct distant waterbirds not diagnostic species. No mangrove coast, flamingo spectacle or invented tourist structures. Inspired by floodplain wetlands, not exact Deepor Beel depiction or current ecological condition.",
+      "sources": [
+        "https://rsis.ramsar.org/RISapp/files/RISrep/IN1207RIS.pdf"
+      ]
+    },
+    {
+      "id": "AE-04",
+      "set": "assam-environments",
+      "slug": "town-street",
+      "title": "Assam town street concept",
+      "scene": "Ordinary present-day Assam small-town street after light rain: low plaster-and-brick shopfronts with simple corrugated awnings, paved road and visible side drain, a parked bicycle and a couple of pedestrians in everyday clothes. Restrained practical urban scene, no landmark, no readable shop signs or number plates, no poverty spectacle. No colonial fantasy or festival decor.",
+      "sources": []
+    },
+    {
+      "id": "AE-05",
+      "set": "assam-environments",
+      "slug": "hill-settlement",
+      "title": "Dima Hasao-inspired hill settlement concept",
+      "scene": "Assam Dima Hasao-inspired hill environment: layered green subtropical hills, a small settlement of simple contemporary timber/plaster houses with corrugated roofs along a modest winding road, roof drainage appropriate to rain. No snow, alpine chalets, Himalayan monastery or invented ethnic costumes. No residents foreground; not an exact Haflong street or claim all hill communities share one architecture.",
+      "sources": [
+        "https://dimahasao.assam.gov.in/"
+      ]
+    },
+    {
+      "id": "AE-06",
+      "set": "assam-environments",
+      "slug": "barak-valley",
+      "title": "Barak Valley concept",
+      "scene": "Barak Valley-inspired broad green alluvial plain with a calm single dominant river channel, low wooded hills framing distance, ordinary paddy plots, modest contemporary riverside roofs at edge. Humid soft daylight. No braid maze presented as universal, no major monument, exact river bend or named village. Concept art distinguishes this valley from tea/hill-only stereotypes.",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/barak-river-system",
+        "https://cachar.assam.gov.in/sites/default/files/public_utility/District%20Disaster%20Management%20Plan%20%28DDMP%202023-24%29.pdf"
+      ]
+    },
+    {
+      "id": "EL-01",
+      "set": "everyday-livelihoods",
+      "slug": "farming",
+      "title": "Paddy farming",
+      "scene": "Two adults tending young rice seedlings at a wet paddy plot in an Assam lowland setting, plain practical everyday cotton shirts/trousers with rolled hems, credible shallow water and planted rows, no spray/pesticide or animal mistreatment. Home/banana greenery subtle background. Respectful working posture, no caricature, staged poverty or festival accessories; seasonal concept not dated crop evidence.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "EL-02",
+      "set": "everyday-livelihoods",
+      "slug": "weaving-workshop",
+      "title": "Weaving workshop context",
+      "scene": "Adult woman in plain everyday ivory kurta with maroon accent seated at a simple wooden FRAME handloom inside modest well-lit Assam workshop; visible sensible warp direction, cloth beam and treadles, plain ivory cloth without invented cultural motif. Side view sufficiently wide to make loom coherent. No textile frame around image, costume theatrics, claim particular community's weaving pattern or technical loom instruction.",
+      "sources": [
+        "https://assamtenders.gov.in/nicgep/app",
+        "https://www.handlooms.gov.in/assets/img/tenders/EOI.pdf"
+      ]
+    },
+    {
+      "id": "EL-03",
+      "set": "everyday-livelihoods",
+      "slug": "market",
+      "title": "Local produce market",
+      "scene": "Adult vendor in plain muted-maroon shirt serving another adult at a tidy ordinary Assam local produce stall, modest corrugated canopy, baskets of plausible green leafy vegetables, gourds and bananas. Friendly routine exchange, no readable priceboards or money denominations, no staged poverty, sacred/cultural props or souvenir-market fantasy. Functional hands and accessible uncluttered stall.",
+      "sources": []
+    },
+    {
+      "id": "EL-04",
+      "set": "everyday-livelihoods",
+      "slug": "river-livelihood",
+      "title": "River livelihood",
+      "scene": "Adult river worker in practical plain everyday clothing at bank beside a modest wooden utility boat, coiling rope on safe dry landing while wearing a simple life vest; quiet Assam lowland river, green bank. Boat has believable hull and no unsafe overloaded passengers. No boat presented as a certified ferry design, no battlefield, festival, exact geography or ethnic-costume claim.",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/brahmaputra-river-system"
+      ]
+    },
+    {
+      "id": "EL-05",
+      "set": "everyday-livelihoods",
+      "slug": "local-enterprise",
+      "title": "Local enterprise",
+      "scene": "Adult woman proprietor managing a modest everyday stationery and photocopy shop in an Assam town, simple shelves, plain blank-covered notebooks and practical printer, maroon cotton kurta, customer respectfully receiving a plain sheet. No readable signs, claims, documents, logos or invented endorsements; functional counter and hands, cared-for ordinary shop.",
+      "sources": []
+    },
+    {
+      "id": "EL-06",
+      "set": "everyday-livelihoods",
+      "slug": "student-family",
+      "title": "Student family life",
+      "scene": "Three adults in an ordinary Assam home: young adult student studies at one end of wooden table, two older family members quietly organise household items at other end, supportive calm everyday coexistence, no heroic saviour scene or presumed family biography. Simple ivory plaster/timber room, maroon/neutral everyday cotton clothes, notebook with no readable writing, no minors or real identities.",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ]
+    },
+    {
+      "id": "HT-01",
+      "set": "history-teaching",
+      "slug": "rang-ghar",
+      "title": "Rang Ghar architectural reconstruction",
+      "scene": "Evidence-bound conceptual architectural reconstruction on ivory ground: an unoccupied two-storey Ahom Rang Ghar-inspired pavilion, elongated octagonal footprint, arched openings and distinctive inverted-boat-shaped roof, earthy plaster/brick material. Simple green field around, no modern tourist elements, no kings, costumes, animal fights, battle or imaginary towers. Do not copy logo or pretend measured architectural survey. Proposed form only; exact ornament/proportions require heritage review.",
+      "sources": [
+        "https://sivasagar.assam.gov.in/index.php/tourist-place-detail/276"
+      ],
+      "history": true
+    },
+    {
+      "id": "HT-02",
+      "set": "history-teaching",
+      "slug": "moidam-section",
+      "title": "Moidam structural reconstruction",
+      "scene": "Evidence-bound conceptual cutaway miniature of ONE Tai-Ahom moidam: smooth grass-covered earthen mound over ONE hollow brick/earth burial vault, simple small shrine on summit and low octagonal enclosure. Cut face reveals vault structurally but NO human remains, grave goods, ritual, coffins or excavators. Respectful sacred-site teaching model, not Egyptian pyramid or actual excavation. No invented interior ornament, no precise dimensions. All labels added separately.",
+      "sources": [
+        "https://whc.unesco.org/en/list/1711/",
+        "https://whc.unesco.org/document/206972"
+      ],
+      "history": true
+    },
+    {
+      "id": "HT-03",
+      "set": "history-teaching",
+      "slug": "talatal-corridor",
+      "title": "Talatal Ghar masonry reconstruction",
+      "scene": "Evidence-bound LIMITED architectural reconstruction: an unoccupied low Ahom brick/plastered masonry corridor fragment inspired by documented Talatal Ghar, simple repeated rounded arch openings, muted earthy material, green ground and warm sky. Do NOT reconstruct entire lost palace, seven visible floors, secret tunnels, wooden upper apartments, royal people/costumes or battles. Focus on surviving-type corridor/masonry, explicitly conceptual and unmeasured; details require heritage review.",
+      "sources": [
+        "https://sivasagar.assam.gov.in/tourist-place-detail/277"
+      ],
+      "history": true
+    },
+    {
+      "id": "HT-04",
+      "set": "history-teaching",
+      "slug": "tank-landscape",
+      "title": "Ahom tank landscape reconstruction",
+      "scene": "Evidence-bound LIMITED landscape reconstruction inspired by Sivasagar historic tank: broad still rectangular water body with raised earthen embankment and low green landscape, simple modest masonry step access foreground. No temple spires or structures invented, no human digging scene, royal costume or precise dimensions; depict the idea of historic managed tank landscape only, not an exact historical view or engineering survey.",
+      "sources": [
+        "https://sivasagar.assam.gov.in/index.php/tourist-place-detail/275"
+      ],
+      "history": true
+    },
+    {
+      "id": "NB-01",
+      "set": "campaign-backgrounds",
+      "slug": "learning",
+      "title": "Learning campaign background",
+      "scene": "Elegant realistic tactile 3D still-life lower-right: plain closed maroon book, ivory notebook and simple charcoal pencil on warm ivory seamless surface. Open upper-left and central 60 percent space for bilingual copy. Subtle warm shadows, sophisticated adult brand atmosphere. No letters, logo, cultural ornament, fake app UI or readable pages.",
+      "sources": []
+    },
+    {
+      "id": "NB-02",
+      "set": "campaign-backgrounds",
+      "slug": "opportunities",
+      "title": "Opportunities campaign background",
+      "scene": "Elegant realistic tactile 3D geometric composition lower-right: three ascending low steps in ivory with a restrained maroon rounded arch beyond, symbolising progress without guaranteeing outcomes. Open upper-left/central 60 percent space for bilingual copy, warm ivory seamless background, charcoal shadow accents. No arrows with labels, people, text, cultural motif or logo.",
+      "sources": []
+    },
+    {
+      "id": "NB-03",
+      "set": "campaign-backgrounds",
+      "slug": "information",
+      "title": "Information campaign background",
+      "scene": "Elegant realistic tactile 3D information background: small stack of plain ivory paper cards and ONE maroon rounded speech bubble sculptural object in lower-right, matte materials and soft shadows. No letters/icons inside bubble, no readable paper. At least 60 percent quiet ivory negative space for separate bilingual text; no brand mark, textile ornament or invented news headline.",
+      "sources": []
+    },
+    {
+      "id": "NB-04",
+      "set": "campaign-backgrounds",
+      "slug": "community",
+      "title": "Community campaign background",
+      "scene": "Elegant realistic tactile 3D neutral community background: three simple interlocking smooth rings in ivory, restrained maroon and charcoal located in lower-right, open upper-left and central 60 percent ivory space for bilingual copy. Soft shadows and polished matte render. No cultural/religious symbolism, text, logos, flags, textile motifs or human faces.",
+      "sources": []
+    }
+  ]
+}

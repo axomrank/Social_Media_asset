@@ -1,0 +1,118 @@
+{
+  "editable_diagrams": 8,
+  "checks": [
+    {
+      "id": "CI-01",
+      "method": "4 / 16 \u00d7 100 = 25%",
+      "validation": {
+        "whole": 16,
+        "selected": 4,
+        "percent": 25
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-02",
+      "method": "2 : 3 \u2192 4 : 6",
+      "validation": {
+        "original": [
+          2,
+          3
+        ],
+        "scaled": [
+          4,
+          6
+        ],
+        "factor": 2
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-03",
+      "method": "2, 4, 6, 8, 10 \u2014 add 2",
+      "validation": {
+        "sequence": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "differences": [
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-04",
+      "method": "observe \u2192 notice carefully",
+      "validation": {
+        "word": "observe",
+        "part_of_speech": "verb",
+        "example": "Observe how the seedling changes each day."
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-05",
+      "method": "Evaporate \u2192 condense \u2192 rain \u2192 collect",
+      "validation": {
+        "nodes": [
+          "Evaporation",
+          "Condensation",
+          "Precipitation",
+          "Collection"
+        ],
+        "cycle_closed": true
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-06",
+      "method": "Closed path \u2192 current can flow",
+      "validation": {
+        "source": 1,
+        "switch": "closed",
+        "lamp": 1,
+        "series_loop": true
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-07",
+      "method": "Input \u2192 process \u2192 output",
+      "validation": {
+        "ordered_stages": [
+          "input",
+          "process",
+          "output"
+        ]
+      },
+      "status": "pass"
+    },
+    {
+      "id": "CI-08",
+      "method": "1010 in base 2 = 8 + 2 = 10 in base 10",
+      "validation": {
+        "weights": [
+          8,
+          4,
+          2,
+          1
+        ],
+        "bits": [
+          1,
+          0,
+          1,
+          0
+        ],
+        "decimal": 10
+      },
+      "status": "pass"
+    }
+  ]
+}

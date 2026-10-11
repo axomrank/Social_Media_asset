@@ -20,6 +20,9 @@ The last photograph/design reference is not automatically the canonical logo. Id
 
 ## Existing production collections
 
+- [36-image illustration collection](../illustrations/collection-v1/README.md)
+- [Illustration gallery](../illustrations/collection-v1/gallery.html)
+
 - [axomrank_10_assam_gk_carousels](../outputs/axomrank_10_assam_gk_carousels/)
 - [axomrank_4_day_carousels](../outputs/axomrank_4_day_carousels/)
 - [axomrank_90_reels](../outputs/axomrank_90_reels/)

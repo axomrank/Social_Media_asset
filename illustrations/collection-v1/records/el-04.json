@@ -1,0 +1,18 @@
+{
+  "id": "EL-04",
+  "master": "illustrations/collection-v1/masters/everyday-livelihoods/el-04-river-livelihood.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Adult river worker in practical plain everyday clothing at bank beside a modest wooden utility boat, coiling rope on safe dry landing while wearing a simple life vest; quiet Assam lowland river, green bank. Boat has believable hull and no unsafe overloaded passengers. No boat presented as a certified ferry design, no battlefield, festival, exact geography or ethnic-costume claim.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://waterresources.assam.gov.in/portlet-innerpage/brahmaputra-river-system"
+  ],
+  "classification": "AI-generated livelihood context illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult river worker wearing a life vest coils rope beside a wooden utility boat.",
+    "notes": "Believable rope handling and bank stance; no certified ferry design/transport claim."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "EL-06",
+  "generator": "native image_gen",
+  "prompt": "Edit this generated student-family illustration. Remove ONLY the patterned table runner and the red-striped cloth draped over the household basket. Reconstruct the plain wood tabletop and uncovered natural basket underneath. Keep all three adult people, their ordinary clothing, faces, poses/hands, books, containers, house architecture, greenery, lighting and composition unchanged. Do not add any replacement textile, decorative prop, lettering, logo or border.",
+  "reference": "illustrations/collection-v1/variants/el-06-student-family-v1-rejected.png",
+  "additional_reference": null,
+  "selected_master": "illustrations/collection-v1/masters/everyday-livelihoods/el-06-student-family-v2.png"
+}

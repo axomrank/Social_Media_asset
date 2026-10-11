@@ -1,0 +1,20 @@
+{
+  "id": "EL-06",
+  "master": "illustrations/collection-v1/masters/everyday-livelihoods/el-06-student-family-v2.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Three adults in an ordinary Assam home: young adult student studies at one end of wooden table, two older family members quietly organise household items at other end, supportive calm everyday coexistence, no heroic saviour scene or presumed family biography. Simple ivory plaster/timber room, maroon/neutral everyday cotton clothes, notebook with no readable writing, no minors or real identities.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://doi.org/10.1016/j.cscm.2025.e04461"
+  ],
+  "classification": "AI-generated livelihood context illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "original_variant": "illustrations/collection-v1/variants/el-06-student-family-v1-rejected.png",
+  "edit_record": "illustrations/collection-v1/records/el-06-edit.json",
+  "visual_review": {
+    "alt_text": "An adult student studies while two family members organise containers at a plain wooden table.",
+    "notes": "Native edit removed table runner and basket drape. Adults/household roles illustrative, no real family identity."
+  }
+}

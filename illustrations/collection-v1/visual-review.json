@@ -1,0 +1,146 @@
+{
+  "LM-01": {
+    "alt_text": "An adult woman studies at a wooden desk in a warm-lit Assam-inspired home at dusk.",
+    "notes": "Owner-approved sample; evening study is illustrative, not evidence of employment."
+  },
+  "LM-02": {
+    "alt_text": "Two adults independently write in notebooks at a shared veranda table.",
+    "notes": "Owner-approved sample; same-side seating remains suitable."
+  },
+  "LM-03": {
+    "alt_text": "An adult woman reads her phone on a wooden veranda bench with an open notebook on her lap.",
+    "notes": "Owner-approved sample; no readable interface."
+  },
+  "LM-04": {
+    "alt_text": "An adult man points to a notebook while an adult woman writes during peer practice on a veranda.",
+    "notes": "Clear peer discussion and natural hands; one shared notebook. Generator added small clothing pattern, not claimed cultural motif."
+  },
+  "LM-05": {
+    "alt_text": "A mature adult compares notebook pages at a wooden study desk.",
+    "notes": "Illustrates reflective review; page content intentionally unreadable. Pair with steps: identify error, explain correction, retry."
+  },
+  "LM-06": {
+    "alt_text": "An adult woman reads a paperback seated beside a bus window overlooking green countryside.",
+    "notes": "Safe seated reading; passengers/rail layout plausible; no route asserted."
+  },
+  "LM-07": {
+    "alt_text": "An adult learner writes at a veranda desk beside a timber-and-plaster home and green yard.",
+    "notes": "Owner-approved house architecture, exterior and biome direction."
+  },
+  "LM-08": {
+    "alt_text": "An adult wheelchair user writes at a desk in a bright ground-level study room.",
+    "notes": "Visible push rims, footrests and knee clearance; no helper/pity narrative."
+  },
+  "CI-01": {
+    "alt_text": "An ivory disc has a maroon quarter sector on a quiet study surface.",
+    "notes": "Sector visually a quarter; exact percentage method supplied in editable 4-of-16 diagram."
+  },
+  "CI-02": {
+    "alt_text": "Two maroon counters and three green counters sit in a row.",
+    "notes": "Manually counted five counters: 2 maroon, 3 green. Companion demonstrates equivalent ratio scaling."
+  },
+  "CI-03": {
+    "alt_text": "Four blank ivory tiles lead by curved arrows to an empty fifth position.",
+    "notes": "Four tiles and next position verified. Native edit removed unintended textile prop, preserving composition. Editable companion supplies sequence and +2 rule."
+  },
+  "CI-04": {
+    "alt_text": "An open blank notebook, pencil, water glass and plant sit on a warm desk.",
+    "notes": "Text-free context image. Actual word definition and example live in editable companion."
+  },
+  "CI-05": {
+    "alt_text": "Clouds, rain and sun appear over an Assam-inspired freshwater landscape.",
+    "notes": "Illustrative cycle setting. Visible mist is droplets, not invisible water vapour; companion teaches evaporation/condensation explicitly."
+  },
+  "CI-06": {
+    "alt_text": "A low-voltage battery, closed switch and glowing bulb form a simple loop.",
+    "notes": "Plausible series arrangement; art is not exact assembly instruction. Verified schematic supplied."
+  },
+  "CI-07": {
+    "alt_text": "A keyboard, desktop tower and blank monitor form a simple computer still-life.",
+    "notes": "Clear separate input/processing/output objects; keyboard tiny marks not teaching labels. Companion supplies actual process."
+  },
+  "CI-08": {
+    "alt_text": "Four ivory switches alternate maroon and neutral states.",
+    "notes": "Manually counted four switches, state pattern 1,0,1,0. Authoritative place values provided in editable diagram; decorative switches are not wiring guidance."
+  },
+  "AE-01": {
+    "alt_text": "A braided lowland river winds between sandbars and green floodplain vegetation beside a modest veranda.",
+    "notes": "Multiple channels/sandbars and low distant hills; not exact Brahmaputra reach or current river condition."
+  },
+  "AE-02": {
+    "alt_text": "Low tea bushes grow in rows beneath scattered shade trees in soft morning haze.",
+    "notes": "Lowland setting, shade trees and bush scale plausible; no named estate or botanical species claim."
+  },
+  "AE-03": {
+    "alt_text": "Calm freshwater wetland with reeds, floating vegetation and distant waterbirds.",
+    "notes": "Freshwater beel concept; bird silhouettes and plant species not diagnostic, no current Deepor condition claimed."
+  },
+  "AE-04": {
+    "alt_text": "People move along a wet small-town street with shop awnings, a side drain and parked bicycle.",
+    "notes": "Credible contemporary shop/street context. Generator added small packaging marks; not authoritative signs or real brands."
+  },
+  "AE-05": {
+    "alt_text": "Modest corrugated-roof homes line a winding road amid green subtropical hills.",
+    "notes": "Hill-region concept; roofs/drainage plausible, no exact Haflong or community-specific housing claim."
+  },
+  "AE-06": {
+    "alt_text": "A broad river passes green paddy plains and low wooded hills with modest riverside roofs.",
+    "notes": "Barak Valley concept, single dominant channel; houses/plants are illustrative, not site survey."
+  },
+  "EL-01": {
+    "alt_text": "Two adults plant rice seedlings in a shallow wet paddy plot beside a modest green homestead.",
+    "notes": "Plausible seedling bundles, planting posture and shallow water. Clothing is illustrative, not attributed to a community."
+  },
+  "EL-02": {
+    "alt_text": "An adult weaver works with plain ivory cloth at a wooden frame loom in a bright workshop.",
+    "notes": "Warp/cloth direction broadly coherent; technical loom assembly/precise treadle construction not asserted. No named textile motif."
+  },
+  "EL-03": {
+    "alt_text": "A vendor hands leafy produce to an adult customer at an ordinary local vegetable stall.",
+    "notes": "Natural exchange and plausible vegetables. Bag/clothing details are generic generated props, no ethnic or festival claim."
+  },
+  "EL-04": {
+    "alt_text": "An adult river worker wearing a life vest coils rope beside a wooden utility boat.",
+    "notes": "Believable rope handling and bank stance; no certified ferry design/transport claim."
+  },
+  "EL-05": {
+    "alt_text": "An adult stationery-shop proprietor hands a blank sheet to a customer across a wooden counter.",
+    "notes": "Clear ordinary enterprise context, printer and notebooks; no real business, credentials or endorsements asserted."
+  },
+  "EL-06": {
+    "alt_text": "An adult student studies while two family members organise containers at a plain wooden table.",
+    "notes": "Native edit removed table runner and basket drape. Adults/household roles illustrative, no real family identity."
+  },
+  "HT-03": {
+    "alt_text": "A limited reconstructed masonry corridor has repeated rounded arch openings and earthy brick/plaster.",
+    "notes": "Unmeasured corridor fragment only; source supports brick/corridor context, not exact arch count, roof geometry or ornament. Heritage review needed."
+  },
+  "HT-04": {
+    "alt_text": "A broad managed tank landscape has raised banks and modest masonry step access.",
+    "notes": "Teaching abstraction; steps/vegetation/viewpoint schematic, no temple plan, exact dimensions or excavating people."
+  },
+  "NB-01": {
+    "alt_text": "A plain maroon book, ivory notebook and charcoal pencil rest at the lower right of an ivory background.",
+    "notes": "Strong copy space; no text/logo or cultural props."
+  },
+  "NB-02": {
+    "alt_text": "Three ivory steps lead toward a maroon arch on an open ivory studio background.",
+    "notes": "Progress metaphor, no guaranteed results; open copy space."
+  },
+  "NB-03": {
+    "alt_text": "Ivory paper cards and a plain maroon speech-bubble sculpture sit in the lower right.",
+    "notes": "No readable words or icon; open copy space."
+  },
+  "NB-04": {
+    "alt_text": "Three ivory, maroon and charcoal rings interlock on a quiet ivory background.",
+    "notes": "Three distinct rings and material palette verified; abstract community metaphor."
+  },
+  "HT-01": {
+    "alt_text": "A conceptual two-storey Rang Ghar-inspired pavilion has a curved boat-like roof and arched openings.",
+    "notes": "Roof revised using official photo inspection and supplied artwork silhouette. Exact arch profiles, ornament, proportions, colours and period setting remain conjectural; heritage review required."
+  },
+  "HT-02": {
+    "alt_text": "A teaching cutaway shows a grassy burial mound over a hollow brick vault, summit shrine and low surrounding wall.",
+    "notes": "Revision places enclosure around mound base. Vault/shrine geometry and proportions simplified, not an excavation; no human remains."
+  }
+}

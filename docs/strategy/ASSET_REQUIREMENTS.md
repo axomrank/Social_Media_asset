@@ -28,6 +28,8 @@ The heritage logo and gold insignia already exist as references. Export variants
 
 ## Priority 1 — commission a coherent AI illustration collection
 
+Production update, 11 October 2026: [collection v1](../../illustrations/collection-v1/README.md) implements the 36-master brief. Four samples were individually approved; Angsuman Das then authorised the entire collection and accepted its house architecture, exterior and vegetation direction. New outputs have separate generation and technical-review records. Eight editable concept explanations carry the verified teaching methods. Historical assets are limited conceptual reconstructions with evidence briefs; they are not measured archaeological drawings or independently approved historical proof.
+
 Start with **36 approved master illustrations**, generated only after a style sample is reviewed. Reuse compositions across lessons rather than buying a separate image for every post. Keep generated art clearly classified as illustration.
 
 | Set | Target | Coverage and use |

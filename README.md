@@ -4,6 +4,7 @@ AxomRank is currently a learning app. Its wider ambition is a trusted starting p
 
 ## Start here
 
+- [36-master illustration collection](illustrations/collection-v1/README.md): Assam learning scenes, regional concepts, livelihoods, history reconstructions and campaign backgrounds, with a searchable gallery and editable concept diagrams.
 - [Proprietor, about/contact copy and FAQ](docs/about-contact/ABOUT_AND_CONTACT.md): Angsuman Das, sole proprietor, with supplied public contacts.
 - [Asset rights and contributor records](rights/README.md): inventoried permissions, editable clearance records and consent templates.
 

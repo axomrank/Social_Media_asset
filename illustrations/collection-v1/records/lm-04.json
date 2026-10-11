@@ -1,0 +1,18 @@
+{
+  "id": "LM-04",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-04-peer-practice.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Two different adult learners at a veranda table in the owner-approved modest Brahmaputra Valley home. An adult man in ivory shirt explains a notebook example to an adult woman in maroon kurta, pointing naturally with one finger while she listens and prepares to write. Clearly peer discussion rather than independent study. Functional table, separate notebook, no readable writing. Warm shaded daylight.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://doi.org/10.1016/j.cscm.2025.e04461"
+  ],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult man points to a notebook while an adult woman writes during peer practice on a veranda.",
+    "notes": "Clear peer discussion and natural hands; one shared notebook. Generator added small clothing pattern, not claimed cultural motif."
+  }
+}

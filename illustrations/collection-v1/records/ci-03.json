@@ -1,0 +1,19 @@
+{
+  "id": "CI-03",
+  "master": "illustrations/collection-v1/masters/concepts/ci-03-sequence-v2.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Tactile 3D educational still-life: four simple equal-sized ivory square tiles in a horizontal row; an understated maroon trail leads toward an empty fifth tile position. Do not put numbers or symbols on tiles. This is an unlabelled backing illustration; editable companion alone teaches sequence 2,4,6,8,10 and +2 rule.",
+  "reference": null,
+  "sources": [],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "authoritative_method": "illustrations/collection-v1/concept-diagrams/ci-03.svg",
+  "original_variant": "illustrations/collection-v1/variants/ci-03-sequence-v1-rejected.png",
+  "edit_record": "illustrations/collection-v1/records/ci-03-edit.json",
+  "visual_review": {
+    "alt_text": "Four blank ivory tiles lead by curved arrows to an empty fifth position.",
+    "notes": "Four tiles and next position verified. Native edit removed unintended textile prop, preserving composition. Editable companion supplies sequence and +2 rule."
+  }
+}

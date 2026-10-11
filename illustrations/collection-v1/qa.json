@@ -1,0 +1,24 @@
+{
+  "master_count": 36,
+  "expected_count": 36,
+  "set_counts": {
+    "learning-moments": 8,
+    "concepts": 8,
+    "assam-environments": 6,
+    "everyday-livelihoods": 6,
+    "history-teaching": 4,
+    "campaign-backgrounds": 4
+  },
+  "square_minimum_1080": true,
+  "unique_sha256": true,
+  "exact_prompt_records": 36,
+  "individually_approved": 4,
+  "batch_technically_reviewed": 32,
+  "concept_companions": 8,
+  "errors": [],
+  "limitations": [
+    "Concept bitmap geometry/counts are illustrative; editable diagrams carry verified methods.",
+    "History reconstructions are conceptual and unmeasured; heritage signoff remains separate.",
+    "No actual people, current ecology, precise location or source rights inferred."
+  ]
+}

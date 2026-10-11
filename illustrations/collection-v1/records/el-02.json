@@ -1,0 +1,19 @@
+{
+  "id": "EL-02",
+  "master": "illustrations/collection-v1/masters/everyday-livelihoods/el-02-weaving-workshop.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Adult woman in plain everyday ivory kurta with maroon accent seated at a simple wooden FRAME handloom inside modest well-lit Assam workshop; visible sensible warp direction, cloth beam and treadles, plain ivory cloth without invented cultural motif. Side view sufficiently wide to make loom coherent. No textile frame around image, costume theatrics, claim particular community's weaving pattern or technical loom instruction.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://assamtenders.gov.in/nicgep/app",
+    "https://www.handlooms.gov.in/assets/img/tenders/EOI.pdf"
+  ],
+  "classification": "AI-generated livelihood context illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult weaver works with plain ivory cloth at a wooden frame loom in a bright workshop.",
+    "notes": "Warp/cloth direction broadly coherent; technical loom assembly/precise treadle construction not asserted. No named textile motif."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "LM-02",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-02-shared-study.png",
+  "generator": "native image_gen",
+  "source_reference": "illustrations/review/sample-03/shared-study-v1.png",
+  "prompt": "Use case: illustration-story. AxomRank LM-02: shared study space. ONE square image. Supplied reference is style/architecture guidance ONLY, no identity copying. Match approved realistic digitally rendered editorial illustration, warm ivory plaster, natural timber, maroon accents, believable adults, gentle daylight.\nPresent-day modest Brahmaputra Valley Assam-type home's shaded veranda: low masonry plinth, timber posts, pale plaster infill, simple shuttered wooden window, corrugated roof eave; restrained green yard with banana/areca plants. Two adults independently study at ONE generously sized rectangular wooden table, seated on separate chairs on adjacent sides: a woman in plain muted-maroon cotton kurta and a man in plain grey-blue shirt/trousers. Each writes in own open notebook. No pointing/explaining, this is shared independent study, not peer tutoring. Few books and a dark-screen phone. Functional furniture, clear separate notebooks, natural well-formed hands, credible perspective. Calm concentration and dignified ordinary surroundings, neither luxury nor poverty dramatization.\nPeople/table lower-right, upper-left quarter quiet ivory wall/open space for later bilingual headline. Readable at card size. No text, readable symbols, logo, watermark, invented interface/scores, festival costume, stereotyped jewelry, textile framing, gamosa borders, japi props, monuments, mountains or mixed architecture. Realistic illustration direction of reference, not toy/chibi. AI-generated illustration, not proof of real people/place.\n",
+  "review_status": "individually_approved",
+  "review_owner": "Angsuman Das",
+  "approval_date": "2026-10-11",
+  "classification": "AI-generated illustration",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "Two adults independently write in notebooks at a shared veranda table.",
+    "notes": "Owner-approved sample; same-side seating remains suitable."
+  }
+}

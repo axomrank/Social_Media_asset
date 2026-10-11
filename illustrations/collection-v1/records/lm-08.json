@@ -1,0 +1,18 @@
+{
+  "id": "LM-08",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-08-accessible-study.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Adult learner who uses a manually propelled wheelchair, independently studying at an accessible desk in a simple ground-level modern study room in Assam. Comfortable knee clearance, no desk stretcher blocking wheelchair, unobstructed level floor and wide doorway. Plain maroon shirt, notebook and phone on desk, believable wheelchair seat/backrest/push rims/footrests and anatomy. Natural capable concentration, no helper required, no inspirational pity. Ivory wall and wooden shutter window, restrained greenery outside.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://doi.org/10.1016/j.cscm.2025.e04461"
+  ],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult wheelchair user writes at a desk in a bright ground-level study room.",
+    "notes": "Visible push rims, footrests and knee clearance; no helper/pity narrative."
+  }
+}

@@ -1,6 +1,6 @@
 # AxomRank asset rights register
 
-Baseline 11 October 2026. 513 file records. Machine-readable authority: [asset-register.json](asset-register.json). Pending means evidence is incomplete, not that a file is unlawful.
+Baseline 11 October 2026. 676 file records. Machine-readable authority: [asset-register.json](asset-register.json). Pending means evidence is incomplete, not that a file is unlawful.
 
 | Asset ID | Path | Status | Credit |
 |---|---|---|---|
@@ -181,6 +181,169 @@ Baseline 11 October 2026. 513 file records. Machine-readable authority: [asset-r
 | AXR-A-2D2B01DD813F | `docs/operations/PROJECT_IMPORT.md` | pending | Unconfirmed |
 | AXR-A-A889411A7E1D | `docs/strategy/ASSET_REQUIREMENTS.md` | pending | Unconfirmed |
 | AXR-A-8A94D6CDFE07 | `docs/strategy/DEVELOPMENT_ROADMAP.md` | pending | Unconfirmed |
+| AXR-A-C4CC9BE6AE23 | `illustrations/collection-v1/README.md` | pending | Unconfirmed |
+| AXR-A-C2D7E6C8FCA1 | `illustrations/collection-v1/concept-diagrams/ci-01.png` | pending | Unconfirmed |
+| AXR-A-A9DD456215EB | `illustrations/collection-v1/concept-diagrams/ci-01.svg` | pending | Unconfirmed |
+| AXR-A-4C7221DAD383 | `illustrations/collection-v1/concept-diagrams/ci-02.png` | pending | Unconfirmed |
+| AXR-A-21E1E937029C | `illustrations/collection-v1/concept-diagrams/ci-02.svg` | pending | Unconfirmed |
+| AXR-A-1D6F18220103 | `illustrations/collection-v1/concept-diagrams/ci-03.png` | pending | Unconfirmed |
+| AXR-A-C8DB765B46FC | `illustrations/collection-v1/concept-diagrams/ci-03.svg` | pending | Unconfirmed |
+| AXR-A-790800C56467 | `illustrations/collection-v1/concept-diagrams/ci-04.png` | pending | Unconfirmed |
+| AXR-A-FAD9397B75B6 | `illustrations/collection-v1/concept-diagrams/ci-04.svg` | pending | Unconfirmed |
+| AXR-A-34D98549F130 | `illustrations/collection-v1/concept-diagrams/ci-05.png` | pending | Unconfirmed |
+| AXR-A-88A1A7A5E1D2 | `illustrations/collection-v1/concept-diagrams/ci-05.svg` | pending | Unconfirmed |
+| AXR-A-DD40DB1BA406 | `illustrations/collection-v1/concept-diagrams/ci-06.png` | pending | Unconfirmed |
+| AXR-A-5CC2FA108EA0 | `illustrations/collection-v1/concept-diagrams/ci-06.svg` | pending | Unconfirmed |
+| AXR-A-969AE09A7250 | `illustrations/collection-v1/concept-diagrams/ci-07.png` | pending | Unconfirmed |
+| AXR-A-4704251576A7 | `illustrations/collection-v1/concept-diagrams/ci-07.svg` | pending | Unconfirmed |
+| AXR-A-7B10973D0AA7 | `illustrations/collection-v1/concept-diagrams/ci-08.png` | pending | Unconfirmed |
+| AXR-A-ED59D4636571 | `illustrations/collection-v1/concept-diagrams/ci-08.svg` | pending | Unconfirmed |
+| AXR-A-6E126B1B2F7F | `illustrations/collection-v1/concept-diagrams/method-validation.json` | pending | Unconfirmed |
+| AXR-A-B48B841FE008 | `illustrations/collection-v1/evidence/CULTURAL_CONTEXT.md` | pending | Unconfirmed |
+| AXR-A-DD88384A5E2C | `illustrations/collection-v1/evidence/HISTORY_BRIEFS.md` | pending | Unconfirmed |
+| AXR-A-D3E87FCB3024 | `illustrations/collection-v1/evidence/REUSE_GUIDE.md` | pending | Unconfirmed |
+| AXR-A-5FBE9378B4D1 | `illustrations/collection-v1/gallery.html` | pending | Unconfirmed |
+| AXR-A-3D9DCAF4ED9D | `illustrations/collection-v1/manifest.json` | pending | Unconfirmed |
+| AXR-A-327C67129EDE | `illustrations/collection-v1/masters/assam-environments/ae-01-river-valley.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-52D34C6776DC | `illustrations/collection-v1/masters/assam-environments/ae-02-tea-landscape.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-44F4C26A64B0 | `illustrations/collection-v1/masters/assam-environments/ae-03-wetland.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-5CF82008BA69 | `illustrations/collection-v1/masters/assam-environments/ae-04-town-street.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-6E2910C96501 | `illustrations/collection-v1/masters/assam-environments/ae-05-hill-settlement.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-D3FC593887BB | `illustrations/collection-v1/masters/assam-environments/ae-06-barak-valley.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-18E9D50DF02F | `illustrations/collection-v1/masters/campaign-backgrounds/nb-01-learning.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-42B29D293771 | `illustrations/collection-v1/masters/campaign-backgrounds/nb-02-opportunities.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-E02F1172FDE9 | `illustrations/collection-v1/masters/campaign-backgrounds/nb-03-information.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-F717DC1EA22E | `illustrations/collection-v1/masters/campaign-backgrounds/nb-04-community.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-117A5416B924 | `illustrations/collection-v1/masters/concepts/ci-01-percentage.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-880417DDFA92 | `illustrations/collection-v1/masters/concepts/ci-02-ratio.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-67701E154AEA | `illustrations/collection-v1/masters/concepts/ci-03-sequence-v2.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-ED4DA5A4E34D | `illustrations/collection-v1/masters/concepts/ci-04-vocabulary.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-2FFA6200CDF9 | `illustrations/collection-v1/masters/concepts/ci-05-water-cycle.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-D979D2B4C588 | `illustrations/collection-v1/masters/concepts/ci-06-simple-circuit.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-7D9B80CBBC64 | `illustrations/collection-v1/masters/concepts/ci-07-input-process-output.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-55E3F1A9939D | `illustrations/collection-v1/masters/concepts/ci-08-binary.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-F6A98087E964 | `illustrations/collection-v1/masters/everyday-livelihoods/el-01-farming.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-B3D0D0B4503D | `illustrations/collection-v1/masters/everyday-livelihoods/el-02-weaving-workshop.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-D0CE0246B630 | `illustrations/collection-v1/masters/everyday-livelihoods/el-03-market.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-6239D9160F2C | `illustrations/collection-v1/masters/everyday-livelihoods/el-04-river-livelihood.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-85072CF86209 | `illustrations/collection-v1/masters/everyday-livelihoods/el-05-local-enterprise.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-EA23FA8C0632 | `illustrations/collection-v1/masters/everyday-livelihoods/el-06-student-family-v2.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-FEB626DC1188 | `illustrations/collection-v1/masters/history-teaching/ht-01-rang-ghar-v2.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-05DD3CC73F89 | `illustrations/collection-v1/masters/history-teaching/ht-02-moidam-section-v2.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-52CFEAF1375B | `illustrations/collection-v1/masters/history-teaching/ht-03-talatal-corridor.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-101F8D31D531 | `illustrations/collection-v1/masters/history-teaching/ht-04-tank-landscape.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-B7CE0AF41C5E | `illustrations/collection-v1/masters/learning-moments/lm-01-after-work-study.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-8636609F79E0 | `illustrations/collection-v1/masters/learning-moments/lm-02-shared-study.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-3226B99B9D9F | `illustrations/collection-v1/masters/learning-moments/lm-03-phone-revision.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-395577FDE994 | `illustrations/collection-v1/masters/learning-moments/lm-04-peer-practice.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-F732D97FEEA3 | `illustrations/collection-v1/masters/learning-moments/lm-05-mistake-review.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-680798F895C4 | `illustrations/collection-v1/masters/learning-moments/lm-06-commuter-reading.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-FDB9663CFF20 | `illustrations/collection-v1/masters/learning-moments/lm-07-rural-desk.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-71AEFF3CE02D | `illustrations/collection-v1/masters/learning-moments/lm-08-accessible-study.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-3DF7B8A71152 | `illustrations/collection-v1/previews/ae-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-920FE5F61B55 | `illustrations/collection-v1/previews/ae-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-28764C24FFDD | `illustrations/collection-v1/previews/ae-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-DA4D92F3F7DB | `illustrations/collection-v1/previews/ae-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-07B54CE49188 | `illustrations/collection-v1/previews/ae-05.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-3D05C6F9670A | `illustrations/collection-v1/previews/ae-06.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-0B962A801D9E | `illustrations/collection-v1/previews/ci-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-7433286F905B | `illustrations/collection-v1/previews/ci-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-2E50394BE6A1 | `illustrations/collection-v1/previews/ci-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-58FC350B5585 | `illustrations/collection-v1/previews/ci-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-E5A09EFFCD2F | `illustrations/collection-v1/previews/ci-05.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-218242A514F2 | `illustrations/collection-v1/previews/ci-06.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-411F11909794 | `illustrations/collection-v1/previews/ci-07.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-61D46B3D30FF | `illustrations/collection-v1/previews/ci-08.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-BE3EF03E5DB6 | `illustrations/collection-v1/previews/contact-sheet-assam-environments.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-0F813B0AC181 | `illustrations/collection-v1/previews/contact-sheet-campaign-backgrounds.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-F17C90FBD0F3 | `illustrations/collection-v1/previews/contact-sheet-collection-overview.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-FB0700886A1F | `illustrations/collection-v1/previews/contact-sheet-concepts.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-5A5F640DEFB0 | `illustrations/collection-v1/previews/contact-sheet-everyday-livelihoods.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-5D0AB76D15A9 | `illustrations/collection-v1/previews/contact-sheet-history-teaching.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-115C8A0E854C | `illustrations/collection-v1/previews/contact-sheet-learning-moments.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-1B5F9E7B0CB9 | `illustrations/collection-v1/previews/el-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-67974B2A82AF | `illustrations/collection-v1/previews/el-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-73E742EB25ED | `illustrations/collection-v1/previews/el-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-D7FDF5EFC507 | `illustrations/collection-v1/previews/el-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-6575A1EB12FF | `illustrations/collection-v1/previews/el-05.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-A734E7A28931 | `illustrations/collection-v1/previews/el-06.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-55B8371DD8BF | `illustrations/collection-v1/previews/ht-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-66D5789B2997 | `illustrations/collection-v1/previews/ht-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-424A28139560 | `illustrations/collection-v1/previews/ht-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-30439266B4D1 | `illustrations/collection-v1/previews/ht-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-FE167E196C36 | `illustrations/collection-v1/previews/lm-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-2A2EC1266D4B | `illustrations/collection-v1/previews/lm-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-1469312A457E | `illustrations/collection-v1/previews/lm-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-354764EFC1E2 | `illustrations/collection-v1/previews/lm-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-F83D208A40DB | `illustrations/collection-v1/previews/lm-05.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-38D22C022024 | `illustrations/collection-v1/previews/lm-06.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-4E652FBD8A03 | `illustrations/collection-v1/previews/lm-07.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-B3CA61CE4F7E | `illustrations/collection-v1/previews/lm-08.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-C2D0247EF94E | `illustrations/collection-v1/previews/nb-01.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-44E16E17CD8E | `illustrations/collection-v1/previews/nb-02.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-0A3002EF0A8C | `illustrations/collection-v1/previews/nb-03.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-6259961C7EBB | `illustrations/collection-v1/previews/nb-04.jpg` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-CD79BB6C2380 | `illustrations/collection-v1/production-plan.json` | pending | Unconfirmed |
+| AXR-A-10FD2E1A3011 | `illustrations/collection-v1/qa.json` | pending | Unconfirmed |
+| AXR-A-885B2C400035 | `illustrations/collection-v1/records/ae-01.json` | pending | Unconfirmed |
+| AXR-A-72045C46E268 | `illustrations/collection-v1/records/ae-02.json` | pending | Unconfirmed |
+| AXR-A-C0B97319F1C8 | `illustrations/collection-v1/records/ae-03.json` | pending | Unconfirmed |
+| AXR-A-E52ED6C20292 | `illustrations/collection-v1/records/ae-04.json` | pending | Unconfirmed |
+| AXR-A-98EB547ABD1D | `illustrations/collection-v1/records/ae-05.json` | pending | Unconfirmed |
+| AXR-A-30BE9EBE10C7 | `illustrations/collection-v1/records/ae-06.json` | pending | Unconfirmed |
+| AXR-A-60F8D2D5DD1B | `illustrations/collection-v1/records/ci-01.json` | pending | Unconfirmed |
+| AXR-A-A2D3E7953972 | `illustrations/collection-v1/records/ci-02.json` | pending | Unconfirmed |
+| AXR-A-27AE729DBF2C | `illustrations/collection-v1/records/ci-03-edit.json` | pending | Unconfirmed |
+| AXR-A-1A7370837B3A | `illustrations/collection-v1/records/ci-03.json` | pending | Unconfirmed |
+| AXR-A-58E8E6F32E65 | `illustrations/collection-v1/records/ci-04.json` | pending | Unconfirmed |
+| AXR-A-4D3918AAAA05 | `illustrations/collection-v1/records/ci-05.json` | pending | Unconfirmed |
+| AXR-A-921294915D09 | `illustrations/collection-v1/records/ci-06.json` | pending | Unconfirmed |
+| AXR-A-316178C0D99E | `illustrations/collection-v1/records/ci-07.json` | pending | Unconfirmed |
+| AXR-A-CE551CB7675B | `illustrations/collection-v1/records/ci-08.json` | pending | Unconfirmed |
+| AXR-A-28C14F387677 | `illustrations/collection-v1/records/el-01.json` | pending | Unconfirmed |
+| AXR-A-CA1A44D3B18C | `illustrations/collection-v1/records/el-02.json` | pending | Unconfirmed |
+| AXR-A-A594F76CA5D9 | `illustrations/collection-v1/records/el-03.json` | pending | Unconfirmed |
+| AXR-A-D1C21E4D1FFA | `illustrations/collection-v1/records/el-04.json` | pending | Unconfirmed |
+| AXR-A-9EDBEBC7DFCD | `illustrations/collection-v1/records/el-05.json` | pending | Unconfirmed |
+| AXR-A-BB293A62304C | `illustrations/collection-v1/records/el-06-edit.json` | pending | Unconfirmed |
+| AXR-A-BBB3A7492091 | `illustrations/collection-v1/records/el-06.json` | pending | Unconfirmed |
+| AXR-A-AEB3957A05E9 | `illustrations/collection-v1/records/ht-01-edit.json` | pending | Unconfirmed |
+| AXR-A-5F52C859DE77 | `illustrations/collection-v1/records/ht-01.json` | pending | Unconfirmed |
+| AXR-A-5C4A91DEC02F | `illustrations/collection-v1/records/ht-02-edit.json` | pending | Unconfirmed |
+| AXR-A-DE83E91A6FA5 | `illustrations/collection-v1/records/ht-02.json` | pending | Unconfirmed |
+| AXR-A-78381690FD61 | `illustrations/collection-v1/records/ht-03.json` | pending | Unconfirmed |
+| AXR-A-F157519781D8 | `illustrations/collection-v1/records/ht-04.json` | pending | Unconfirmed |
+| AXR-A-3699E76BDBDE | `illustrations/collection-v1/records/lm-01.json` | pending | Unconfirmed |
+| AXR-A-234C1CDDC45A | `illustrations/collection-v1/records/lm-02.json` | pending | Unconfirmed |
+| AXR-A-AC90487C8BA3 | `illustrations/collection-v1/records/lm-03.json` | pending | Unconfirmed |
+| AXR-A-48B0B5AA0027 | `illustrations/collection-v1/records/lm-04.json` | pending | Unconfirmed |
+| AXR-A-EC1B54B91300 | `illustrations/collection-v1/records/lm-05.json` | pending | Unconfirmed |
+| AXR-A-85B2E6EA9BB0 | `illustrations/collection-v1/records/lm-06.json` | pending | Unconfirmed |
+| AXR-A-7AA874E0783B | `illustrations/collection-v1/records/lm-07.json` | pending | Unconfirmed |
+| AXR-A-68B7B0F42912 | `illustrations/collection-v1/records/lm-08.json` | pending | Unconfirmed |
+| AXR-A-C61C3971DFD4 | `illustrations/collection-v1/records/nb-01.json` | pending | Unconfirmed |
+| AXR-A-37BE84671CCA | `illustrations/collection-v1/records/nb-02.json` | pending | Unconfirmed |
+| AXR-A-35FA383F7E83 | `illustrations/collection-v1/records/nb-03.json` | pending | Unconfirmed |
+| AXR-A-DEC36DCA52E4 | `illustrations/collection-v1/records/nb-04.json` | pending | Unconfirmed |
+| AXR-A-2814FA2AEE49 | `illustrations/collection-v1/scripts/build_collection.py` | pending | Unconfirmed |
+| AXR-A-04616DB78826 | `illustrations/collection-v1/scripts/build_concept_diagrams.py` | pending | Unconfirmed |
+| AXR-A-78074744E3C9 | `illustrations/collection-v1/variants/ci-03-sequence-v1-rejected.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-56C7CA218613 | `illustrations/collection-v1/variants/el-06-student-family-v1-rejected.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-E0DC258B0179 | `illustrations/collection-v1/variants/ht-01-rang-ghar-v1-rejected.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-1AFCDF8B8003 | `illustrations/collection-v1/variants/ht-02-moidam-section-v1-rejected.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-708778053A64 | `illustrations/collection-v1/visual-review.json` | pending | Unconfirmed |
+| AXR-A-74D3470BFCE4 | `illustrations/review/sample-01/REVIEW.md` | pending | Unconfirmed |
+| AXR-A-B1B4BCACB50D | `illustrations/review/sample-01/prompt.txt` | pending | Unconfirmed |
+| AXR-A-F7F34393E9C2 | `illustrations/review/sample-01/rural-study-v1.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-85A21E20E7E8 | `illustrations/review/sample-02/REVIEW.md` | pending | Unconfirmed |
+| AXR-A-A05B0A1E3B89 | `illustrations/review/sample-02/after-work-study-v1.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-37FAB77E12B0 | `illustrations/review/sample-02/prompt.txt` | pending | Unconfirmed |
+| AXR-A-B2A1F0982F72 | `illustrations/review/sample-03/REVIEW.md` | pending | Unconfirmed |
+| AXR-A-83B8D3ACC999 | `illustrations/review/sample-03/prompt.txt` | pending | Unconfirmed |
+| AXR-A-5891F3D82C94 | `illustrations/review/sample-03/shared-study-v1.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-387666E339D8 | `illustrations/review/sample-04/REVIEW.md` | pending | Unconfirmed |
+| AXR-A-4BAB01340D57 | `illustrations/review/sample-04/phone-revision-v1.png` | generation_terms_review | AxomRank · AI-generated illustration |
+| AXR-A-B34B24B2283E | `illustrations/review/sample-04/prompt.txt` | pending | Unconfirmed |
 | AXR-A-F06C4AC7618A | `outputs/axomrank_10_assam_gk_carousels/AxomRank_Assam_History_and_GK_10_Carousel_Plan.xlsx` | pending | Unconfirmed |
 | AXR-A-B392ABDEFD01 | `outputs/axomrank_10_assam_gk_carousels/AxomRank_Assam_History_and_GK_10_Carousel_Plan.xlsx.inspect.ndjson` | pending | Unconfirmed |
 | AXR-A-89CD6864662E | `outputs/axomrank_4_day_carousels/AxomRank_Assam_Visual_Style_and_4_Day_Carousel_Plan.xlsx` | pending | Unconfirmed |

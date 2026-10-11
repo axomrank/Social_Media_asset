@@ -1,0 +1,17 @@
+{
+  "id": "CI-05",
+  "master": "illustrations/collection-v1/masters/concepts/ci-05-water-cycle.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Realistic digitally rendered educational landscape miniature: inland Assam-inspired lowland green terrain, a small freshwater pond, gentle cloud layer and rain falling over land, warm sun at edge; water also visible in atmosphere as faint rising vapor depiction. No snow mountains, ocean coast, labels or arrows. Conceptual scene not exact geographic proof. Mechanism/arrows will be authoritative in editable diagram.",
+  "reference": null,
+  "sources": [],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "authoritative_method": "illustrations/collection-v1/concept-diagrams/ci-05.svg",
+  "visual_review": {
+    "alt_text": "Clouds, rain and sun appear over an Assam-inspired freshwater landscape.",
+    "notes": "Illustrative cycle setting. Visible mist is droplets, not invisible water vapour; companion teaches evaporation/condensation explicitly."
+  }
+}

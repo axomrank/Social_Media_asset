@@ -1,0 +1,890 @@
+{
+  "version": 1,
+  "date": "2026-10-11",
+  "count": 36,
+  "set_counts": {
+    "learning-moments": 8,
+    "concepts": 8,
+    "assam-environments": 6,
+    "everyday-livelihoods": 6,
+    "history-teaching": 4,
+    "campaign-backgrounds": 4
+  },
+  "approval_scope": "Four individually approved samples; remaining images generated under explicit full-collection authorisation. Technical review does not invent individual owner or heritage approval.",
+  "assets": [
+    {
+      "id": "LM-01",
+      "set": "learning-moments",
+      "title": "Adult study after work",
+      "path": "masters/learning-moments/lm-01-after-work-study.png",
+      "preview": "previews/lm-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "558abe56eed354a52af5d7da10f885687ca90ef4c04ed988c72c237359501ac6",
+      "bytes": 2007769,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult woman studies at a wooden desk in a warm-lit Assam-inspired home at dusk.",
+      "caption": "AI-generated illustration. Adult study after work.",
+      "review_status": "individually_approved",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-01.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult woman studies at a wooden desk in a warm-lit Assam-inspired home at dusk.",
+        "notes": "Owner-approved sample; evening study is illustrative, not evidence of employment."
+      }
+    },
+    {
+      "id": "LM-02",
+      "set": "learning-moments",
+      "title": "Shared study space",
+      "path": "masters/learning-moments/lm-02-shared-study.png",
+      "preview": "previews/lm-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "aac5e3d3a49ba94bd1b432591d81ea89f5f01e06fbff80ade892025339e660c5",
+      "bytes": 2321265,
+      "classification": "AI-generated illustration",
+      "alt_text": "Two adults independently write in notebooks at a shared veranda table.",
+      "caption": "AI-generated illustration. Shared study space.",
+      "review_status": "individually_approved",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-02.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Two adults independently write in notebooks at a shared veranda table.",
+        "notes": "Owner-approved sample; same-side seating remains suitable."
+      }
+    },
+    {
+      "id": "LM-03",
+      "set": "learning-moments",
+      "title": "Phone revision",
+      "path": "masters/learning-moments/lm-03-phone-revision.png",
+      "preview": "previews/lm-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "92f9dca85804d582bc127f1092dce41072f60f555046c9b05c809ff335954102",
+      "bytes": 2197871,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult woman reads her phone on a wooden veranda bench with an open notebook on her lap.",
+      "caption": "AI-generated illustration. Phone revision.",
+      "review_status": "individually_approved",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-03.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult woman reads her phone on a wooden veranda bench with an open notebook on her lap.",
+        "notes": "Owner-approved sample; no readable interface."
+      }
+    },
+    {
+      "id": "LM-04",
+      "set": "learning-moments",
+      "title": "Peer practice",
+      "path": "masters/learning-moments/lm-04-peer-practice.png",
+      "preview": "previews/lm-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "9c9c947303e453f21d38ee9b8f14c02c0bac8d91bb02766f6bb94f546d1008a0",
+      "bytes": 2411142,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult man points to a notebook while an adult woman writes during peer practice on a veranda.",
+      "caption": "AI-generated illustration. Peer practice.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-04.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult man points to a notebook while an adult woman writes during peer practice on a veranda.",
+        "notes": "Clear peer discussion and natural hands; one shared notebook. Generator added small clothing pattern, not claimed cultural motif."
+      }
+    },
+    {
+      "id": "LM-05",
+      "set": "learning-moments",
+      "title": "Mistake review",
+      "path": "masters/learning-moments/lm-05-mistake-review.png",
+      "preview": "previews/lm-05.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "58c656990cfed68a245239d7561fb8176fe5f7fa7592cfee5a0b9bd83d71a95a",
+      "bytes": 1932466,
+      "classification": "AI-generated illustration",
+      "alt_text": "A mature adult compares notebook pages at a wooden study desk.",
+      "caption": "AI-generated illustration. Mistake review.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-05.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A mature adult compares notebook pages at a wooden study desk.",
+        "notes": "Illustrates reflective review; page content intentionally unreadable. Pair with steps: identify error, explain correction, retry."
+      }
+    },
+    {
+      "id": "LM-06",
+      "set": "learning-moments",
+      "title": "Commuter reading",
+      "path": "masters/learning-moments/lm-06-commuter-reading.png",
+      "preview": "previews/lm-06.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "eaf0baa38441933064d87b6eea57657f81ca22e67efeac1e46572bef5ff5bc04",
+      "bytes": 2125325,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult woman reads a paperback seated beside a bus window overlooking green countryside.",
+      "caption": "AI-generated illustration. Commuter reading.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-06.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult woman reads a paperback seated beside a bus window overlooking green countryside.",
+        "notes": "Safe seated reading; passengers/rail layout plausible; no route asserted."
+      }
+    },
+    {
+      "id": "LM-07",
+      "set": "learning-moments",
+      "title": "Rural desk",
+      "path": "masters/learning-moments/lm-07-rural-desk.png",
+      "preview": "previews/lm-07.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "4e188d5263ae6123989b09ef0a6609ecd308f218a716720eb4f6e77afa32df03",
+      "bytes": 2512254,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult learner writes at a veranda desk beside a timber-and-plaster home and green yard.",
+      "caption": "AI-generated illustration. Rural desk.",
+      "review_status": "individually_approved",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-07.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult learner writes at a veranda desk beside a timber-and-plaster home and green yard.",
+        "notes": "Owner-approved house architecture, exterior and biome direction."
+      }
+    },
+    {
+      "id": "LM-08",
+      "set": "learning-moments",
+      "title": "Accessible learning setting",
+      "path": "masters/learning-moments/lm-08-accessible-study.png",
+      "preview": "previews/lm-08.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "924faa16c2045df8341d7e4d0cfc70313e824d02f78ede10ef80964c543efdcf",
+      "bytes": 2178153,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult wheelchair user writes at a desk in a bright ground-level study room.",
+      "caption": "AI-generated illustration. Accessible learning setting.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/lm-08.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult wheelchair user writes at a desk in a bright ground-level study room.",
+        "notes": "Visible push rims, footrests and knee clearance; no helper/pity narrative."
+      }
+    },
+    {
+      "id": "CI-01",
+      "set": "concepts",
+      "title": "Percentage as part of a whole",
+      "path": "masters/concepts/ci-01-percentage.png",
+      "preview": "previews/ci-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "43208609577b0d40cefb56a083bd0846f66cb1367d6ba843f05bbb07f45eff96",
+      "bytes": 2020676,
+      "classification": "AI-generated illustration",
+      "alt_text": "An ivory disc has a maroon quarter sector on a quiet study surface.",
+      "caption": "AI-generated illustration. Percentage as part of a whole. Method: 4 / 16 × 100 = 25%. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-01.json",
+      "editable_diagram": "concept-diagrams/ci-01.svg",
+      "visual_review": {
+        "alt_text": "An ivory disc has a maroon quarter sector on a quiet study surface.",
+        "notes": "Sector visually a quarter; exact percentage method supplied in editable 4-of-16 diagram."
+      }
+    },
+    {
+      "id": "CI-02",
+      "set": "concepts",
+      "title": "Ratio and scaling",
+      "path": "masters/concepts/ci-02-ratio.png",
+      "preview": "previews/ci-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "aa5924e0ef243bcec0d1b5149e57d0aeb5cd6dbbd74533dd332c59646bb253a0",
+      "bytes": 1767421,
+      "classification": "AI-generated illustration",
+      "alt_text": "Two maroon counters and three green counters sit in a row.",
+      "caption": "AI-generated illustration. Ratio and scaling. Method: 2:3 scaled by 2 becomes 4:6; total 10. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-02.json",
+      "editable_diagram": "concept-diagrams/ci-02.svg",
+      "visual_review": {
+        "alt_text": "Two maroon counters and three green counters sit in a row.",
+        "notes": "Manually counted five counters: 2 maroon, 3 green. Companion demonstrates equivalent ratio scaling."
+      }
+    },
+    {
+      "id": "CI-03",
+      "set": "concepts",
+      "title": "Reasoning with a sequence",
+      "path": "masters/concepts/ci-03-sequence-v2.png",
+      "preview": "previews/ci-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "586805705efb30e2b4147dcd1a2f60d16317c098342acee01073770c69328df2",
+      "bytes": 1785037,
+      "classification": "AI-generated illustration",
+      "alt_text": "Four blank ivory tiles lead by curved arrows to an empty fifth position.",
+      "caption": "AI-generated illustration. Reasoning with a sequence. Method: 2, 4, 6, 8, 10; add 2 each time. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-03.json",
+      "editable_diagram": "concept-diagrams/ci-03.svg",
+      "visual_review": {
+        "alt_text": "Four blank ivory tiles lead by curved arrows to an empty fifth position.",
+        "notes": "Four tiles and next position verified. Native edit removed unintended textile prop, preserving composition. Editable companion supplies sequence and +2 rule."
+      }
+    },
+    {
+      "id": "CI-04",
+      "set": "concepts",
+      "title": "Vocabulary in context",
+      "path": "masters/concepts/ci-04-vocabulary.png",
+      "preview": "previews/ci-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "656afc900b6eba3e45ca3e69c4836a28f2dea0f94bcbbd7a647bbc5324484935",
+      "bytes": 2038792,
+      "classification": "AI-generated illustration",
+      "alt_text": "An open blank notebook, pencil, water glass and plant sit on a warm desk.",
+      "caption": "AI-generated illustration. Vocabulary in context. Method: observe: notice carefully; Example: Observe how the seedling changes each day. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-04.json",
+      "editable_diagram": "concept-diagrams/ci-04.svg",
+      "visual_review": {
+        "alt_text": "An open blank notebook, pencil, water glass and plant sit on a warm desk.",
+        "notes": "Text-free context image. Actual word definition and example live in editable companion."
+      }
+    },
+    {
+      "id": "CI-05",
+      "set": "concepts",
+      "title": "Water cycle",
+      "path": "masters/concepts/ci-05-water-cycle.png",
+      "preview": "previews/ci-05.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "457293aef7114d886cc7ef26c3e8b8ff865056ba473f5b0b668007495755eba9",
+      "bytes": 2504384,
+      "classification": "AI-generated illustration",
+      "alt_text": "Clouds, rain and sun appear over an Assam-inspired freshwater landscape.",
+      "caption": "AI-generated illustration. Water cycle. Method: Evaporation → condensation → precipitation → collection; energy from the Sun. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-05.json",
+      "editable_diagram": "concept-diagrams/ci-05.svg",
+      "visual_review": {
+        "alt_text": "Clouds, rain and sun appear over an Assam-inspired freshwater landscape.",
+        "notes": "Illustrative cycle setting. Visible mist is droplets, not invisible water vapour; companion teaches evaporation/condensation explicitly."
+      }
+    },
+    {
+      "id": "CI-06",
+      "set": "concepts",
+      "title": "A closed circuit",
+      "path": "masters/concepts/ci-06-simple-circuit.png",
+      "preview": "previews/ci-06.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "0caa2afcf0339ea7a5c82ca7b6637cb6a62c22b246517a21ba32dacfb1b6befe",
+      "bytes": 1854941,
+      "classification": "AI-generated illustration",
+      "alt_text": "A low-voltage battery, closed switch and glowing bulb form a simple loop.",
+      "caption": "AI-generated illustration. A closed circuit. Method: A complete closed path allows current; an open switch breaks the path. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-06.json",
+      "editable_diagram": "concept-diagrams/ci-06.svg",
+      "visual_review": {
+        "alt_text": "A low-voltage battery, closed switch and glowing bulb form a simple loop.",
+        "notes": "Plausible series arrangement; art is not exact assembly instruction. Verified schematic supplied."
+      }
+    },
+    {
+      "id": "CI-07",
+      "set": "concepts",
+      "title": "Input, process, output",
+      "path": "masters/concepts/ci-07-input-process-output.png",
+      "preview": "previews/ci-07.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ff8650e58c8ddb66a6042d82d1b7f6a1741909bf959753796c3b3700b414e062",
+      "bytes": 1713591,
+      "classification": "AI-generated illustration",
+      "alt_text": "A keyboard, desktop tower and blank monitor form a simple computer still-life.",
+      "caption": "AI-generated illustration. Input, process, output. Method: Keyboard input → computer processes → result shown on screen. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-07.json",
+      "editable_diagram": "concept-diagrams/ci-07.svg",
+      "visual_review": {
+        "alt_text": "A keyboard, desktop tower and blank monitor form a simple computer still-life.",
+        "notes": "Clear separate input/processing/output objects; keyboard tiny marks not teaching labels. Companion supplies actual process."
+      }
+    },
+    {
+      "id": "CI-08",
+      "set": "concepts",
+      "title": "Binary place values",
+      "path": "masters/concepts/ci-08-binary.png",
+      "preview": "previews/ci-08.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "218995feb1a9b4e3a9e17d262138163cbb48baad89a74cc2eb79c89285c02474",
+      "bytes": 1768742,
+      "classification": "AI-generated illustration",
+      "alt_text": "Four ivory switches alternate maroon and neutral states.",
+      "caption": "AI-generated illustration. Binary place values. Method: 1010₂ = 1×8 + 0×4 + 1×2 + 0×1 = 10₁₀. Use the editable companion diagram.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ci-08.json",
+      "editable_diagram": "concept-diagrams/ci-08.svg",
+      "visual_review": {
+        "alt_text": "Four ivory switches alternate maroon and neutral states.",
+        "notes": "Manually counted four switches, state pattern 1,0,1,0. Authoritative place values provided in editable diagram; decorative switches are not wiring guidance."
+      }
+    },
+    {
+      "id": "AE-01",
+      "set": "assam-environments",
+      "title": "Brahmaputra river-valley concept",
+      "path": "masters/assam-environments/ae-01-river-valley.png",
+      "preview": "previews/ae-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "8bad1ad73a86a05dde6d55e5ace9651e5a8fc4cc7f5412ddfd12b900ca8d4343",
+      "bytes": 2644207,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "A braided lowland river winds between sandbars and green floodplain vegetation beside a modest veranda.",
+      "caption": "AI-generated regional concept illustration. Brahmaputra river-valley concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/brahmaputra-river-system"
+      ],
+      "generation_record": "records/ae-01.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A braided lowland river winds between sandbars and green floodplain vegetation beside a modest veranda.",
+        "notes": "Multiple channels/sandbars and low distant hills; not exact Brahmaputra reach or current river condition."
+      }
+    },
+    {
+      "id": "AE-02",
+      "set": "assam-environments",
+      "title": "Assam tea landscape concept",
+      "path": "masters/assam-environments/ae-02-tea-landscape.png",
+      "preview": "previews/ae-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "49527e36ae9576e8e79feb7818704c61582ab7094effeceeea0c4b7319c78cbd",
+      "bytes": 2854803,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "Low tea bushes grow in rows beneath scattered shade trees in soft morning haze.",
+      "caption": "AI-generated regional concept illustration. Assam tea landscape concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://www.teaboard.gov.in/TEABOARDCSM/Ng%3D%3D",
+        "https://teaboard.gov.in/pdf/LIST_OF_APPROVED_PLANTING_MATERIALS_AND_SOIL_TESTING_LABORATORIES_pdf2583.pdf"
+      ],
+      "generation_record": "records/ae-02.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Low tea bushes grow in rows beneath scattered shade trees in soft morning haze.",
+        "notes": "Lowland setting, shade trees and bush scale plausible; no named estate or botanical species claim."
+      }
+    },
+    {
+      "id": "AE-03",
+      "set": "assam-environments",
+      "title": "Freshwater beel concept",
+      "path": "masters/assam-environments/ae-03-wetland.png",
+      "preview": "previews/ae-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "af1cce80c603da43175295b1b4d86479f323f25cb43cfde53ee7db9451de4272",
+      "bytes": 2465265,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "Calm freshwater wetland with reeds, floating vegetation and distant waterbirds.",
+      "caption": "AI-generated regional concept illustration. Freshwater beel concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://rsis.ramsar.org/RISapp/files/RISrep/IN1207RIS.pdf"
+      ],
+      "generation_record": "records/ae-03.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Calm freshwater wetland with reeds, floating vegetation and distant waterbirds.",
+        "notes": "Freshwater beel concept; bird silhouettes and plant species not diagnostic, no current Deepor condition claimed."
+      }
+    },
+    {
+      "id": "AE-04",
+      "set": "assam-environments",
+      "title": "Assam town street concept",
+      "path": "masters/assam-environments/ae-04-town-street.png",
+      "preview": "previews/ae-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "c5d29cb254ff811d8f332e94beec892c9d725f7651eb7e94c7fd74b33d114c3d",
+      "bytes": 2986020,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "People move along a wet small-town street with shop awnings, a side drain and parked bicycle.",
+      "caption": "AI-generated regional concept illustration. Assam town street concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/ae-04.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "People move along a wet small-town street with shop awnings, a side drain and parked bicycle.",
+        "notes": "Credible contemporary shop/street context. Generator added small packaging marks; not authoritative signs or real brands."
+      }
+    },
+    {
+      "id": "AE-05",
+      "set": "assam-environments",
+      "title": "Dima Hasao-inspired hill settlement concept",
+      "path": "masters/assam-environments/ae-05-hill-settlement.png",
+      "preview": "previews/ae-05.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "59c8ef82158d85a5f85a968e81a42f3921de6fb7831ae096dd62ac85be9fe03e",
+      "bytes": 2960481,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "Modest corrugated-roof homes line a winding road amid green subtropical hills.",
+      "caption": "AI-generated regional concept illustration. Dima Hasao-inspired hill settlement concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://dimahasao.assam.gov.in/"
+      ],
+      "generation_record": "records/ae-05.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Modest corrugated-roof homes line a winding road amid green subtropical hills.",
+        "notes": "Hill-region concept; roofs/drainage plausible, no exact Haflong or community-specific housing claim."
+      }
+    },
+    {
+      "id": "AE-06",
+      "set": "assam-environments",
+      "title": "Barak Valley concept",
+      "path": "masters/assam-environments/ae-06-barak-valley.png",
+      "preview": "previews/ae-06.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "21909df945570325b3cdb43b0df392ce2d317c82e7cf7ce5d11c7e0129dd3c38",
+      "bytes": 2566080,
+      "classification": "AI-generated regional concept illustration",
+      "alt_text": "A broad river passes green paddy plains and low wooded hills with modest riverside roofs.",
+      "caption": "AI-generated regional concept illustration. Barak Valley concept.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/barak-river-system",
+        "https://cachar.assam.gov.in/sites/default/files/public_utility/District%20Disaster%20Management%20Plan%20%28DDMP%202023-24%29.pdf"
+      ],
+      "generation_record": "records/ae-06.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A broad river passes green paddy plains and low wooded hills with modest riverside roofs.",
+        "notes": "Barak Valley concept, single dominant channel; houses/plants are illustrative, not site survey."
+      }
+    },
+    {
+      "id": "EL-01",
+      "set": "everyday-livelihoods",
+      "title": "Paddy farming",
+      "path": "masters/everyday-livelihoods/el-01-farming.png",
+      "preview": "previews/el-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "5fca57641faafc863fee35f506eab50a8a7ebc95e1db42df6b7a0b09d93ee1fd",
+      "bytes": 2549947,
+      "classification": "AI-generated illustration",
+      "alt_text": "Two adults plant rice seedlings in a shallow wet paddy plot beside a modest green homestead.",
+      "caption": "AI-generated illustration. Paddy farming.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/el-01.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Two adults plant rice seedlings in a shallow wet paddy plot beside a modest green homestead.",
+        "notes": "Plausible seedling bundles, planting posture and shallow water. Clothing is illustrative, not attributed to a community."
+      }
+    },
+    {
+      "id": "EL-02",
+      "set": "everyday-livelihoods",
+      "title": "Weaving workshop context",
+      "path": "masters/everyday-livelihoods/el-02-weaving-workshop.png",
+      "preview": "previews/el-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "d75b831100f5476c84426b037478f6e2b6623e78d19c4e188efd56344f962043",
+      "bytes": 2457509,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult weaver works with plain ivory cloth at a wooden frame loom in a bright workshop.",
+      "caption": "AI-generated illustration. Weaving workshop context.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://assamtenders.gov.in/nicgep/app",
+        "https://www.handlooms.gov.in/assets/img/tenders/EOI.pdf"
+      ],
+      "generation_record": "records/el-02.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult weaver works with plain ivory cloth at a wooden frame loom in a bright workshop.",
+        "notes": "Warp/cloth direction broadly coherent; technical loom assembly/precise treadle construction not asserted. No named textile motif."
+      }
+    },
+    {
+      "id": "EL-03",
+      "set": "everyday-livelihoods",
+      "title": "Local produce market",
+      "path": "masters/everyday-livelihoods/el-03-market.png",
+      "preview": "previews/el-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "de226412e566046060482e0ab37e7caf588865d80ff2aaae4e5dba25c2f93176",
+      "bytes": 2684174,
+      "classification": "AI-generated illustration",
+      "alt_text": "A vendor hands leafy produce to an adult customer at an ordinary local vegetable stall.",
+      "caption": "AI-generated illustration. Local produce market.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/el-03.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A vendor hands leafy produce to an adult customer at an ordinary local vegetable stall.",
+        "notes": "Natural exchange and plausible vegetables. Bag/clothing details are generic generated props, no ethnic or festival claim."
+      }
+    },
+    {
+      "id": "EL-04",
+      "set": "everyday-livelihoods",
+      "title": "River livelihood",
+      "path": "masters/everyday-livelihoods/el-04-river-livelihood.png",
+      "preview": "previews/el-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "6cb84e559db00a948945d126053f36eeb014891c38c00d42fb19a891bf4af9fe",
+      "bytes": 2205797,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult river worker wearing a life vest coils rope beside a wooden utility boat.",
+      "caption": "AI-generated illustration. River livelihood.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://waterresources.assam.gov.in/portlet-innerpage/brahmaputra-river-system"
+      ],
+      "generation_record": "records/el-04.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult river worker wearing a life vest coils rope beside a wooden utility boat.",
+        "notes": "Believable rope handling and bank stance; no certified ferry design/transport claim."
+      }
+    },
+    {
+      "id": "EL-05",
+      "set": "everyday-livelihoods",
+      "title": "Local enterprise",
+      "path": "masters/everyday-livelihoods/el-05-local-enterprise.png",
+      "preview": "previews/el-05.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ca1dcad26ecea9e59fab927fe9eb368bf77b04b6327ab65d48396f04752771a7",
+      "bytes": 2135070,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult stationery-shop proprietor hands a blank sheet to a customer across a wooden counter.",
+      "caption": "AI-generated illustration. Local enterprise.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/el-05.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult stationery-shop proprietor hands a blank sheet to a customer across a wooden counter.",
+        "notes": "Clear ordinary enterprise context, printer and notebooks; no real business, credentials or endorsements asserted."
+      }
+    },
+    {
+      "id": "EL-06",
+      "set": "everyday-livelihoods",
+      "title": "Student family life",
+      "path": "masters/everyday-livelihoods/el-06-student-family-v2.png",
+      "preview": "previews/el-06.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "fa1840624852ee46c0eee157e731bbd20e229204a1aa33f9356d586de9121b33",
+      "bytes": 2075607,
+      "classification": "AI-generated illustration",
+      "alt_text": "An adult student studies while two family members organise containers at a plain wooden table.",
+      "caption": "AI-generated illustration. Student family life.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://doi.org/10.1016/j.cscm.2025.e04461"
+      ],
+      "generation_record": "records/el-06.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "An adult student studies while two family members organise containers at a plain wooden table.",
+        "notes": "Native edit removed table runner and basket drape. Adults/household roles illustrative, no real family identity."
+      }
+    },
+    {
+      "id": "HT-01",
+      "set": "history-teaching",
+      "title": "Rang Ghar architectural reconstruction",
+      "path": "masters/history-teaching/ht-01-rang-ghar-v2.png",
+      "preview": "previews/ht-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "7df46706d216036d5bd03574ede7c4aa31c02898903e887ff309a639f65999f8",
+      "bytes": 2398390,
+      "classification": "AI-generated conceptual reconstruction — not to scale",
+      "alt_text": "A conceptual two-storey Rang Ghar-inspired pavilion has a curved boat-like roof and arched openings.",
+      "caption": "AI-generated conceptual reconstruction — not to scale. Rang Ghar architectural reconstruction. Details require heritage review; see evidence/HISTORY_BRIEFS.md.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://sivasagar.assam.gov.in/index.php/tourist-place-detail/276"
+      ],
+      "generation_record": "records/ht-01.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A conceptual two-storey Rang Ghar-inspired pavilion has a curved boat-like roof and arched openings.",
+        "notes": "Roof revised using official photo inspection and supplied artwork silhouette. Exact arch profiles, ornament, proportions, colours and period setting remain conjectural; heritage review required."
+      }
+    },
+    {
+      "id": "HT-02",
+      "set": "history-teaching",
+      "title": "Moidam structural reconstruction",
+      "path": "masters/history-teaching/ht-02-moidam-section-v2.png",
+      "preview": "previews/ht-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "be6f3b95de4adfc2b7b888e042526f70e986be22e410f78e5812d887bc7f94dc",
+      "bytes": 2931798,
+      "classification": "AI-generated conceptual reconstruction — not to scale",
+      "alt_text": "A teaching cutaway shows a grassy burial mound over a hollow brick vault, summit shrine and low surrounding wall.",
+      "caption": "AI-generated conceptual reconstruction — not to scale. Moidam structural reconstruction. Details require heritage review; see evidence/HISTORY_BRIEFS.md.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://whc.unesco.org/en/list/1711/",
+        "https://whc.unesco.org/document/206972"
+      ],
+      "generation_record": "records/ht-02.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A teaching cutaway shows a grassy burial mound over a hollow brick vault, summit shrine and low surrounding wall.",
+        "notes": "Revision places enclosure around mound base. Vault/shrine geometry and proportions simplified, not an excavation; no human remains."
+      }
+    },
+    {
+      "id": "HT-03",
+      "set": "history-teaching",
+      "title": "Talatal Ghar masonry reconstruction",
+      "path": "masters/history-teaching/ht-03-talatal-corridor.png",
+      "preview": "previews/ht-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "42e727fbaa4e3499fa5fd2662041652083c053715760463fe283dd93c27bd627",
+      "bytes": 2883486,
+      "classification": "AI-generated conceptual reconstruction — not to scale",
+      "alt_text": "A limited reconstructed masonry corridor has repeated rounded arch openings and earthy brick/plaster.",
+      "caption": "AI-generated conceptual reconstruction — not to scale. Talatal Ghar masonry reconstruction. Details require heritage review; see evidence/HISTORY_BRIEFS.md.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://sivasagar.assam.gov.in/tourist-place-detail/277"
+      ],
+      "generation_record": "records/ht-03.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A limited reconstructed masonry corridor has repeated rounded arch openings and earthy brick/plaster.",
+        "notes": "Unmeasured corridor fragment only; source supports brick/corridor context, not exact arch count, roof geometry or ornament. Heritage review needed."
+      }
+    },
+    {
+      "id": "HT-04",
+      "set": "history-teaching",
+      "title": "Ahom tank landscape reconstruction",
+      "path": "masters/history-teaching/ht-04-tank-landscape.png",
+      "preview": "previews/ht-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a23850661bd3934abc9c4c90edb5cdb6e733407d3789a2b31b8bcc32c9c71d11",
+      "bytes": 2465737,
+      "classification": "AI-generated conceptual reconstruction — not to scale",
+      "alt_text": "A broad managed tank landscape has raised banks and modest masonry step access.",
+      "caption": "AI-generated conceptual reconstruction — not to scale. Ahom tank landscape reconstruction. Details require heritage review; see evidence/HISTORY_BRIEFS.md.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [
+        "https://sivasagar.assam.gov.in/index.php/tourist-place-detail/275"
+      ],
+      "generation_record": "records/ht-04.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A broad managed tank landscape has raised banks and modest masonry step access.",
+        "notes": "Teaching abstraction; steps/vegetation/viewpoint schematic, no temple plan, exact dimensions or excavating people."
+      }
+    },
+    {
+      "id": "NB-01",
+      "set": "campaign-backgrounds",
+      "title": "Learning campaign background",
+      "path": "masters/campaign-backgrounds/nb-01-learning.png",
+      "preview": "previews/nb-01.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "a04ae010dfc91c97e8c9cd8ae410d1b3a76a6c5c924d7c98e46621f443181c3f",
+      "bytes": 1728250,
+      "classification": "AI-generated illustration",
+      "alt_text": "A plain maroon book, ivory notebook and charcoal pencil rest at the lower right of an ivory background.",
+      "caption": "AI-generated illustration. Learning campaign background.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/nb-01.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "A plain maroon book, ivory notebook and charcoal pencil rest at the lower right of an ivory background.",
+        "notes": "Strong copy space; no text/logo or cultural props."
+      }
+    },
+    {
+      "id": "NB-02",
+      "set": "campaign-backgrounds",
+      "title": "Opportunities campaign background",
+      "path": "masters/campaign-backgrounds/nb-02-opportunities.png",
+      "preview": "previews/nb-02.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "31364ee163435d62150d9b110ab613f821343ccf5af54720cf70cd357e3b40de",
+      "bytes": 1650380,
+      "classification": "AI-generated illustration",
+      "alt_text": "Three ivory steps lead toward a maroon arch on an open ivory studio background.",
+      "caption": "AI-generated illustration. Opportunities campaign background.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/nb-02.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Three ivory steps lead toward a maroon arch on an open ivory studio background.",
+        "notes": "Progress metaphor, no guaranteed results; open copy space."
+      }
+    },
+    {
+      "id": "NB-03",
+      "set": "campaign-backgrounds",
+      "title": "Information campaign background",
+      "path": "masters/campaign-backgrounds/nb-03-information.png",
+      "preview": "previews/nb-03.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "faa93fd829ce6ba29727154bcf3da720bc205cbf4d5fba182075dcfe8bb45e4c",
+      "bytes": 1802227,
+      "classification": "AI-generated illustration",
+      "alt_text": "Ivory paper cards and a plain maroon speech-bubble sculpture sit in the lower right.",
+      "caption": "AI-generated illustration. Information campaign background.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/nb-03.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Ivory paper cards and a plain maroon speech-bubble sculpture sit in the lower right.",
+        "notes": "No readable words or icon; open copy space."
+      }
+    },
+    {
+      "id": "NB-04",
+      "set": "campaign-backgrounds",
+      "title": "Community campaign background",
+      "path": "masters/campaign-backgrounds/nb-04-community.png",
+      "preview": "previews/nb-04.jpg",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "1a65960470d1991bed21ddaee1ea0799d4f553c5c2bedb8da975674f9eec1d9d",
+      "bytes": 1632943,
+      "classification": "AI-generated illustration",
+      "alt_text": "Three ivory, maroon and charcoal rings interlock on a quiet ivory background.",
+      "caption": "AI-generated illustration. Community campaign background.",
+      "review_status": "batch_authorised_technical_reviewed",
+      "rights_status": "generation_terms_review",
+      "sources": [],
+      "generation_record": "records/nb-04.json",
+      "editable_diagram": null,
+      "visual_review": {
+        "alt_text": "Three ivory, maroon and charcoal rings interlock on a quiet ivory background.",
+        "notes": "Three distinct rings and material palette verified; abstract community metaphor."
+      }
+    }
+  ]
+}

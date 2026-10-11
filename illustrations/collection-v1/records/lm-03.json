@@ -1,0 +1,16 @@
+{
+  "id": "LM-03",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-03-phone-revision.png",
+  "generator": "native image_gen",
+  "source_reference": "illustrations/review/sample-04/phone-revision-v1.png",
+  "prompt": "Use case: illustration-story. AxomRank LM-03 phone revision. Create ONE square realistic digitally rendered editorial illustration, matching reference's warm ivory plaster, natural timber, restrained maroon accents, believable anatomy and gentle daylight. Reference for visual style and Assam-type architecture ONLY; create a distinct adult character, not same face.\nA present-day adult woman with simple tied-back hair, plain ivory cotton everyday kurta and muted-maroon trousers, seated comfortably on a simple wooden veranda bench in a modest Brahmaputra Valley Assam-type home. She holds ONE smartphone vertically at comfortable reading distance, looking at it thoughtfully, with a slim open notebook resting on her lap, pen beside notebook. Clearly a quiet phone revision moment. Show phone back to viewer or an oblique screen with no readable content; no fabricated product UI. Natural hands with correct grip, not merged with notebook. Frame waist-up/three-quarter seated view, person lower-right, generous upper-left quarter of warm ivory wall for later bilingual text.\nSimple pale plaster/timber wall, shuttered wooden window, corrugated roof eave, restrained greenery at right edge; architectural continuity with approved rural sample, no new district/community claim. Functional bench, dignified ordinary setting, softly realistic materials. Do not repeat whole desk-study composition. No text, logo, watermark, fake scores, glamour posing, costume/festival props, stereotyped jewelry, gamosa/textile frame, japi, sacred objects, mountains or historical buildings. AI-generated illustration, not a real person's portrait or location evidence.\n",
+  "review_status": "individually_approved",
+  "review_owner": "Angsuman Das",
+  "approval_date": "2026-10-11",
+  "classification": "AI-generated illustration",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult woman reads her phone on a wooden veranda bench with an open notebook on her lap.",
+    "notes": "Owner-approved sample; no readable interface."
+  }
+}

@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'rights/registers';OUT.mkdir(parents=True,exist_ok=True)
 tracked=[x for x in subprocess.check_output(['git','ls-files','-z'],cwd=ROOT).decode().split('\0') if x]
 # Include newly authored files before staging, but not generated register outputs.
-for folder in ['docs/about-contact','rights/templates','rights/scripts']:
+for folder in ['docs/about-contact','rights/templates','rights/scripts','illustrations']:
  tracked.extend(str(p.relative_to(ROOT)) for p in (ROOT/folder).rglob('*') if p.is_file())
 tracked.extend(['rights/README.md','rights/clearance-records.json'])
 paths=sorted(set(x for x in tracked if not x.startswith('rights/registers/') and not x.endswith('.zip') and x not in {'.gitignore','.gitattributes'}))
@@ -18,6 +18,11 @@ manifest=json.loads((ROOT/(base+'social assent/download_manifest.json')).read_te
 download_by_path={base+'social assent/'+x['repository']+'/'+x['path']:x for x in manifest.get('images',[])}
 source_register=json.loads((ROOT/(base+'book/volume_01/research/source_register.json')).read_text())
 source_pdfs={base+'book/volume_01/research/'+x['file']:x for x in source_register if x.get('file')}
+collection_root=ROOT/'illustrations/collection-v1'
+collection_records={}
+for record_path in (collection_root/'records').glob('*.json'):
+ data=json.loads(record_path.read_text())
+ if data.get('master'):collection_records[data['master']]=(data,str(record_path.relative_to(ROOT)))
 records=[]
 for name in paths:
  p=ROOT/name
@@ -54,6 +59,20 @@ for name in paths:
  if name=='docs/about-contact/ABOUT_CARD.svg' or name=='docs/about-contact/ABOUT_CARD.png':
   # These inherit the logo, unlike the text-only contact copy.
   rights='pending';permission=None;basis=None;scope=[];dependencies=['brand-kit/v1/logo/source/rang-ghar-original.jpg'];purpose='brand_card';notes.append('Public contact facts are supplied; embedded logo still requires upstream rights confirmation.')
+ if name.startswith('illustrations/'):
+  refs=['illustrations/collection-v1/production-plan.json','illustrations/collection-v1/README.md'];purpose='illustration_collection_production'
+  if kind=='image' and '/concept-diagrams/' not in name:
+   rights='generation_terms_review';creator='AI-generated for AxomRank using native image_gen';credit='AxomRank · AI-generated illustration';notes.append('Owner authorised illustration production; cultural/style approval and tool/account reuse terms are separate records.')
+   if name in collection_records:
+    data,record_path=collection_records[name];refs.append(record_path);source_urls=data.get('sources',[])
+    if data.get('additional_reference'):
+     dependencies.append(data['additional_reference']);refs.append(data['additional_reference']);notes.append('Edited reconstruction also inherits supplied artwork reference rights; visual review is not its permission grant.')
+   elif '/review/' in name:
+    refs.append(str(p.parent.relative_to(ROOT))+'/REVIEW.md')
+   else:
+    refs.append('illustrations/collection-v1/manifest.json');notes.append('Preview or archived variant; source records in collection manifest.')
+  elif '/concept-diagrams/' in name:
+   refs.append('illustrations/collection-v1/concept-diagrams/method-validation.json');notes.append('Owner-requested editable educational explanation, generated deterministically; not third-party scanned artwork.')
  # Publication eligibility is intentionally narrow; evidence must be complete for approved use.
  eligible=rights=='licence_documented' or rights=='owner_requested_brand_copy' and kind=='document'
  record={'asset_id':'AXR-A-'+hashlib.sha256(name.encode()).hexdigest()[:12].upper(),'path':name,'sha256':sha,'bytes':len(raw),'kind':kind,'purpose':purpose,'creator':creator,'source_urls':source_urls,'source_references':list(dict.fromkeys(refs)),'rights_status':rights,'permission_record_id':permission,'permission_basis':basis,'approved_scope':scope,'public_credit':credit,'dependencies':list(dict.fromkeys(dependencies)),'eligible_for_declared_use':eligible,'approval_date':'2026-10-11' if eligible else None,'permission_expires_at':None,'review_owner':'Angsuman Das','private_permission_evidence_reference':None,'notes':notes}

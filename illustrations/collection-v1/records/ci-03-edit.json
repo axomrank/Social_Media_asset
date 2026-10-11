@@ -1,0 +1,7 @@
+{
+  "id": "CI-03",
+  "generator": "native image_gen",
+  "prompt": "Edit target: the supplied sequence illustration. Change ONLY the lower-right red-striped woven cloth: remove it completely and reconstruct the plain wooden desk surface underneath. Keep the four ivory tiles, fifth dashed empty position, curved maroon arrows, plant, light, shadow, colours, square framing and open headline space exactly consistent. No replacement textile or decorative prop, no new lettering or logo. This removes a generated prop outside AxomRank's agreed visual direction.",
+  "reference": "illustrations/collection-v1/variants/ci-03-sequence-v1-rejected.png",
+  "selected_master": "illustrations/collection-v1/masters/concepts/ci-03-sequence-v2.png"
+}

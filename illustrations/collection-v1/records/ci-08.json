@@ -1,0 +1,17 @@
+{
+  "id": "CI-08",
+  "master": "illustrations/collection-v1/masters/concepts/ci-08-binary.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Realistic 3D computational still-life with FOUR clearly separated simple toggle switches in one row on a plain ivory base. On states subtly maroon, off states neutral; no numbers or labels. Exactly four switches. Do not imply electrical wiring lesson. Editable companion explains 8,4,2,1 place values and 1010 = 10.",
+  "reference": null,
+  "sources": [],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "authoritative_method": "illustrations/collection-v1/concept-diagrams/ci-08.svg",
+  "visual_review": {
+    "alt_text": "Four ivory switches alternate maroon and neutral states.",
+    "notes": "Manually counted four switches, state pattern 1,0,1,0. Authoritative place values provided in editable diagram; decorative switches are not wiring guidance."
+  }
+}

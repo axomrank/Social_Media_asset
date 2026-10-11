@@ -1,0 +1,18 @@
+{
+  "id": "LM-05",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-05-mistake-review.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: A mature adult learner with short greying hair, plain maroon shirt, seated at an indoor wooden desk in the owner-approved home. Comparing two notebook pages thoughtfully, correcting own work with a pen; composed expression, no shame/failure dramatization. One closed book, simple warm desk lamp, ivory wall. No readable marks or scores. Method supplied in editable caption.",
+  "reference": "illustrations/review/sample-01/rural-study-v1.png",
+  "sources": [
+    "https://doi.org/10.1016/j.cscm.2025.e04461"
+  ],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "A mature adult compares notebook pages at a wooden study desk.",
+    "notes": "Illustrates reflective review; page content intentionally unreadable. Pair with steps: identify error, explain correction, retry."
+  }
+}

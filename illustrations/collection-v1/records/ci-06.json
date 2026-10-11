@@ -1,0 +1,17 @@
+{
+  "id": "CI-06",
+  "master": "illustrations/collection-v1/masters/concepts/ci-06-simple-circuit.png",
+  "generator": "native image_gen",
+  "prompt": "AxomRank coherent illustration collection. Generate ONE square master, high-quality realistic digitally rendered editorial illustration, matching approved reference's natural proportions, finely rendered wood/plaster and soft warm light. Matte tactile realism, adult dignity, no cartoon/chibi or glamorised stock-photo posing. Warm ivory #F7F2EC, restrained deep maroon #80151A accents, charcoal, natural material colours and muted foliage. Reference is for style/setting only, do not copy identities. Vary age, faces, hair and clothing naturally among adult characters. For lifestyle/landscape scenes preserve upper-left approximately 25 percent quiet negative space for later editable bilingual copy; subject occupies lower/right. For concept diagrams use uncluttered separable objects. No readable text, lettering, watermark, invented brand interface, logo, gamosa framing, woven borders, japi ornament or stereotyped ethnic/festival costumes. Generated illustration, not a photo or exact place proof. Do not add Assam landmarks as generic decoration.\nSubject/scene: Realistic 3D science still-life with a small low-voltage single battery holder, switch, two insulated wires and small torch bulb on ivory desk. Clearly arranged functional closed circuit, bulb gently glowing, no wall socket or mains power. No decorative extra wires, no readable brand or voltage. Editable circuit diagram will be authoritative; art alone is not wiring instruction.",
+  "reference": null,
+  "sources": [],
+  "classification": "AI-generated illustration",
+  "review_status": "batch_authorised_technical_reviewed",
+  "review_owner": "Angsuman Das",
+  "rights_status": "generation_terms_review",
+  "authoritative_method": "illustrations/collection-v1/concept-diagrams/ci-06.svg",
+  "visual_review": {
+    "alt_text": "A low-voltage battery, closed switch and glowing bulb form a simple loop.",
+    "notes": "Plausible series arrangement; art is not exact assembly instruction. Verified schematic supplied."
+  }
+}

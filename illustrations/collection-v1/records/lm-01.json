@@ -1,0 +1,16 @@
+{
+  "id": "LM-01",
+  "master": "illustrations/collection-v1/masters/learning-moments/lm-01-after-work-study.png",
+  "generator": "native image_gen",
+  "source_reference": "illustrations/review/sample-02/after-work-study-v1.png",
+  "prompt": "Use case: illustration-story. AxomRank master candidate LM-01, adult study after work. Generate ONE square image. Reference image is the approved rural-study illustration: match its realistic digitally rendered editorial aesthetic, warm ivory plaster, natural wood, restrained maroon, believable adult anatomy, material detail and calm dignity. Create a new composition, not an edit or the same person. Explicitly AI-generated illustration, not evidence of a real person or place.\nScene: present-day modest Brahmaputra Valley Assam-type home interior, consistent with the reference's timber-framed pale plaster walls and wooden shuttered window. Early evening; a shaded warm electric desk lamp lights a small wooden desk, blue twilight and restrained foliage seen through the window. One adult woman in a plain maroon cotton everyday kurta and simple trousers, seated naturally reviewing an open notebook and writing with a pen after her working day. Plain work tote hanging on chair, phone face-up with dark unlettered screen beside book. Uncluttered cared-for room. No claim about profession, ethnic community or exact district.\nComposition: learner and desk occupy lower-right two-thirds, upper-left roughly 25 percent quiet warm ivory wall for separately added bilingual text. Functional chair and desk geometry, visible natural hands, credible light. Rich but restrained detail, not rustic fantasy or misery. Match realistic illustration direction approved in reference; no toy-like 3D, cartoon, glamour photography, decorative cultural collage.\nNo text, letters, logo, watermark, readable UI, scores, stereotyped jewelry or festival clothing, gamosa borders, japi props, sacred objects, mountains or historical architecture. Keep study activity clear and usable at social-card size.\n",
+  "review_status": "individually_approved",
+  "review_owner": "Angsuman Das",
+  "approval_date": "2026-10-11",
+  "classification": "AI-generated illustration",
+  "rights_status": "generation_terms_review",
+  "visual_review": {
+    "alt_text": "An adult woman studies at a wooden desk in a warm-lit Assam-inspired home at dusk.",
+    "notes": "Owner-approved sample; evening study is illustrative, not evidence of employment."
+  }
+}
