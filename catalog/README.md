@@ -2,6 +2,9 @@
 
 ## Brand authority and references
 
+- [About/contact kit](../docs/about-contact/ABOUT_AND_CONTACT.md)
+- [Asset rights register and contributor consent](../rights/README.md)
+
 - [Developed brand kit v1](../brand-kit/v1/README.md)
 - [Brand kit ZIP](../brand-kit/AxomRank-Brand-Kit-v1.zip)
 

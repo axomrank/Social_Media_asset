@@ -6,6 +6,12 @@ Prepared 11 October 2026. These are proposed production quantities and acceptanc
 
 [Brand kit v1](../../brand-kit/v1/README.md) now contains source-traced logo masters, transparent/monochrome/reversed exports, small-size icons, horizontal/stacked/bilingual lockups, JSON/CSS tokens, an editable visual board, bundled licensed fonts and eight social-template families in English and Assamese. The native 3D learning illustration is included with its prompt. Technical QA is recorded; owner adoption and independent fluent Assamese editorial signoff are pending. The original priority table below remains the planning baseline. Real app media, team/contact facts and rights confirmations still need production work.
 
+## About/contact and rights update — 11 October 2026
+
+The [about/contact kit](../about-contact/ABOUT_AND_CONTACT.md) now names **Angsuman Das** as the sole proprietor and includes his supplied email, phone and profile URL, FAQ, reply copy and an editable contact card. The profile and brand URLs returned HTTP 200; mail delivery and calls were not tested. A genuine proprietor photograph has not been supplied.
+
+The [rights records](../../rights/README.md) now include a file-level register, reviewed-clearance input, contributor licence template, separate adult participant consent and legacy-asset confirmation. These are ready editorial tools; they do not complete missing source permissions. Unresolved media remain pending until evidence is obtained.
+
 ## Priority 0 — finish the identity and demonstrate the learning app
 
 | Asset | First production target | Method | Acceptance criteria |

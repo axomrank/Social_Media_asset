@@ -4,6 +4,9 @@ AxomRank is currently a learning app. Its wider ambition is a trusted starting p
 
 ## Start here
 
+- [Proprietor, about/contact copy and FAQ](docs/about-contact/ABOUT_AND_CONTACT.md): Angsuman Das, sole proprietor, with supplied public contacts.
+- [Asset rights and contributor records](rights/README.md): inventoried permissions, editable clearance records and consent templates.
+
 - [Developed brand kit v1](brand-kit/v1/README.md): source-traced logos, wordmark lockups, tokens, fonts and editable English/Assamese social templates.
 
 - [Brand foundation and expansion](docs/brand/BRAND_FOUNDATION.md): present positioning, proposed wider identity, voice and visual authority.

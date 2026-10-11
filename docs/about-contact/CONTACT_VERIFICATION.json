@@ -1,0 +1,32 @@
+{
+  "checked_date": "2026-10-11",
+  "proprietor_name": "Angsuman Das",
+  "owner_supplied_contacts": {
+    "email": "angsuman.das@rgu.ac.in",
+    "telephone": "+917896505109",
+    "profile_url": "https://www.angsumi.online/cv"
+  },
+  "http_checks": [
+    {
+      "requested_url": "https://www.angsumi.online/cv",
+      "status": 200,
+      "final_url": "https://angsumi.online/cv/",
+      "content_check": "The returned page identifies Angsuman Das and contains a personal profile, education and contact content. No new credentials were added to this kit."
+    },
+    {
+      "requested_url": "https://www.axomrank.org",
+      "status": 200,
+      "final_url": "https://www.axomrank.org",
+      "content_check": "Brand homepage responds; this check does not certify every app route."
+    }
+  ],
+  "mailto": "mailto:angsuman.das@rgu.ac.in",
+  "telephone_link": "tel:+917896505109",
+  "email_format_valid": true,
+  "telephone_format_valid": true,
+  "email_delivery_tested": false,
+  "telephone_connection_tested": false,
+  "messages_or_calls_sent": false,
+  "live_website_modified": false,
+  "limits": "HTTP reachability and contact syntax were checked. Mailbox delivery, call answering and a live support service were not tested."
+}
