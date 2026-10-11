@@ -2,6 +2,9 @@
 
 ## Brand authority and references
 
+- [Developed brand kit v1](../brand-kit/v1/README.md)
+- [Brand kit ZIP](../brand-kit/AxomRank-Brand-Kit-v1.zip)
+
 - [Original identity guide](../AxomRank_Brand_Identity_Guide.docx)
 - [Original Instagram strategy](../AxomRank_Instagram_Content_Strategy_for_Assam.docx)
 - [Current carousel decisions](../CAROUSEL_PREFERENCES.md)

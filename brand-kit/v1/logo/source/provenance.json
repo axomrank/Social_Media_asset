@@ -1,0 +1,22 @@
+{
+  "source": "AxomRank_Brand_Identity_Guide.docx / word/media/image1.jpg",
+  "preserved_master": "logo/source/rang-ghar-original.jpg",
+  "sha256": "89e5141b3746a504878df4daeb994ae38fbb4c0ec4ba6ef924d510a31a0f5767",
+  "source_dimensions": [
+    1536,
+    1024
+  ],
+  "trace_bounds_xyxy": [
+    134,
+    150,
+    1417,
+    854
+  ],
+  "viewbox": [
+    1283,
+    704
+  ],
+  "method": "Foreground pixel contours, even-odd holes, Douglas-Peucker tolerance 0.6 source pixels; tiny regions below 6 px\u00b2 removed. One-colour normalisation. No generated replacement geometry.",
+  "companion_method": "Same traced contours; areas below 1000 source px\u00b2 removed for small-size clarity.",
+  "approval": "Developed from supplied brand-guide artwork; technical QA complete after export; owner signoff pending."
+}

@@ -1,0 +1,661 @@
+{
+  "version": "1.0",
+  "date": "2026-10-11",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3391,
+      "sha256": "4a34c26fc81e86535a8e7597732220b4656c6ab69144da9e680e2d62f08f1466"
+    },
+    {
+      "path": "docs/QA_REPORT.json",
+      "bytes": 1088,
+      "sha256": "23a4e8b1a7974105df4ec050cf82202f0478294ad04636d140a90a6cad78d9ff"
+    },
+    {
+      "path": "docs/USAGE_GUIDE.md",
+      "bytes": 5223,
+      "sha256": "b763ceafb167461880db14d4fe9abe7fe5107a6de9333b6a8df8e53609508d9f"
+    },
+    {
+      "path": "fonts/DISTRIBUTION-COPYRIGHT.txt",
+      "bytes": 5208,
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
+    },
+    {
+      "path": "fonts/NotoSans-Bold.ttf",
+      "bytes": 515752,
+      "sha256": "e83493c945848ecd4a9ad0f6d19164541a0d3e23a9c952304a00a46e00272ac5"
+    },
+    {
+      "path": "fonts/NotoSans-Regular.ttf",
+      "bytes": 512672,
+      "sha256": "89c3c497f618fdaa0b2d1e98fef93582f28c71debd2c4a8cdf41f190ced2909d"
+    },
+    {
+      "path": "fonts/NotoSansBengali-Bold.ttf",
+      "bytes": 210996,
+      "sha256": "22c9ff99baca4d31c531ce450a1369beed889467e1ad964f4b8a6f810aa46955"
+    },
+    {
+      "path": "fonts/NotoSansBengali-Regular.ttf",
+      "bytes": 201964,
+      "sha256": "9bb35b3547829ecc42041b6017e87fd4c5f1da1edcd00f59171777050f346018"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4064,
+      "sha256": "0bea6e46f8ab63421678bea5520b923b7fa8c7d776e6a944d8158fc1044148c8"
+    },
+    {
+      "path": "fonts/provenance.json",
+      "bytes": 687,
+      "sha256": "dd70bb7b2b5f37f1f4342d6c0a44037da4ce0cd0cb0fcb9a6c459bf5d10761d6"
+    },
+    {
+      "path": "illustrations/generation-record.json",
+      "bytes": 1210,
+      "sha256": "a3d7b6c14f579151a6bb16ea290231275ba9a41d2ee2895b7899b94a08f7b1e0"
+    },
+    {
+      "path": "illustrations/learning-still-life.png",
+      "bytes": 1732293,
+      "sha256": "8360537e712d3a82b6e43eb8103f774df432ab1f251724327b38742dbbc5e2be"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16561,
+      "sha256": "d9a8285b4504efef71ef3864c7090e19a1f96409a4e6d6c6672761f3affdc6b4"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-128.png",
+      "bytes": 8015,
+      "sha256": "7f6f9341dfac2e60f5c0e3a0d97672ded6667dcbccef06f70725fb4100b6c4ee"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-16.png",
+      "bytes": 586,
+      "sha256": "b81faceded89300ec92ac69fc8c52594f7cb85ac3fe71b7f8d709c5c224fdd41"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-256.png",
+      "bytes": 17384,
+      "sha256": "50ad976cb09c7f205872a94a82b971c7e9dd8dd12ef9f48b6b40b30c268abb88"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-32.png",
+      "bytes": 1372,
+      "sha256": "ff69547cff082f00769b6af0a2e0e5fb7a3da8f33e1808eb24db8b80235dc39b"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-48.png",
+      "bytes": 2390,
+      "sha256": "40133fd578bba26e22dbbff7f619a7dd1637a2393b6bb4cdbf6ac7bbec1fb3e9"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-512.png",
+      "bytes": 37174,
+      "sha256": "8e528e3301900f4a982828982292067c60a113ab1f8d4a78e5a3f9b7837fdcf4"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon-64.png",
+      "bytes": 3375,
+      "sha256": "866e847e75402252309fc370624034cefad828d3cc1f65b828d49a747b6f61f9"
+    },
+    {
+      "path": "logo/favicon/favicon-maroon.ico",
+      "bytes": 40977,
+      "sha256": "5f281056a606ef2db1a1d307d48134f1fed6625a7388bc833c3ad4b0f9fa280a"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-128.png",
+      "bytes": 8044,
+      "sha256": "10a2962cd12fb57a470e70a2417dbc20ad899e5535779ccc29a1e0b3fcdf5348"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-16.png",
+      "bytes": 602,
+      "sha256": "c180265c87797cdcab4c95e5151c05c05bf078d9a453f870b644b34d60dc44d2"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-256.png",
+      "bytes": 17471,
+      "sha256": "352e44fc68c638d6b0bb1c88e6d04fa7680b33a006e1fcc262275713a80a45a5"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-32.png",
+      "bytes": 1352,
+      "sha256": "f1e897243f6b4a3643072f5f3783aaa41776253374eabfdfac10a6ad668382d9"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-48.png",
+      "bytes": 2395,
+      "sha256": "7bd00ccd5d4f59c5c660bee776c57702df7b80840b268510e214426318ca8a09"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-512.png",
+      "bytes": 37346,
+      "sha256": "2c7c76a81549ed5dbdcafaabb36c32ea54d07e6d8d1e85815ded3bd613d22c82"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed-64.png",
+      "bytes": 3402,
+      "sha256": "2929ce49751d354ccfc34ce8b09884da3c0a3b7e275f7390729b879ffe2e61b4"
+    },
+    {
+      "path": "logo/favicon/favicon-reversed.ico",
+      "bytes": 40653,
+      "sha256": "474f6e2cd3504c62fbe217d2927b4357e4c0f73b4cd9380d172f26580cb001cc"
+    },
+    {
+      "path": "logo/png/profile-maroon-1024.png",
+      "bytes": 72277,
+      "sha256": "90e4c959c557af712ed14a44f5fa1b01cbfdd275638b102d44243b68414f982d"
+    },
+    {
+      "path": "logo/png/profile-maroon-512.png",
+      "bytes": 34938,
+      "sha256": "42abd49a9813f927abf38343469b88e4ea925399af0c3b4a1e79917a44ae16f6"
+    },
+    {
+      "path": "logo/png/profile-reversed-1024.png",
+      "bytes": 72469,
+      "sha256": "8900302a0e1fa7d7a90324e028663d7170d48af5685516ffd84e1a8887331ce2"
+    },
+    {
+      "path": "logo/png/profile-reversed-512.png",
+      "bytes": 35068,
+      "sha256": "697cc29e8f70cf7f5f39981d22f384fd17f42b0e63946a564027d80700c42568"
+    },
+    {
+      "path": "logo/png/rang-ghar-master-1024.png",
+      "bytes": 107004,
+      "sha256": "5637cdbba3add7c1d859bb5a769416aee0143360183117a325319fd4893e216e"
+    },
+    {
+      "path": "logo/png/rang-ghar-master-2048.png",
+      "bytes": 205639,
+      "sha256": "6f01e70a7160c5f68b062c30686f0a30bec4e884c598e6a9fc7cb07377964e52"
+    },
+    {
+      "path": "logo/png/rang-ghar-master-512.png",
+      "bytes": 49800,
+      "sha256": "e078cfa5b59fdd95031caf89ec9d36716b41515565ab00c167fa5c59c0c475ff"
+    },
+    {
+      "path": "logo/png/rang-ghar-monochrome-1024.png",
+      "bytes": 105365,
+      "sha256": "44a1cb6f310b931ffd6e3cdb57dd49fd00b51835a82e45d17b885ea60e8d4841"
+    },
+    {
+      "path": "logo/png/rang-ghar-monochrome-2048.png",
+      "bytes": 201559,
+      "sha256": "7cd2c0e62256dc9d063566af9ffe78232375fa8d1d237d6f491f01540e368d9e"
+    },
+    {
+      "path": "logo/png/rang-ghar-monochrome-512.png",
+      "bytes": 49015,
+      "sha256": "f4bf1cbd7a454e2072b2baac8d53e573347f2ba43d743fe7a722166f8504eda9"
+    },
+    {
+      "path": "logo/png/rang-ghar-reversed-1024.png",
+      "bytes": 108059,
+      "sha256": "91330c7f109263ac2a875099b95325ea89242fe0fe6a550b88f1545eaa8106c7"
+    },
+    {
+      "path": "logo/png/rang-ghar-reversed-2048.png",
+      "bytes": 207281,
+      "sha256": "807ebbb57fbc6014b573cea8fe51bbeea54d3661d8187274fa7b31f2694c1c51"
+    },
+    {
+      "path": "logo/png/rang-ghar-reversed-512.png",
+      "bytes": 50297,
+      "sha256": "417cc9b1e4fe2d2426cd9d7ea78a3c38099309f533c19e2d4dc4be6f76f72254"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-charcoal-1024.png",
+      "bytes": 65106,
+      "sha256": "4b1c6ceb373fd1c6a81057310917f9d52c1910bbc3f755c42f1ba80f90dfa7aa"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-charcoal-2048.png",
+      "bytes": 127786,
+      "sha256": "41019f95355dd58964258add10cefc040194fa4dd741a4e182bdc1423bded8d4"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-charcoal-512.png",
+      "bytes": 31157,
+      "sha256": "3b803a21ad937a500c7fa83c3123d576d9ef1efa376ba5f68108ba3aebf04752"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-ivory-1024.png",
+      "bytes": 66440,
+      "sha256": "b8ebe1d88a1177a77be7a26b1d0fd643308a00581f01a135999bcc2bac107e23"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-ivory-2048.png",
+      "bytes": 130586,
+      "sha256": "8becea152f52641ee2c9ec9dd64ebbfed1372e4cb73c8d89b2dd1eaf90540e42"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-ivory-512.png",
+      "bytes": 31895,
+      "sha256": "9b59a7e985497a32d6906ec551a7327f337dbc3c5910652f5f9abf9e6d198f9d"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-maroon-1024.png",
+      "bytes": 65966,
+      "sha256": "93b5573d8a66ddeb9727088fc8f6fdab93b25bfe441c2173046fae92a6bc2c4e"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-maroon-2048.png",
+      "bytes": 129948,
+      "sha256": "3aff4a4488c6e16dca4e4897acbd4a21340c1f468b0ded4417fb4f0e6fd0b163"
+    },
+    {
+      "path": "logo/png/rang-ghar-small-maroon-512.png",
+      "bytes": 31516,
+      "sha256": "87c69f11acf515b66f3a49a701bfc220d93b5a8d1a0f23a31148528e20324fae"
+    },
+    {
+      "path": "logo/source/provenance.json",
+      "bytes": 806,
+      "sha256": "d3ac174bae6b8de636b6e389476f4bf4f2b6d7b1cec266e761946914b4a3b698"
+    },
+    {
+      "path": "logo/source/rang-ghar-original.jpg",
+      "bytes": 184237,
+      "sha256": "89e5141b3746a504878df4daeb994ae38fbb4c0ec4ba6ef924d510a31a0f5767"
+    },
+    {
+      "path": "logo/source/winged-insignia-original.png",
+      "bytes": 1165815,
+      "sha256": "cb5396b78f29381ce06c94afe015f78e688ff467e6331503a785ed16969d864f"
+    },
+    {
+      "path": "logo/svg/favicon-maroon.svg",
+      "bytes": 62916,
+      "sha256": "fc89c3e18338c773efdaf5bfdca257f67ebaadc70aabe0e8b79397691b36ecab"
+    },
+    {
+      "path": "logo/svg/favicon-reversed.svg",
+      "bytes": 62916,
+      "sha256": "4a05325f771318f9c17232b08d2d7aa574cacebaf4feee0b9a1f10e5993d273b"
+    },
+    {
+      "path": "logo/svg/profile-maroon.svg",
+      "bytes": 62922,
+      "sha256": "faceb9edb27b9b21e2530ca9d8159d35cbbc216579a3d1a18e46503df52306b5"
+    },
+    {
+      "path": "logo/svg/profile-reversed.svg",
+      "bytes": 62922,
+      "sha256": "bdd75779fac8b6fe28591fae687df911b928f4a7ad9c80cedf206a7f6b8ca5a8"
+    },
+    {
+      "path": "logo/svg/rang-ghar-master.svg",
+      "bytes": 118349,
+      "sha256": "9f621432a2307d03c61c5a4be7e757b0529178ed85db8e8ec53badef99941667"
+    },
+    {
+      "path": "logo/svg/rang-ghar-monochrome.svg",
+      "bytes": 118349,
+      "sha256": "c1163344f6c2045b533c9293d68b9364061fe7e9722ed3f7083a75d108f24a97"
+    },
+    {
+      "path": "logo/svg/rang-ghar-reversed.svg",
+      "bytes": 118349,
+      "sha256": "f7dcfd174e0e875103d9513e09bc7590244468ac7ff52153a41ab5673fe7937f"
+    },
+    {
+      "path": "logo/svg/rang-ghar-small-charcoal.svg",
+      "bytes": 62815,
+      "sha256": "1f09a74cccec76dbb9825de5dd242086ee01b0fa5124c8362b7dcc6d3b4b5ee4"
+    },
+    {
+      "path": "logo/svg/rang-ghar-small-ivory.svg",
+      "bytes": 62815,
+      "sha256": "0ad962ddcd8dd7bb572b0a9bd565c323adcb71e855517226a23a5fe050a22a14"
+    },
+    {
+      "path": "logo/svg/rang-ghar-small-maroon.svg",
+      "bytes": 62815,
+      "sha256": "0291df83d65f404475c3012171470f00bad70851935d33093f1a6d1d069d3428"
+    },
+    {
+      "path": "previews/assamese-templates.png",
+      "bytes": 500596,
+      "sha256": "7dc83bb385de34dc15a9d3b196b89bb9fef62771c574e8bac8e36720d7635dc3"
+    },
+    {
+      "path": "previews/assamese-templates.svg",
+      "bytes": 1795159,
+      "sha256": "ef477bd8537e88d6aec2d2dc532ebe814ac94e209f159299251ad052bf069c4a"
+    },
+    {
+      "path": "previews/assamese-type-test.png",
+      "bytes": 169056,
+      "sha256": "a0a27ed4fe0504a64df0a07977acf58dade5029197f5b52414117cd010c92aca"
+    },
+    {
+      "path": "previews/logo-system.png",
+      "bytes": 251144,
+      "sha256": "42c36694ae843bc403b7a0b40baea66907db0791b224de2a252fbacb0da8e414"
+    },
+    {
+      "path": "previews/logo-system.svg",
+      "bytes": 614771,
+      "sha256": "f7b87a8314eadee27971ccc7d24194f58d186270feef4bc2d1d50611cf9ba669"
+    },
+    {
+      "path": "previews/social-templates.png",
+      "bytes": 370719,
+      "sha256": "2eb892b57219a66c775c29c164d910081f90c4d11926f9f8e993c83251807b85"
+    },
+    {
+      "path": "previews/social-templates.svg",
+      "bytes": 1857181,
+      "sha256": "705a0a3d1427a3ef8f5c18b30fd443d1b43f380673513672bb843047db2b8a3f"
+    },
+    {
+      "path": "previews/visual-system.png",
+      "bytes": 188440,
+      "sha256": "647deebd498038e2706671730c1c149cb9608de4123c878d9d7153b774dc33d0"
+    },
+    {
+      "path": "scripts/build_kit.py",
+      "bytes": 20295,
+      "sha256": "113029722c866ff4ed49c5b3047cbd043405b4729bf05b79abbee64943b40f1b"
+    },
+    {
+      "path": "scripts/export_kit.py",
+      "bytes": 3360,
+      "sha256": "68b61ad48a5204034bc33514602e0bb74e6f0d84b98bea54d5dd41ddaa6b36ef"
+    },
+    {
+      "path": "scripts/validate_kit.py",
+      "bytes": 4061,
+      "sha256": "39f29c8931fd1678c5f99cde2ae5222a08e532177fbd7cbd52806f6bb387b7e7"
+    },
+    {
+      "path": "templates/png/01-question-as.png",
+      "bytes": 125292,
+      "sha256": "41e399a11234e84e905c7097702c1bd8042e19790d67b4625bcaaf7b58d4acec"
+    },
+    {
+      "path": "templates/png/01-question-en.png",
+      "bytes": 128294,
+      "sha256": "b9cbf84248405291b5316fa5dd482325b84054f728b3e3288faef826a207dc0c"
+    },
+    {
+      "path": "templates/png/02-explanation-as.png",
+      "bytes": 109735,
+      "sha256": "adc06735ec3a2165aa154b5709698d9affeb695bfe4b6ec4c44513a2225f020b"
+    },
+    {
+      "path": "templates/png/02-explanation-en.png",
+      "bytes": 133957,
+      "sha256": "3ec4930c2c8c437f594a2082d992fd56f277fa6e477080a79b52612327c1e9b8"
+    },
+    {
+      "path": "templates/png/03-place-as.png",
+      "bytes": 129904,
+      "sha256": "670da6625337b5fea28a3a541f74dec721d1c638a79af35b1d16edf7885e65eb"
+    },
+    {
+      "path": "templates/png/03-place-en.png",
+      "bytes": 124210,
+      "sha256": "fe38519672cede7336c1fb4648bcbd38c2c2c84a2e108c64b3d34a8e67026822"
+    },
+    {
+      "path": "templates/png/04-opportunity-as.png",
+      "bytes": 134073,
+      "sha256": "2ea2039c954e2ae4ba424460d94abd93115286e3e8d8d40a76d0635fb9fb568d"
+    },
+    {
+      "path": "templates/png/04-opportunity-en.png",
+      "bytes": 131358,
+      "sha256": "420e4f67bc692ccf294b33007a5846a5424e2fd7f20be14c37ee6b20795c8a82"
+    },
+    {
+      "path": "templates/png/05-correction-as.png",
+      "bytes": 122373,
+      "sha256": "051fcc01d4ede97a69c834a5e69a891dda1b0bf673d8db135ff20b42a6efb43b"
+    },
+    {
+      "path": "templates/png/05-correction-en.png",
+      "bytes": 130996,
+      "sha256": "99870f44ceb1bc880ba5e25b0a5a3e0d59ca6c6b543e0d8ae26e7935739cb859"
+    },
+    {
+      "path": "templates/png/06-carousel-start-as.png",
+      "bytes": 488076,
+      "sha256": "8e55eb00f26257c88da611cca5e6f01c67567cb1e1de38e06cff5d3f27445d29"
+    },
+    {
+      "path": "templates/png/06-carousel-start-en.png",
+      "bytes": 499420,
+      "sha256": "2c1932d96dc46f9daf4fa98ddbe881e45b9232f449a0f5d3f86a1508854e8c35"
+    },
+    {
+      "path": "templates/png/07-carousel-end-as.png",
+      "bytes": 111754,
+      "sha256": "8e54d7062d85521b6aa439fcaff6504c2b67e1a884f436972a5e8cc46af74038"
+    },
+    {
+      "path": "templates/png/07-carousel-end-en.png",
+      "bytes": 111967,
+      "sha256": "15955ea5cb24596009c66c498bf5c97c26cedd29aa8bb13048a703285d53e764"
+    },
+    {
+      "path": "templates/png/08-vertical-video-as.png",
+      "bytes": 124289,
+      "sha256": "fc3f5e4aa938c591173727d05c86bcb8bab53ebe75ddfde89fe5d52e2e147c84"
+    },
+    {
+      "path": "templates/png/08-vertical-video-en.png",
+      "bytes": 131139,
+      "sha256": "267ffcf93c104b15237aa9ed463f29bb8211ac4b3796d1df7fa623c5228c9dd0"
+    },
+    {
+      "path": "templates/png/09-assamese-type-test.png",
+      "bytes": 169056,
+      "sha256": "a0a27ed4fe0504a64df0a07977acf58dade5029197f5b52414117cd010c92aca"
+    },
+    {
+      "path": "templates/svg/01-question-as.svg",
+      "bytes": 1558611,
+      "sha256": "63224b3f909d0c7051922bded6aa1e3ef241f78582503e168e6bee00838d22aa"
+    },
+    {
+      "path": "templates/svg/01-question-en.svg",
+      "bytes": 1558246,
+      "sha256": "83fb0d78929f61b7c84dc67520e9ff07ac3c1148736f8923e6b050cacb3e2166"
+    },
+    {
+      "path": "templates/svg/02-explanation-as.svg",
+      "bytes": 1557645,
+      "sha256": "fcf95b52ef2571ee1d3e3168aadc768d01bfc3c656e68858e833f6268a297cf9"
+    },
+    {
+      "path": "templates/svg/02-explanation-en.svg",
+      "bytes": 1557356,
+      "sha256": "ea399e8f33f078a8f80978c4648925523664d669fa6f2abc4b13a462c745949d"
+    },
+    {
+      "path": "templates/svg/03-place-as.svg",
+      "bytes": 1557338,
+      "sha256": "c06127bb097e6793cd5067d5b3fae3b647123eae50865f5b41d4e9f8cecc90bb"
+    },
+    {
+      "path": "templates/svg/03-place-en.svg",
+      "bytes": 1556908,
+      "sha256": "fe3dee232f2109933a2a2954d26a050e0b0e8149fae7ae861fba533a48f90ea2"
+    },
+    {
+      "path": "templates/svg/04-opportunity-as.svg",
+      "bytes": 1558185,
+      "sha256": "1682dc16193176c7fc3152de2c0c3ad036942a4df7085f5ec765fcace786fd79"
+    },
+    {
+      "path": "templates/svg/04-opportunity-en.svg",
+      "bytes": 1557776,
+      "sha256": "a41869091684c1d57c6f3cf0af5179f43302cc605e94595af7b29ae3795f6311"
+    },
+    {
+      "path": "templates/svg/05-correction-as.svg",
+      "bytes": 1557130,
+      "sha256": "a128ec272618aeaabf72271d747da2ef1a10794f29f17368fc8c28635add840f"
+    },
+    {
+      "path": "templates/svg/05-correction-en.svg",
+      "bytes": 1556782,
+      "sha256": "e2dd7f44ef7b69dde06557325731ab2e618f0dbe46ce14ae64390a7e6cb18b1b"
+    },
+    {
+      "path": "templates/svg/06-carousel-start-as.svg",
+      "bytes": 3866167,
+      "sha256": "144efc9811bf8789894190b5626ccc419eb397b4dee1635c23edf978221b3c66"
+    },
+    {
+      "path": "templates/svg/06-carousel-start-en.svg",
+      "bytes": 3866004,
+      "sha256": "9ee1d5ebc24e860d1aa33c3d54a0551c16a459985c667070e380090084d9b1a7"
+    },
+    {
+      "path": "templates/svg/07-carousel-end-as.svg",
+      "bytes": 1556788,
+      "sha256": "c0ad7aad2b0c811163656c1e2d42270229451527896f3a1ca792f1f5f1dd014c"
+    },
+    {
+      "path": "templates/svg/07-carousel-end-en.svg",
+      "bytes": 1556477,
+      "sha256": "00b89a03def0745df1ce8577e3d78299ca80d9e6be4ece4d8f7cf5fb749cd082"
+    },
+    {
+      "path": "templates/svg/08-vertical-video-as.svg",
+      "bytes": 1556863,
+      "sha256": "ef92c111131b2eb70f698188ba04333d7a8aef545848a02fa9c57acdfecd9832"
+    },
+    {
+      "path": "templates/svg/08-vertical-video-en.svg",
+      "bytes": 1556519,
+      "sha256": "822982fad3994f1179ff559dad9737b2191b4c11fd5045a0015de463f70e21f9"
+    },
+    {
+      "path": "templates/svg/09-assamese-type-test.svg",
+      "bytes": 1557208,
+      "sha256": "18a1bea6aa42ba7bb0ee21fcd79249940c9e1a4998d7d58454ae125bb14167d0"
+    },
+    {
+      "path": "templates/template-manifest.json",
+      "bytes": 2611,
+      "sha256": "b2cb4b1ae09354809dc6e970f27fa6cebc5bd1f0978cdd2a10a9aff30a7b0d27"
+    },
+    {
+      "path": "tokens/brand.css",
+      "bytes": 477,
+      "sha256": "76b4a268d190f2d6170e1ff567f6a1e463de2c5fd98294220b80081cea1556b3"
+    },
+    {
+      "path": "tokens/brand.tokens.json",
+      "bytes": 1833,
+      "sha256": "73f174e421a5ce7213c0320f1c4353d461dad3c5b8773a404275cb65b53de229"
+    },
+    {
+      "path": "tokens/visual-system.svg",
+      "bytes": 6856,
+      "sha256": "f5583ecf348358563561c17a4248a10692fc39827b2cb11eb0c2cf8f4fbe6081"
+    },
+    {
+      "path": "wordmarks/outlined/bilingual-maroon.svg",
+      "bytes": 78202,
+      "sha256": "e94a027693a4c310ad502a23c5a822d70006b45b4743478d7a8a0f9695bbcbd4"
+    },
+    {
+      "path": "wordmarks/outlined/bilingual-reversed.svg",
+      "bytes": 78202,
+      "sha256": "a3b7c4f96b5332390d9d0c2f3205ed08d27dd49670e383c1dd89fd0aecc7a828"
+    },
+    {
+      "path": "wordmarks/outlined/horizontal-maroon.svg",
+      "bytes": 67150,
+      "sha256": "3595a881917eca1cd60b33a67a056dee6fdbb46ba709e9e04c42f580c99be082"
+    },
+    {
+      "path": "wordmarks/outlined/horizontal-reversed.svg",
+      "bytes": 67150,
+      "sha256": "b34265870b261d4d742c17363ac1af19217fd77dbdbb984c91a82dfee81fa935"
+    },
+    {
+      "path": "wordmarks/outlined/stacked-maroon.svg",
+      "bytes": 67132,
+      "sha256": "8a5b7ddb018ce65bd50651fa053db29d5e1dec2e86879fab72684cd769910244"
+    },
+    {
+      "path": "wordmarks/outlined/stacked-reversed.svg",
+      "bytes": 67132,
+      "sha256": "e09f51425d89caf739d7217076c770aa16a94c845466a793fbaf33d47f2c264e"
+    },
+    {
+      "path": "wordmarks/png/bilingual-maroon.png",
+      "bytes": 62022,
+      "sha256": "013fccb2862c4a9b003cd87a09441ce9a44f4ce7c500597ce31115d71eb3f622"
+    },
+    {
+      "path": "wordmarks/png/bilingual-reversed.png",
+      "bytes": 62452,
+      "sha256": "ad2262c14481bc507b43e5b9a3089258ab8b36b686d7a0f02c3ddeb8569e7ebc"
+    },
+    {
+      "path": "wordmarks/png/horizontal-maroon.png",
+      "bytes": 51374,
+      "sha256": "66d3e49eafc7dcb68c29c04b3197fb68568898c192693227c748bf84c1c993e7"
+    },
+    {
+      "path": "wordmarks/png/horizontal-reversed.png",
+      "bytes": 51858,
+      "sha256": "6598f9683adc8060db85744967a6a021bd8c0fd4daec2a6dbae5bbd51762f86c"
+    },
+    {
+      "path": "wordmarks/png/stacked-maroon.png",
+      "bytes": 72987,
+      "sha256": "ccb6473fc06d839a9396c0ffd6b78f56b2a820c0f358b48f3534d499f8b42113"
+    },
+    {
+      "path": "wordmarks/png/stacked-reversed.png",
+      "bytes": 73647,
+      "sha256": "f888561fc0950471d1b1856db743a9b7c8c0d09bcf319d9ba1615ff7608b6ce3"
+    },
+    {
+      "path": "wordmarks/svg/bilingual-maroon.svg",
+      "bytes": 118938,
+      "sha256": "aad73cae73b7f6e6180d134d459478e7f304d4ae71fa6325d991798df61f1843"
+    },
+    {
+      "path": "wordmarks/svg/bilingual-reversed.svg",
+      "bytes": 118938,
+      "sha256": "10128cc49ba24ba96b93951e36c6d0ed45d5982e5bc856f9bdb97495eb24c6ff"
+    },
+    {
+      "path": "wordmarks/svg/horizontal-maroon.svg",
+      "bytes": 118661,
+      "sha256": "0f05e199542050786aca1f10ce120fc5b70b9549072ad23351c3d5bef712fde1"
+    },
+    {
+      "path": "wordmarks/svg/horizontal-reversed.svg",
+      "bytes": 118661,
+      "sha256": "03936cb0f95a326645a7b579ebf028994f399baddc8116c48268a534f95258b1"
+    },
+    {
+      "path": "wordmarks/svg/stacked-maroon.svg",
+      "bytes": 118659,
+      "sha256": "daf195f752555455bdb5a0be452180511b98f29d282059709834995a855cd377"
+    },
+    {
+      "path": "wordmarks/svg/stacked-reversed.svg",
+      "bytes": 118659,
+      "sha256": "321886b2c94e9dfd2a2ff8349aec97a54479e8e9c988ad2e805a3be70923f735"
+    }
+  ]
+}

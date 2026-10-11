@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "editable_source": "SVG, live text and named SVG objects",
+  "square_canvas": [
+    1080,
+    1080
+  ],
+  "video_canvas": [
+    1080,
+    1920
+  ],
+  "template_count": 16,
+  "families": [
+    {
+      "name": "question",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "explanation",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "place",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "opportunity",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "correction",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "carousel-start",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "carousel-end",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "vertical-video",
+      "language": "en",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "question",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "explanation",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "place",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "opportunity",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "correction",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "carousel-start",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "carousel-end",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    },
+    {
+      "name": "vertical-video",
+      "language": "as",
+      "status": "editable template; example copy requires publication review"
+    }
+  ],
+  "assamese_status": "Technical font and layout validation; fluent editorial signoff pending."
+}

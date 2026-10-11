@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "color": {
+    "maroon": {
+      "$type": "color",
+      "$value": "#80151A"
+    },
+    "ivory": {
+      "$type": "color",
+      "$value": "#F7F2EC"
+    },
+    "charcoal": {
+      "$type": "color",
+      "$value": "#292929"
+    },
+    "white": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "#3F6B4F"
+    },
+    "border": {
+      "$type": "color",
+      "$value": "#DED4CC"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#6F625B"
+    },
+    "gold": {
+      "$type": "color",
+      "$value": "#A77B37"
+    }
+  },
+  "typography": {
+    "latin": {
+      "family": "Noto Sans",
+      "fallback": "sans-serif"
+    },
+    "assamese": {
+      "family": "Noto Sans Bengali",
+      "fallback": "Noto Sans, sans-serif"
+    },
+    "weights": [
+      400,
+      600,
+      700
+    ],
+    "square1080": {
+      "headline": 68,
+      "body": 38,
+      "label": 24,
+      "caption": 28,
+      "assamese_line_height": 1.5
+    }
+  },
+  "spacing": {
+    "unit": 8,
+    "scale": [
+      8,
+      16,
+      24,
+      32,
+      48,
+      64,
+      80,
+      96
+    ],
+    "square_safe_inset": 80,
+    "video_safe_inset_x": 80,
+    "video_safe_top": 180,
+    "video_safe_bottom": 280
+  },
+  "radii": {
+    "card": 24,
+    "pill": 24,
+    "button": 16
+  },
+  "logo": {
+    "clear_space": "25% of mark height on every side",
+    "detailed_min_width_px": 240,
+    "small_companion_min_width_px": 32,
+    "favicon_16_exception": "Use dedicated icon; identify by silhouette, not architectural detail."
+  },
+  "formats": {
+    "square": [
+      1080,
+      1080
+    ],
+    "vertical": [
+      1080,
+      1920
+    ]
+  },
+  "language_status": "Assamese rendering and glyph coverage tested; independent fluent editorial signoff remains pending."
+}

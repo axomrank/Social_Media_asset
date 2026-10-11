@@ -4,6 +4,8 @@ AxomRank is currently a learning app. Its wider ambition is a trusted starting p
 
 ## Start here
 
+- [Developed brand kit v1](brand-kit/v1/README.md): source-traced logos, wordmark lockups, tokens, fonts and editable English/Assamese social templates.
+
 - [Brand foundation and expansion](docs/brand/BRAND_FOUNDATION.md): present positioning, proposed wider identity, voice and visual authority.
 - [Development roadmap](docs/strategy/DEVELOPMENT_ROADMAP.md): phased work, responsible roles, dependencies and completion gates.
 - [Assets still required](docs/strategy/ASSET_REQUIREMENTS.md): prioritised AI illustrations, real media, maps, templates, audio and information records.

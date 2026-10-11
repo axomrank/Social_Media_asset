@@ -2,6 +2,10 @@
 
 Prepared 11 October 2026. These are proposed production quantities and acceptance criteria. “Not found” means not found in the reviewed project/repository inventory; it does not prove the owner has no such asset elsewhere. Existing history illustrations and campaign outputs are available, but their filenames alone do not establish factual accuracy or publication rights.
 
+## Development update — 11 October 2026
+
+[Brand kit v1](../../brand-kit/v1/README.md) now contains source-traced logo masters, transparent/monochrome/reversed exports, small-size icons, horizontal/stacked/bilingual lockups, JSON/CSS tokens, an editable visual board, bundled licensed fonts and eight social-template families in English and Assamese. The native 3D learning illustration is included with its prompt. Technical QA is recorded; owner adoption and independent fluent Assamese editorial signoff are pending. The original priority table below remains the planning baseline. Real app media, team/contact facts and rights confirmations still need production work.
+
 ## Priority 0 — finish the identity and demonstrate the learning app
 
 | Asset | First production target | Method | Acceptance criteria |

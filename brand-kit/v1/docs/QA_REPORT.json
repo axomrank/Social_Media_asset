@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-11",
+  "result": "pass",
+  "templates_checked": 17,
+  "shaped_text_objects_checked": 159,
+  "missing_assamese_glyphs": [],
+  "text_safe_bounds_failures": [],
+  "transparent_mark_exports_checked": 18,
+  "favicon_sizes": [
+    16,
+    32,
+    48,
+    64,
+    128,
+    256,
+    512
+  ],
+  "logo_vector_raster_embeds": 0,
+  "outlined_wordmark_live_text_elements": 0,
+  "source_trace_foreground_intersection_over_union": 0.993029,
+  "visual_review": [
+    "logo family and actual-size icon preview",
+    "English template contact sheet and cover at full resolution",
+    "Assamese template contact sheet and long-copy stress test",
+    "bilingual wordmark",
+    "visual token board"
+  ],
+  "editorial_status": "Technical shaping/glyph/layout checks complete. Independent fluent Assamese review and owner adoption are pending.",
+  "limitations": [
+    "The detailed mark intentionally becomes a silhouette at favicon size.",
+    "Templates contain sample copy/placeholders, not live notices or real video footage.",
+    "Changing copy requires a new line-fit check."
+  ]
+}

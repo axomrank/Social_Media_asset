@@ -1,0 +1,16 @@
+:root {
+  --axr-maroon: #80151A;
+  --axr-ivory: #F7F2EC;
+  --axr-charcoal: #292929;
+  --axr-white: #FFFFFF;
+  --axr-success: #3F6B4F;
+  --axr-border: #DED4CC;
+  --axr-secondary: #6F625B;
+  --axr-gold: #A77B37;
+  --axr-font-latin: "Noto Sans", sans-serif;
+  --axr-font-assamese: "Noto Sans Bengali", "Noto Sans", sans-serif;
+  --axr-space-unit: 8px;
+  --axr-card-radius: 24px;
+  --axr-square-inset: 80px;
+}
+:lang(as) { font-family: var(--axr-font-assamese); line-height: 1.5; }
